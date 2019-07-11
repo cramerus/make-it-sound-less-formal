@@ -7,7 +7,6 @@ Or
 After all
 Sure
 Of course
-Because
 By the way
 Yet
 Okay
@@ -31,9 +30,7 @@ At least
 Seriously
 In fact
 I'd argue
-Below
 You know
-Here
 You see
 I mean
 If so

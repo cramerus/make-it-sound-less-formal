@@ -1,0 +1,1506 @@
+We consider a rural community as an assemblage of inhabited dwellings whose configuration is determined by the location and size of the arable land sites necessary for family subsistence .
+we consider a rural community as an assemblage of inhabited dwellings whose [setup] is determined by the location and size of the arable land sites necessary for family subsistence .
+
+Conventional images of Jews have this in common with all perceptions of a configuration in which one feature is held constant : images can be both true and false .
+conventional images of jews have this in common with all perceptions of a [setup] in which one feature is held constant : images can be both true and false .
+
+Tragedy presumes such a configuration .
+tragedy presumes such a [setup] .
+
+But briefly , the topping configuration must be examined for its inferences .
+but briefly , the topping [setup] must be examined for its inferences .
+
+And then the application of the count rules to the width ( horizontally ) of the configuration gives us an intial estimate of the probable depth of the decline .
+and then the application of the count rules to the width ( horizontally ) of the [setup] gives us an intial estimate of the probable depth of the decline .
+
+The usefulness of this study and of configuration analysis as well , declines in direct proportion to the dissemination of its use .
+the usefulness of this study and of [setup] analysis as well , declines in direct proportion to the dissemination of its use .
+
+Both the photocathode and the image plane of such an electrode configuration are curved concave as seen from the anode aperture .
+both the photocathode and the image plane of such an electrode [setup] are curved concave as seen from the anode aperture .
+
+But Mr Sutherland revealed further plans for Seymour Street to revert to its original two-way traffic configuration , with a grassed central reservation , and an identical ‘ Georgian ’ terrace built opposite .
+but mr sutherland revealed further plans for seymour street to revert to its original two-way traffic [setup] , with a grassed central reservation , and an identical ‘ georgian ’ terrace built opposite .
+
+10.3 Examples of static characteristics for the four-terminal active network formed by arranging a bipolar junction transistor in the common-emitter configuration ; ( a ) output , ( b ) input , ( c ) forward transfer and ( d ) reverse transfer characteristics .
+10.3 examples of static characteristics for the four-terminal active network formed by arranging a bipolar junction transistor in the common-emitter [setup] ; ( a ) output , ( b ) input , ( c ) forward transfer and ( d ) reverse transfer characteristics .
+
+10.6 ( a ) General , small-signal , hybrid , equivalent circuit and ( b ) small-signal , low-frequency , equivalent circuit of a bipolar junction transistor connected in the common-emitter configuration to a source of e.m.f .
+10.6 ( a ) general , small-signal , hybrid , equivalent circuit and ( b ) small-signal , low-frequency , equivalent circuit of a bipolar junction transistor connected in the common-emitter [setup] to a source of e.m.f .
+
+The hybrid equivalent circuit is especially suited to representing the small-signal amplifying behaviour of a bipolar junction transistor since its parameters are easily determined for the most useful common-emitter configuration by appropriate small-signal measurements .
+the hybrid equivalent circuit is especially suited to representing the small-signal amplifying behaviour of a bipolar junction transistor since its parameters are easily determined for the most useful common-emitter [setup] by appropriate small-signal measurements .
+
+Figure 10.6 ( b ) shows the low-frequency , small-signal , equivalent circuit of a bipolar junction transistor connected in the common-emitter configuration to a source of e.m.f .
+figure 10.6 ( b ) shows the low-frequency , small-signal , equivalent circuit of a bipolar junction transistor connected in the common-emitter [setup] to a source of e.m.f .
+
+With respect to the input and output resistance of the common-emitter configuration , equations ( 10.20 ) and ( 10.22 ) reveal that , no matter what the magnitude of the load resistance or source resistance , and .
+with respect to the input and output resistance of the common-emitter [setup] , equations ( 10.20 ) and ( 10.22 ) reveal that , no matter what the magnitude of the load resistance or source resistance , and .
+
+10.9 ( a ) Inverting and ( b ) noninverting configuration of an operational amplifier .
+10.9 ( a ) inverting and ( b ) noninverting [setup] of an operational amplifier .
+
+In terms of the general feedback models of the preceding section , the inverting configuration is an example of shunt-voltage feedback while the noninverting configuration is an example of series-voltage feedback .
+in terms of the general feedback models of the preceding section , the inverting [setup] is an example of shunt-voltage feedback while the noninverting [setup] is an example of series-voltage feedback .
+
+But , for the inverting configuration , and so that equation ( 10.40 ) is again obtained .
+but , for the inverting [setup] , and so that equation ( 10.40 ) is again obtained .
+
+In the end , though , this idea did n't work too successfully and the sockets were returned to their original configuration .
+in the end , though , this idea did n't work too successfully and the sockets were returned to their original [setup] .
+
+‘ Secondly , a number of acoustic players are coming round to the belief that the 12-fret configuration is the best for tone , which it is .
+‘ secondly , a number of acoustic players are coming round to the belief that the 12-fret [setup] is the best for tone , which it is .
+
+The pickups are three Chandler ‘ Lipsticks ’ with the same switching configuration as the Teardrop model .
+the pickups are three chandler ‘ lipsticks ’ with the same switching [setup] as the teardrop model .
+
+And it was the configuration of the hip bones , rather than other more obvious anatomical differences , that scientists decided , early on , to use as a classification for dinosaur ‘ orders ’ .
+and it was the [setup] of the hip bones , rather than other more obvious anatomical differences , that scientists decided , early on , to use as a classification for dinosaur ‘ orders ’ .
+
+This bone configuration is today found only in birds , hence the origin of the ornithischians .
+this bone [setup] is today found only in birds , hence the origin of the ornithischians .
+
+Seth 's thin lips assumed a configuration that might have passed for a smile .
+seth 's thin lips assumed a [setup] that might have passed for a smile .
+
+But it is in the complex configuration of slopes , dips and valleys immediately behind the village that the greatest vines of Aÿ are found .
+but it is in the complex [setup] of slopes , dips and valleys immediately behind the village that the greatest vines of aÿ are found .
+
+These jettison the shared medium of Ethernet in favour of a star-shaped configuration in which each networked device sits at the end of its own private Ethernet segment , where it gets the benefit of the whole 10Mbps .
+these jettison the shared medium of ethernet in favour of a star-shaped [setup] in which each networked device sits at the end of its own private ethernet segment , where it gets the benefit of the whole 10mbps .
+
+The forces and influences acting on the aircraft including engine power , flying control deflection , aircraft configuration changes , auto-pilot operation , radio navigation coupling with auto-pilot ; also the values of the basic ancillary sources of power such as hydraulic , electrical and pneumatic systems .
+the forces and influences acting on the aircraft including engine power , flying control deflection , aircraft [setup] changes , auto-pilot operation , radio navigation coupling with auto-pilot ; also the values of the basic ancillary sources of power such as hydraulic , electrical and pneumatic systems .
+
+There follows the important task of recording the configuration of the aircraft .
+there follows the important task of recording the [setup] of the aircraft .
+
+Plate 10 Measuring the extension of an operating jack on the crash site high in the Alps to establish the configuration of the aircraft on impact .
+plate 10 measuring the extension of an operating jack on the crash site high in the alps to establish the [setup] of the aircraft on impact .
+
+After getting a good general impression of the state of the wreckage and as much information as he can about the aircraft configuration on impact , he will be mainly concerned in the beginning to establish the intended flight-path and all the circumstances surrounding the flight .
+after getting a good general impression of the state of the wreckage and as much information as he can about the aircraft [setup] on impact , he will be mainly concerned in the beginning to establish the intended flight-path and all the circumstances surrounding the flight .
+
+• The latest radiator and panel configuration with accommodation for trunking and other services .
+• the latest radiator and panel [setup] with accommodation for trunking and other services .
+
+Large clear span skylights to standard and non-standard configuration .
+large clear span skylights to standard and non-standard [setup] .
+
+The Trislander can rapidly be converted to an all-freight configuration , but it is more normal for seats to be removed towards the rear .
+the trislander can rapidly be converted to an all-freight [setup] , but it is more normal for seats to be removed towards the rear .
+
+The long , surprisingly thick mid-mounted wing , a legacy of the Fouga company 's glider-producing background , should endow low induced drag , although the myriad accessory-cooling slots and intakes on the engine casing and odd lumps and bumps of antennas on the aft body must dirty the otherwise-clean tandem configuration .
+the long , surprisingly thick mid-mounted wing , a legacy of the fouga company 's glider-producing background , should endow low induced drag , although the myriad accessory-cooling slots and intakes on the engine casing and odd lumps and bumps of antennas on the aft body must dirty the otherwise-clean tandem [setup] .
+
+: Its Climate and Scenery , 1860 ) : ‘ When Columbus was asked by Queen Isabella to give her some notion of the configuration of Jamaica , it is said that he took up a sheet of paper , and after crushing it in his hand , partly opened it out ; then placing it on the table , he told her Majesty that she would derive a better idea of the island from the crumpled paper than from any description conveyed in words .
+: its climate and scenery , 1860 ) : ‘ when columbus was asked by queen isabella to give her some notion of the [setup] of jamaica , it is said that he took up a sheet of paper , and after crushing it in his hand , partly opened it out ; then placing it on the table , he told her majesty that she would derive a better idea of the island from the crumpled paper than from any description conveyed in words .
+
+On the contrary , there are kites , such as the Barrage with its aeroplane-like wing and tail configuration , that will fly best in trail .
+on the contrary , there are kites , such as the barrage with its aeroplane-like wing and tail [setup] , that will fly best in trail .
+
+Softool Corp , Goleta , California , has released version 2.0 of its CCC/Manager change and configuration management tool for software development , which it will target at the Unix community .
+softool corp , goleta , california , has released version 2.0 of its ccc/manager change and [setup] management tool for software development , which it will target at the unix community .
+
+For instance , you ca n't check out the card 's configuration just by looking at it , and you ca n't change the configuration if you do n't have the set-up utility .
+for instance , you ca n't check out the card 's [setup] just by looking at it , and you ca n't change the [setup] if you do n't have the set-up utility .
+
+Sun has also signed up Tivoli Systems , 3Comm and the Strategic Software Group to add additional features to SunNet including system administration , security and configuration management .
+sun has also signed up tivoli systems , 3comm and the strategic software group to add additional features to sunnet including system administration , security and [setup] management .
+
+As well as a basic management framework a variety of applications are required to suit different commercial environments , including change and configuration management , security management , inventory monitoring and analysis , client/server application management and operations management .
+as well as a basic management framework a variety of applications are required to suit different commercial environments , including change and [setup] management , security management , inventory monitoring and analysis , client/server application management and operations management .
+
+What is needed , as one of his followers has pointed out , is an account of theories which deals with changes ‘ at the level of the limits and consequences of the epistemological configuration they represent ’ , rather than at the level of individuals .
+what is needed , as one of his followers has pointed out , is an account of theories which deals with changes ‘ at the level of the limits and consequences of the epistemological [setup] they represent ’ , rather than at the level of individuals .
+
+Equal-span wings were of three-bay biplane configuration had some dihedral but no stagger and measured 97ft tip-to-tip .
+equal-span wings were of three-bay biplane [setup] had some dihedral but no stagger and measured 97ft tip-to-tip .
+
+The superstructure was practically of sesquiplane configuration , the upper mainplane being of much wider span than the lower .
+the superstructure was practically of sesquiplane [setup] , the upper mainplane being of much wider span than the lower .
+
+Opus customers have telephone access to technical support ( on-site maintenance is an option ) , while prospective customers can call its pre-support team to talk through their requirements and get advice on system configuration etc .
+opus customers have telephone access to technical support ( on-site maintenance is an option ) , while prospective customers can call its pre-support team to talk through their requirements and get advice on system [setup] etc .
+
+Regardless of the Swastika 's configuration , i.e. right-angled or left-angled , the symbol 's significance does not suffer : it merely indicates two opposing principles , evolution and dissolution .
+regardless of the swastika 's [setup] , i.e. right-angled or left-angled , the symbol 's significance does not suffer : it merely indicates two opposing principles , evolution and dissolution .
+
+The symbol is seen on the underparts or pads in a left-handed or anticlockwise configuration , which would become a right-angled or clockwise image if an imprint of the foot was imagined .
+the symbol is seen on the underparts or pads in a left-handed or anticlockwise [setup] , which would become a right-angled or clockwise image if an imprint of the foot was imagined .
+
+His papers illustrate that many living creatures and their parts grow in magnitude only , suffering no actual change in form or overall configuration as they become larger . He states :
+his papers illustrate that many living creatures and their parts grow in magnitude only , suffering no actual change in form or overall [setup] as they become larger . he states :
+
+When the experiment stopped , the crystals reverted to their normal configuration as a cube .
+when the experiment stopped , the crystals reverted to their normal [setup] as a cube .
+
+Dr Sergei Barsamian ( left ) and the author discussing the spiralling vortex configuration found in the form of sea shells .
+dr sergei barsamian ( left ) and the author discussing the spiralling vortex [setup] found in the form of sea shells .
+
+Although Mr Wise regards Windows as being in its fairly early days , he says that the firm is devising a standard configuration for Windows users on the network .
+although mr wise regards windows as being in its fairly early days , he says that the firm is devising a standard [setup] for windows users on the network .
+
+As well as a basic management framework , a variety of applications are required to suit different commercial environments , including change and configuration management , security management , inventory monitoring and analysis , client-server application management and operations management .
+as well as a basic management framework , a variety of applications are required to suit different commercial environments , including change and [setup] management , security management , inventory monitoring and analysis , client-server application management and operations management .
+
+One means suggested for transfer of moisture into the interior of Pangaea has been monsoonal circulation created by the Permian continental configuration .
+one means suggested for transfer of moisture into the interior of pangaea has been monsoonal circulation created by the permian continental [setup] .
+
+5 a would appear to an observer located at the Sun if the line-of-sight makes an angle of 16° with the major axis of the bar : this is the configuration that gives the best agreement with the data .
+5 a would appear to an observer located at the sun if the line-of-sight makes an angle of 16° with the major axis of the bar : this is the [setup] that gives the best agreement with the data .
+
+From an aesthetic perspective , the booths which successfully overcame the white-carpeted department-store ambience were those which staged one-man shows , or accrochages sharply focused upon a few artists , such as Galerie Jule Kewenig of Cologne with Peter Wutherich 's ‘ Literary Watercolour ’ ( 1992 ) , a beautiful , ovoid configuration of books , with titles and spines facing downwards and inwards , in shades of turquoise , green , blue and violet and Sophia Ungers , of Cologne with eight works by painter Stefan Mattes .
+from an aesthetic perspective , the booths which successfully overcame the white-carpeted department-store ambience were those which staged one-man shows , or accrochages sharply focused upon a few artists , such as galerie jule kewenig of cologne with peter wutherich 's ‘ literary watercolour ’ ( 1992 ) , a beautiful , ovoid [setup] of books , with titles and spines facing downwards and inwards , in shades of turquoise , green , blue and violet and sophia ungers , of cologne with eight works by painter stefan mattes .
+
+The shape and configuration of the front points will determine what they are most suitable for .
+the shape and [setup] of the front points will determine what they are most suitable for .
+
+In any event , Canary knew that the only possible solution to create the large numbers of Japanese aircraft was to remanufacture AT–6s and BT–13s to the proper configuration .
+in any event , canary knew that the only possible solution to create the large numbers of japanese aircraft was to remanufacture at–6s and bt–13s to the proper [setup] .
+
+Because of its target-towing days in Sweden the rear cockpit was slightly non-standard , this meant that new perspex panels had to be manufactured to bring the rear cockpit back to Mk 1 configuration , the target cable guides on the tailplane were removed and the tailplane restored to standard fit .
+because of its target-towing days in sweden the rear cockpit was slightly non-standard , this meant that new perspex panels had to be manufactured to bring the rear cockpit back to mk 1 [setup] , the target cable guides on the tailplane were removed and the tailplane restored to standard fit .
+
+The configuration of the shore has a large bearing on tide heights and range , tending to increase in bays and funnel-shape inlets like the Bristol Channel and St Malo , near the Channel Islands , in France .
+the [setup] of the shore has a large bearing on tide heights and range , tending to increase in bays and funnel-shape inlets like the bristol channel and st malo , near the channel islands , in france .
+
+But this influence is often very diffuse , appearing to fulfil leaders ' campaign promises or obligations to interest groups in very symbolic ways , whilst the underlying configuration of policy-making and policy outputs is scarcely affected .
+but this influence is often very diffuse , appearing to fulfil leaders ' campaign promises or obligations to interest groups in very symbolic ways , whilst the underlying [setup] of policy-making and policy outputs is scarcely affected .
+
+Structuralists try to understand change and development as the product of ‘ systems of transformations ’ operating along predetermined lines , and themselves changing along lines predictable from a knowledge of the initial configuration of the system ( Piaget , 1971 ) .
+structuralists try to understand change and development as the product of ‘ systems of transformations ’ operating along predetermined lines , and themselves changing along lines predictable from a knowledge of the initial [setup] of the system ( piaget , 1971 ) .
+
+But no attempt to dismantle radically the fabric of state regulation or public service provision has yet been pushed through in any liberal democracy , so that the public policy configuration now remains quite distinct from that prevailing before 1945 .
+but no attempt to dismantle radically the fabric of state regulation or public service provision has yet been pushed through in any liberal democracy , so that the public policy [setup] now remains quite distinct from that prevailing before 1945 .
+
+Maintaining this configuration requires that the state apparatus should operate with a considerable degree of autonomy from the dominant class fraction , and that the leaders who assemble and co-ordinate the ruling ‘ power bloc ’ should appear on the political stage as independent actors .
+maintaining this [setup] requires that the state apparatus should operate with a considerable degree of autonomy from the dominant class fraction , and that the leaders who assemble and co-ordinate the ruling ‘ power bloc ’ should appear on the political stage as independent actors .
+
+The true significance of witchcraft is only disclosed when it is set within its full configuration of mystical forces ; the same applies to ancestor cults .
+the true significance of witchcraft is only disclosed when it is set within its full [setup] of mystical forces ; the same applies to ancestor cults .
+
+It is thus in one configuration of refulgent meanings the sign of male aggressiveness and manly virtue .
+it is thus in one [setup] of refulgent meanings the sign of male aggressiveness and manly virtue .
+
+Like Loch Hourn , which in configuration it resembles closely , Loch Nevis is an inlet of the Sound of Sleat , initially wide but becoming narrow as it thrusts through the hills .
+like loch hourn , which in [setup] it resembles closely , loch nevis is an inlet of the sound of sleat , initially wide but becoming narrow as it thrusts through the hills .
+
+If one accepts ( and not everyone does : there are some vocal Soviet opponents of the idea ) the theory of continental drift propounded by Alfred Wegener , then the present configuration of the planet derives from the break-up of a single super-continent which he called Pangea , which comprised two lesser continents called Gondwanaland and Laurasia , and a shallow marginal sea named the Tethys .
+if one accepts ( and not everyone does : there are some vocal soviet opponents of the idea ) the theory of continental drift propounded by alfred wegener , then the present [setup] of the planet derives from the break-up of a single super-continent which he called pangea , which comprised two lesser continents called gondwanaland and laurasia , and a shallow marginal sea named the tethys .
+
+The initial configuration of the universe may have been chosen by God , or it may itself have been determined by the laws of science .
+the initial [setup] of the universe may have been chosen by god , or it may itself have been determined by the laws of science .
+
+This involves changing the verb altogether and replacing it with one that has a similar meaning but can be used in a different syntactic configuration .
+this involves changing the verb altogether and replacing it with one that has a similar meaning but can be used in a different syntactic [setup] .
+
+engendered studies that try to enumerate the demands for transport in rural areas and then attempt to change network and service configuration to minimize the subsidy needed and meet the demand so enumerated .
+engendered studies that try to enumerate the demands for transport in rural areas and then attempt to change network and service [setup] to minimize the subsidy needed and meet the demand so enumerated .
+
+Beginning as a noun of process — the culture ( cultivation ) of crops or ( rearing and breeding ) of animals , and by extension the culture ( active cultivation ) of the human mind — it became in the late eighteenth century , especially in German and English , a noun of configuration or generalization of the ‘ spirit ’ which informed the ‘ whole way of life ’ of a distinct people .
+beginning as a noun of process — the culture ( cultivation ) of crops or ( rearing and breeding ) of animals , and by extension the culture ( active cultivation ) of the human mind — it became in the late eighteenth century , especially in german and english , a noun of [setup] or generalization of the ‘ spirit ’ which informed the ‘ whole way of life ’ of a distinct people .
+
+Although the precise configuration of landowners and farmers could vary considerably from village to village , there is little doubt that they formed , from the point of view of the farm worker , a coherent and easily identifiable ruling class against which the farm worker , either individually or collectively , was relatively powerless .
+although the precise [setup] of landowners and farmers could vary considerably from village to village , there is little doubt that they formed , from the point of view of the farm worker , a coherent and easily identifiable ruling class against which the farm worker , either individually or collectively , was relatively powerless .
+
+But we do not generally fall into the trap of believing that a statistical correlation between two variables demonstrates that one is the cause of the other ; it is assumed that the actuation of language change is multi-causal , and we have frequently demonstrated that the speaker-variables interact with one another ( that is , that no speaker-variable all by itself can ‘ explain ' a given configuration of language ) .
+but we do not generally fall into the trap of believing that a statistical correlation between two variables demonstrates that one is the cause of the other ; it is assumed that the actuation of language change is multi-causal , and we have frequently demonstrated that the speaker-variables interact with one another ( that is , that no speaker-variable all by itself can ‘ explain ' a given [setup] of language ) .
+
+This new product range involved a change from skilled technical configuration and test work to volume assembly , with short cycle times on individual operations .
+this new product range involved a change from skilled technical [setup] and test work to volume assembly , with short cycle times on individual operations .
+
+The second principle ‘ was the fixing of workers to jobs whose positions were rigorously determined by the configuration of the machine system ’ .
+the second principle ‘ was the fixing of workers to jobs whose positions were rigorously determined by the [setup] of the machine system ’ .
+
+One was configuration — that is , the right size with the right payload from the routes on which a jet would give an airline the greatest advantage .
+one was [setup] — that is , the right size with the right payload from the routes on which a jet would give an airline the greatest advantage .
+
+This chapter deals with the two most formally complex types of lexical configuration , namely , hierarchies and proportional series .
+this chapter deals with the two most formally complex types of lexical [setup] , namely , hierarchies and proportional series .
+
+The relations between the elements must be such that from any three of the elements the fourth can be uniquely determined . The configuration is thus structured by the following relations of proportionality :
+the relations between the elements must be such that from any three of the elements the fourth can be uniquely determined . the [setup] is thus structured by the following relations of proportionality :
+
+Notice that the following configuration does not constitute a proportional series according to the above definition :
+notice that the following [setup] does not constitute a proportional series according to the above definition :
+
+By now you are well and truly into the region of the great valleys that run off at right-angles from the watershed , the ‘ Pyrenees of the saves ’ , as geographers have tended to name it , to distinguish it from the configuration of the mountains further east , where the valleys are mostly more orthodox and run cross-ways or parallel with the frontier .
+by now you are well and truly into the region of the great valleys that run off at right-angles from the watershed , the ‘ pyrenees of the saves ’ , as geographers have tended to name it , to distinguish it from the [setup] of the mountains further east , where the valleys are mostly more orthodox and run cross-ways or parallel with the frontier .
+
+The police have played a key role in the development of this configuration .
+the police have played a key role in the development of this [setup] .
+
+Whilst these are perhaps the most complex analyses that need to be performed , they are not at present really interactive design programs ; they are simply used for the analysis of a specified configuration .
+whilst these are perhaps the most complex analyses that need to be performed , they are not at present really interactive design programs ; they are simply used for the analysis of a specified [setup] .
+
+System Configuration
+system [setup]
+
+The software configuration must therefore include an additional level of operation over the current systems .
+the software [setup] must therefore include an additional level of operation over the current systems .
+
+The software configuration should thus be capable not only of handling geometry and running analysis programs on the data , but also of selecting the appropriate models for these activities according to the design requests and the functionality specified for those elements .
+the software [setup] should thus be capable not only of handling geometry and running analysis programs on the data , but also of selecting the appropriate models for these activities according to the design requests and the functionality specified for those elements .
+
+To allow further uses to be made of this configuration another data base structure is required .
+to allow further uses to be made of this [setup] another data base structure is required .
+
+If an arrangement is chosen that can not physically pass through its end positions without breaking the couple , then the iterative procedure will state , after a set number of attempts , that it is unable to re-establish the associations in this configuration .
+if an arrangement is chosen that can not physically pass through its end positions without breaking the couple , then the iterative procedure will state , after a set number of attempts , that it is unable to re-establish the associations in this [setup] .
+
+One has to start with a simple physical configuration , solve the corresponding mathematical problem , then solve a similar problem and then another problem , and then a little more difficult problem , and soon .
+one has to start with a simple physical [setup] , solve the corresponding mathematical problem , then solve a similar problem and then another problem , and then a little more difficult problem , and soon .
+
+One often goes to extremes in order to arrive at a physical configuration that is mathematically soluble by simple means .
+one often goes to extremes in order to arrive at a physical [setup] that is mathematically soluble by simple means .
+
+This example does not offer anything new ( we just got the configuration of an infinitely large parallel-plate capacitor ) , but we can see that the method works .
+this example does not offer anything new ( we just got the [setup] of an infinitely large parallel-plate capacitor ) , but we can see that the method works .
+
+Since we have so many variables , and since in each physical configuration only some of them appear , we will record ( just for this chapter ) the non-zero variables in each section heading .
+since we have so many variables , and since in each physical [setup] only some of them appear , we will record ( just for this chapter ) the non-zero variables in each section heading .
+
+We shall rather return to a very simple geometrical configuration for deriving Ohm 's law .
+we shall rather return to a very simple geometrical [setup] for deriving ohm 's law .
+
+We shall investigate here just one more physical configuration where in spite of having a finite current the magnetic field may be disregarded .
+we shall investigate here just one more physical [setup] where in spite of having a finite current the magnetic field may be disregarded .
+
+Let us return to the configuration of two coils on a magnetic core ( Fig .
+let us return to the [setup] of two coils on a magnetic core ( fig .
+
+This may occur in the same physical configuration as that of Fig .
+this may occur in the same physical [setup] as that of fig .
+
+Take the same geometrical configuration as in the previous example but assume that the rectangular coil is moving with a constant velocity u in a direction perpendicular to the straight wire .
+take the same geometrical [setup] as in the previous example but assume that the rectangular coil is moving with a constant velocity u in a direction perpendicular to the straight wire .
+
+He says ‘ the demand for the all-round grocery clerk , fruiterer and vegetable dealer , dairyman , butcher , and so forth , has long ago been replaced by a labor configuration in the supermarkets which calls for truck unloaders , shelf stockers , checkout clerks , meat wrappers , and meat cutters ; of these only the last retain any semblance of skill , and none require any general knowledge of retail trade ’ .
+he says ‘ the demand for the all-round grocery clerk , fruiterer and vegetable dealer , dairyman , butcher , and so forth , has long ago been replaced by a labor [setup] in the supermarkets which calls for truck unloaders , shelf stockers , checkout clerks , meat wrappers , and meat cutters ; of these only the last retain any semblance of skill , and none require any general knowledge of retail trade ’ .
+
+The left part of each half shows the stimulus configuration which produced the pattern of impulses shown in the right part .
+the left part of each half shows the stimulus [setup] which produced the pattern of impulses shown in the right part .
+
+The point is that almost any configuration of events with which an individual is likely to be associated in public carries the risk of a worst possible meaning which might reflect unfavourably upon him , and it is a sign of intact mental functioning that one recognises this risk , without of course being incapacitated by the thought , and at the same time that one is equipped to perform repair work if and when infractions occur .
+the point is that almost any [setup] of events with which an individual is likely to be associated in public carries the risk of a worst possible meaning which might reflect unfavourably upon him , and it is a sign of intact mental functioning that one recognises this risk , without of course being incapacitated by the thought , and at the same time that one is equipped to perform repair work if and when infractions occur .
+
+So long as the broad configuration of the economy remains capitalist , with enterprises producing commodities for profit , ‘ Industrial Democracy , is bound to function merely as a means of incorporating workers , representatives into a capitalistic rationality .
+so long as the broad [setup] of the economy remains capitalist , with enterprises producing commodities for profit , ‘ industrial democracy , is bound to function merely as a means of incorporating workers , representatives into a capitalistic rationality .
+
+Around each bend , a new configuration of arches , pillars , temples , cathedrals and amphitheatres peels into view , eroded rock forms which geologists have sought to describe in architectural terms , but which in scale and complexity dwarf the largest creations of man .
+around each bend , a new [setup] of arches , pillars , temples , cathedrals and amphitheatres peels into view , eroded rock forms which geologists have sought to describe in architectural terms , but which in scale and complexity dwarf the largest creations of man .
+
+It was not unusual for the configuration of a deep space vessel to be unbalanced .
+it was not unusual for the [setup] of a deep space vessel to be unbalanced .
+
+However , to classify this secondary discourse in a pejorative sense is to remain blind to the dynamic configuration of Nizan 's narrative technique .
+however , to classify this secondary discourse in a pejorative sense is to remain blind to the dynamic [setup] of nizan 's narrative technique .
+
+In each novel the specific configuration of the two discourses , authoritative communist on the one hand , disorientating existential on the other , is the product of two overriding influences : first , the economic , political , ideological and cultural forces that together produced each particular text ; secondly , and this is but a super-structural reflection of the first point , Nizan 's divided ambitions as a novelist , attempting at one level to exploit bourgeois culture in order to disseminate communist ideology effectively ( the communist project ) , and at another level to create a cultural product of value beyond its immediate moment of production ( the bourgeois project ) .
+in each novel the specific [setup] of the two discourses , authoritative communist on the one hand , disorientating existential on the other , is the product of two overriding influences : first , the economic , political , ideological and cultural forces that together produced each particular text ; secondly , and this is but a super-structural reflection of the first point , nizan 's divided ambitions as a novelist , attempting at one level to exploit bourgeois culture in order to disseminate communist ideology effectively ( the communist project ) , and at another level to create a cultural product of value beyond its immediate moment of production ( the bourgeois project ) .
+
+It is consequently immediately apparent that the central problematic in Nizan 's first novel is the tension between ideology and metaphysics as reflected in the configuration of communist and existential discourses within the text itself .
+it is consequently immediately apparent that the central problematic in nizan 's first novel is the tension between ideology and metaphysics as reflected in the [setup] of communist and existential discourses within the text itself .
+
+To human beings it might appear as a random jumble of instrumentation , but to those of the Doctor 's civilisation one glance at its internal configuration would enable the pilot to work out his position in time and space .
+to human beings it might appear as a random jumble of instrumentation , but to those of the doctor 's civilisation one glance at its internal [setup] would enable the pilot to work out his position in time and space .
+
+The artist would reproduce that grid onto a studio canvas in a proportionately larger scale , using it as a sequence of reference points by which to plot and paint up the landscape configuration exactly to the Design drawing .
+the artist would reproduce that grid onto a studio canvas in a proportionately larger scale , using it as a sequence of reference points by which to plot and paint up the landscape [setup] exactly to the design drawing .
+
+‘ And Pool will be a configuration of electrical charges on zero-mass particles ?
+‘ and pool will be a [setup] of electrical charges on zero-mass particles ?
+
+Let us suppose that the tiles have numbers 1 , 2 , 3 , … 8 , and that the goal is the configuration where the empty space is in the middle .
+let us suppose that the tiles have numbers 1 , 2 , 3 , … 8 , and that the goal is the [setup] where the empty space is in the middle .
+
+Unlike Fighter ) , which was fitted with a Tandem keel , Rulor 1 had a more conventional fin configuration with short winglets .
+unlike fighter ) , which was fitted with a tandem keel , rulor 1 had a more conventional fin [setup] with short winglets .
+
+In some circumstances one might seek a maximally parallel version of a program , but it is more likely that one will be attempting to optimise it for a particular configuration .
+in some circumstances one might seek a maximally parallel version of a program , but it is more likely that one will be attempting to optimise it for a particular [setup] .
+
+These fluctuations and delays may be further complicated by airflow variations at the static vents induced by changes of aircraft configuration eg during the operations of flaps or landing gear .
+these fluctuations and delays may be further complicated by airflow variations at the static vents induced by changes of aircraft [setup] eg during the operations of flaps or landing gear .
+
+During any in-flight manoeuvre involving change of aircraft attitude — and also during any change in the aerodynamic configuration of the aircraft — absolute reliance should not be placed on instantaneous reading , or indicated rates-of-change or pressure dependent instruments .
+during any in-flight manoeuvre involving change of aircraft attitude — and also during any change in the aerodynamic [setup] of the aircraft — absolute reliance should not be placed on instantaneous reading , or indicated rates-of-change or pressure dependent instruments .
+
+What is the point of that meeting taking place when we are deciding the configuration of any pension settlement ?
+what is the point of that meeting taking place when we are deciding the [setup] of any pension settlement ?
+
+The underlying connection reflects an adherence to a moral solution to the configuration of demands which he and the staff must confront .
+the underlying connection reflects an adherence to a moral solution to the [setup] of demands which he and the staff must confront .
+
+Coastal configuration ( e.g .
+coastal [setup] ( e.g .
+
+The wraith of a smile was still strung across the chief inspector 's lips — a configuration they fell into naturally when the brain behind them was puzzled — as Dexter unglued one eyelid and focused his eyes on her .
+the wraith of a smile was still strung across the chief inspector 's lips — a [setup] they fell into naturally when the brain behind them was puzzled — as dexter unglued one eyelid and focused his eyes on her .
+
+the seas and the oceans , the earth 's rotation , and the modification imposed upon tides by coastal configuration produces tides of varying range from virtually nil in many oceanic situations to very high figures at the head of certain bays and estuaries , for example 15 m ( 50 ft ) at the head of the Bay of Fundy and 12 m ( 40 ft ) at Avonmouth in the Bristol Channel .
+the seas and the oceans , the earth 's rotation , and the modification imposed upon tides by coastal [setup] produces tides of varying range from virtually nil in many oceanic situations to very high figures at the head of certain bays and estuaries , for example 15 m ( 50 ft ) at the head of the bay of fundy and 12 m ( 40 ft ) at avonmouth in the bristol channel .
+
+a concern with configuration , i.e. is the chain of command long or short . The advantage of this formal approach to organisations is that it shows how organisational objectives can be reached by :
+a concern with [setup] , i.e. is the chain of command long or short . the advantage of this formal approach to organisations is that it shows how organisational objectives can be reached by :
+
+configuration in terms of the different levels within a hierarchical structure ;
+[setup] in terms of the different levels within a hierarchical structure ;
+
+Note-successions can be exactly the same ( as in the series ) , but it is their rhythmic configuration which determines whether they form melody of classical or completely non-classical character .
+note-successions can be exactly the same ( as in the series ) , but it is their rhythmic [setup] which determines whether they form melody of classical or completely non-classical character .
+
+It is just possible that this far-off configuration will be unstable , and that the Sun will draw the Moon away into an independent orbit around the Sun , leaving the Earth Moon-less .
+it is just possible that this far-off [setup] will be unstable , and that the sun will draw the moon away into an independent orbit around the sun , leaving the earth moon-less .
+
+Energetic particles can also be produced in collisions between particles , and particles can be accelerated via changes in the position of the magnetopause resulting from variations in the solar wind , and by changes in the magnetic field configuration in the magnetotail .
+energetic particles can also be produced in collisions between particles , and particles can be accelerated via changes in the position of the magnetopause resulting from variations in the solar wind , and by changes in the magnetic field [setup] in the magnetotail .
+
+( 4 ) This de-differentiation of signifier and referent is not just a matter of every-day life being experienced as a spatio-temporal configuration of signifiers , it is also a matter of the content of properly cultural objects themselves .
+( 4 ) this de-differentiation of signifier and referent is not just a matter of every-day life being experienced as a spatio-temporal [setup] of signifiers , it is also a matter of the content of properly cultural objects themselves .
+
+Eventually , after an hour of torment , Jeopardy swung out of a configuration with the words , ‘ It is clear we will accomplish little today .
+eventually , after an hour of torment , jeopardy swung out of a [setup] with the words , ‘ it is clear we will accomplish little today .
+
+We had performed the movement so many times , our bodies slipping past each other into a new configuration .
+we had performed the movement so many times , our bodies slipping past each other into a new [setup] .
+
+The new configuration must be fully operational by Sunday 14 March 1993
+the new [setup] must be fully operational by sunday 14 march 1993
+
+The engineer must decide upon the configuration of wells and the extraction method for optimal recovery .
+the engineer must decide upon the [setup] of wells and the extraction method for optimal recovery .
+
+The specific trend features mosaics of circular-concentric configuration , whereas the general one features mosaics of relatively complex , strictly axial geometries .
+the specific trend features mosaics of circular-concentric [setup] , whereas the general one features mosaics of relatively complex , strictly axial geometries .
+
+In his reconstruction , Neal envisages a large central roundel connected to the outer octagon by eight short spokes , although the exact configuration of the centre of this mosaic remains conjectural .
+in his reconstruction , neal envisages a large central roundel connected to the outer octagon by eight short spokes , although the exact [setup] of the centre of this mosaic remains conjectural .
+
+Information is always and only perceptible in one configuration or another , and so is always theory-driven or theory-moulded .
+information is always and only perceptible in one [setup] or another , and so is always theory-driven or theory-moulded .
+
+, on the basis of the particular configuration of goals , situational constraints and discoursal conventions in which he or she is operating .
+, on the basis of the particular [setup] of goals , situational constraints and discoursal conventions in which he or she is operating .
+
+The males have a well developed bursa and two spicules , the configuration of which is used for species differentiation .
+the males have a well developed bursa and two spicules , the [setup] of which is used for species differentiation .
+
+An unequal span biplane , the London had all-metal , fabric-covered wings ( except metal-covered upper surfaces on lower inner wings ) of two-bay configuration .
+an unequal span biplane , the london had all-metal , fabric-covered wings ( except metal-covered upper surfaces on lower inner wings ) of two-bay [setup] .
+
+The simplest configuration in principle ( although not in practice ) is a flow with uniform velocity and density gradients .
+the simplest [setup] in principle ( although not in practice ) is a flow with uniform velocity and density gradients .
+
+Such a configuration has been achieved using a special wind-tunnel with graded heated elements and flow resistance grids at its entry .
+such a [setup] has been achieved using a special wind-tunnel with graded heated elements and flow resistance grids at its entry .
+
+The configuration with which we are concerned is that of Fig .
+the [setup] with which we are concerned is that of fig .
+
+The existence of a second decaying solution , which would occur on its own only if one had an initially large disturbance of just the right configuration , is irrelevant . )
+the existence of a second decaying solution , which would occur on its own only if one had an initially large disturbance of just the right [setup] , is irrelevant . )
+
+Using Cartesian coordinates with z vertical , a velocity field of the form together with temperature and pressure perturbations of similar form are superimposed on the equilibrium configuration .
+using cartesian coordinates with z vertical , a velocity field of the form together with temperature and pressure perturbations of similar form are superimposed on the equilibrium [setup] .
+
+The knowledge that this is what occurs comes primarily from stability theory — applied not to the rest configuration as in Section 22.2 , but to the various possible convective structures .
+the knowledge that this is what occurs comes primarily from stability theory — applied not to the rest [setup] as in section 22.2 , but to the various possible convective structures .
+
+The most immediate examples of this are ones in which the imposed density variations are entirely vertical ; as in Chapter 22 , this implies that any motion is the consequence of instability of the rest configuration .
+the most immediate examples of this are ones in which the imposed density variations are entirely vertical ; as in chapter 22 , this implies that any motion is the consequence of instability of the rest [setup] .
+
+In this chapter we consider primarily the configuration mentioned above — a fluid layer with the net density decreasing upwards as a result of opposing contributions from heat and salt .
+in this chapter we consider primarily the [setup] mentioned above — a fluid layer with the net density decreasing upwards as a result of opposing contributions from heat and salt .
+
+Linear stability theory applied to a configuration of the Bénard sort with appropriate concentration and temperature differences across the layer indicates motions of a salt finger type .
+linear stability theory applied to a [setup] of the bénard sort with appropriate concentration and temperature differences across the layer indicates motions of a salt finger type .
+
+Experimentally one can not set up just this configuration because of the difficulty in imposing constant concentration boundary conditions ( Section 14.3 ) .
+experimentally one can not set up just this [setup] because of the difficulty in imposing constant concentration boundary conditions ( section 14.3 ) .
+
+In general , the most readily practicable experiments are ones in which an initial density distribution is set up and there is then some evolution of the configuration during the course of the experiment .
+in general , the most readily practicable experiments are ones in which an initial density distribution is set up and there is then some evolution of the [setup] during the course of the experiment .
+
+For the most part , such solutions ultimately tend to one of the stable steady state solutions — thus confirming , for example , that the consequence of the instability of the rest configuration when r > 1 is a transition to one of the two steady solutions with circulation .
+for the most part , such solutions ultimately tend to one of the stable steady state solutions — thus confirming , for example , that the consequence of the instability of the rest [setup] when r > 1 is a transition to one of the two steady solutions with circulation .
+
+Another fruitful configuration has been rotating Couette flow ( Section 17.5 ) .
+another fruitful [setup] has been rotating couette flow ( section 17.5 ) .
+
+Whether this interference is constructive or destructive depends on the optical path difference , and so the pattern of bright and dark bands reflects the pattern of constant density surfaces ( in a two-dimensional flow configuration ) .
+whether this interference is constructive or destructive depends on the optical path difference , and so the pattern of bright and dark bands reflects the pattern of constant density surfaces ( in a two-dimensional flow [setup] ) .
+
+Meanwhile , in this country , it had become accepted that having a big summer show was the norm , so we did one on abstraction followed by one on configuration .
+meanwhile , in this country , it had become accepted that having a big summer show was the norm , so we did one on abstraction followed by one on [setup] .
+
+Frugivorous birds , by eating fruits of preferred species in preferred proportions , co-ordinate the dispersal of particular species , so that in the long run , the birds will modify their habitats in terms of the nutritional configuration or the spatial arrangement of the local fruiting plants .
+frugivorous birds , by eating fruits of preferred species in preferred proportions , co-ordinate the dispersal of particular species , so that in the long run , the birds will modify their habitats in terms of the nutritional [setup] or the spatial arrangement of the local fruiting plants .
+
+3.4.2 Pre-collision history and configuration of converging continental margins
+3.4.2 pre-collision history and [setup] of converging continental margins
+
+The configuration of continental margins and the angle at which they converge also affects significantly the nature of the orogenic belt that develops ( Fig .
+the [setup] of continental margins and the angle at which they converge also affects significantly the nature of the orogenic belt that develops ( fig .
+
+( 1977 ) on suture zones , Molnar and Gray ( 1979 ) on the question of limited continental subduction and Sengor ( 1976 ) on the effects of the irregular configuration of converging continental margins .
+( 1977 ) on suture zones , molnar and gray ( 1979 ) on the question of limited continental subduction and sengor ( 1976 ) on the effects of the irregular [setup] of converging continental margins .
+
+The form they take is a function of both the viscosity of the magma and the configuration of fractures and other lines of weakness in the country rock .
+the form they take is a function of both the viscosity of the magma and the [setup] of fractures and other lines of weakness in the country rock .
+
+If the information content , represented by the magnetic configuration of the disc coating , is what makes a set of discs Windows , then does ‘ Windows 1.0 , condition poor ’ mean anything ?
+if the information content , represented by the magnetic [setup] of the disc coating , is what makes a set of discs windows , then does ‘ windows 1.0 , condition poor ’ mean anything ?
+
+In the Panopticon , the flow of information was dependent on a special architectural configuration : it arose from a specific spatial ordering of the relationship between watcher and watched .
+in the panopticon , the flow of information was dependent on a special architectural [setup] : it arose from a specific spatial ordering of the relationship between watcher and watched .
+
+Implicit in this argument , though not explored , was the idea that current models of design understanding , with all their weaknesses , were not accidental — that in fact they grew out of the present configuration .
+implicit in this argument , though not explored , was the idea that current models of design understanding , with all their weaknesses , were not accidental — that in fact they grew out of the present [setup] .
+
+That implied that a new social configuration may well give rise to new forms of designing … Except that to say this like this negates some of the significance of what has been said earlier .
+that implied that a new social [setup] may well give rise to new forms of designing … except that to say this like this negates some of the significance of what has been said earlier .
+
+Particularly noteworthy is the following sequence of sentences proposed by five of the six groups : The justification for this configuration rested on both the formal aspects of the language system and on the background assumptions of the participants themselves .
+particularly noteworthy is the following sequence of sentences proposed by five of the six groups : the justification for this [setup] rested on both the formal aspects of the language system and on the background assumptions of the participants themselves .
+
+Almost invariably , sentence ( j ) precedes both ( c ) and ( g ) , the most common configuration across all groups being : The justification offered for this sequence is illuminating .
+almost invariably , sentence ( j ) precedes both ( c ) and ( g ) , the most common [setup] across all groups being : the justification offered for this sequence is illuminating .
+
+Group 2 argued , for instance , that this configuration is not only cohesively linked by a broad lexical set including the items `` rained `` , `` water `` and `` wet `` , but it is also linked in terms of an implicit cause-and-effect relationship between the propositions expressed by each sentence .
+group 2 argued , for instance , that this [setup] is not only cohesively linked by a broad lexical set including the items `` rained `` , `` water `` and `` wet `` , but it is also linked in terms of an implicit cause-and-effect relationship between the propositions expressed by each sentence .
+
+Moreover , although the ( h ) — ( b ) configuration is widespread in the reconstructions , no group even contemplated this as an appropriate ending to the story .
+moreover , although the ( h ) — ( b ) [setup] is widespread in the reconstructions , no group even contemplated this as an appropriate ending to the story .
+
+Another consequence of this pattern is that ( c ) and ( g ) are now side by side — a configuration which was ruled out by every group .
+another consequence of this pattern is that ( c ) and ( g ) are now side by side — a [setup] which was ruled out by every group .
+
+Thirdly , there is an autonomous definition of conservatism in which conservatism is not necessarily connected to any economic group and is not rooted in a particular historical configuration .
+thirdly , there is an autonomous definition of conservatism in which conservatism is not necessarily connected to any economic group and is not rooted in a particular historical [setup] .
+
+the memory configuration to meet the individual requirements ;
+the memory [setup] to meet the individual requirements ;
+
+Please detail the costs of each configuration separately , in tabular form as follows :
+please detail the costs of each [setup] separately , in tabular form as follows :
+
+Please identify the cost of running each proposed configuration separately as follows :
+please identify the cost of running each proposed [setup] separately as follows :
+
+The standard of service obtained by a lexicographer at a primary-use terminal is determined by various demands made on the configuration of equipment and software .
+the standard of service obtained by a lexicographer at a primary-use terminal is determined by various demands made on the [setup] of equipment and software .
+
+The physical limitations of the processor and memory in the existing configuration are reflected quantitatively in the performance of the system .
+the physical limitations of the processor and memory in the existing [setup] are reflected quantitatively in the performance of the system .
+
+They frequently equate the first phoneme only with the graphic display , and then apply configuration and context cues , or merely wild guessing , to the rest of the word .
+they frequently equate the first phoneme only with the graphic display , and then apply [setup] and context cues , or merely wild guessing , to the rest of the word .
+
+Like the 107 , the 103/4 employs a dual bass driver configuration comprising two 160mm drivers in a double coupledcavity configuration .
+like the 107 , the 103/4 employs a dual bass driver [setup] comprising two 160mm drivers in a double coupledcavity [setup] .
+
+Artist 's drawing of 103/4 showing dual coupled-cavity bass configuration
+artist 's drawing of 103/4 showing dual coupled-cavity bass [setup]
+
+In general terms , if you can not see the water surface you should trim and fly the aeroplane at the speed and configuration which gives the best combination of high nose attitude , low airspeed and minimum rate of descent .
+in general terms , if you can not see the water surface you should trim and fly the aeroplane at the speed and [setup] which gives the best combination of high nose attitude , low airspeed and minimum rate of descent .
+
+There is an ‘ elective affinity ’ between the social structure of American society and ‘ psychologism ’ — that is , the popularized version of psychoanalytic theory which Berger thinks predominates as a general socio-cultural configuration .
+there is an ‘ elective affinity ’ between the social structure of american society and ‘ psychologism ’ — that is , the popularized version of psychoanalytic theory which berger thinks predominates as a general socio-cultural [setup] .
+
+The main elements of this configuration are : that there is an unconscious which affects actions in ways the conscious self can not understand without interpretative aids ; that sexuality is a key area of human conduct , and childhood a key phase of human biography ; that culture can be understood as a scene of interaction between unconscious motor forces and consciously established norms .
+the main elements of this [setup] are : that there is an unconscious which affects actions in ways the conscious self can not understand without interpretative aids ; that sexuality is a key area of human conduct , and childhood a key phase of human biography ; that culture can be understood as a scene of interaction between unconscious motor forces and consciously established norms .
+
+In this way , such a configuration becomes a self-fulfilling prophecy , because people come to form their self-understanding on the basis of ‘ psychologism ’ and the theory seems to be confirmed in people 's experience as a result of this process .
+in this way , such a [setup] becomes a self-fulfilling prophecy , because people come to form their self-understanding on the basis of ‘ psychologism ’ and the theory seems to be confirmed in people 's experience as a result of this process .
+
+‘ We worked very closely with them on the hardware configuration , first in Oslo and then on the boat in Singapore , checking that our resources were capable of what we wanted to do .
+‘ we worked very closely with them on the hardware [setup] , first in oslo and then on the boat in singapore , checking that our resources were capable of what we wanted to do .
+
+The incomplete , sluggish and/or mistaken adjustments to changing economic signals that can be found in the Keynesian and monetarist short-run situations are removed from the new classical world by economic agents ' incentives and their ability to use full information to adjust to any new configuration of nominal variables as rapidly as possible .
+the incomplete , sluggish and/or mistaken adjustments to changing economic signals that can be found in the keynesian and monetarist short-run situations are removed from the new classical world by economic agents ' incentives and their ability to use full information to adjust to any new [setup] of nominal variables as rapidly as possible .
+
+And now , as he sat staring fixedly at the floral configuration on the faded green carpet , he felt a little sad as he thought of Laura , his wife for only the last couple of years .
+and now , as he sat staring fixedly at the floral [setup] on the faded green carpet , he felt a little sad as he thought of laura , his wife for only the last couple of years .
+
+That the dandruff flecks on his left shoulder formed the configuration of Ursa Major .
+that the dandruff flecks on his left shoulder formed the [setup] of ursa major .
+
+This might seem onerous but it guarantees that configuration control is maintained and , with some care , should be a very unusual occurrence .
+this might seem onerous but it guarantees that [setup] control is maintained and , with some care , should be a very unusual occurrence .
+
+it checks that the given configuration file does exist
+it checks that the given [setup] file does exist
+
+Check that the configuration file exists , and that you have read access to it .
+check that the [setup] file exists , and that you have read access to it .
+
+Action Check that the Process Directory name is correct in the configuration file .
+action check that the process directory name is correct in the [setup] file .
+
+Keyword <keyword> not properly defined in configuration file
+keyword <keyword> not properly defined in [setup] file
+
+Check that the configuration file is pointing to the correct Process Directory .
+check that the [setup] file is pointing to the correct process directory .
+
+where < config filename > is replaced by the full pathname of the configuration file ; eg .
+where < config filename > is replaced by the full pathname of the [setup] file ; eg .
+
+checks for the existence of the input configuration file in the specified directory .
+checks for the existence of the input [setup] file in the specified directory .
+
+Action Check that the configuration file exists , and that you have read access to it .
+action check that the [setup] file exists , and that you have read access to it .
+
+Action Check that you have read access to the configuration file .
+action check that you have read access to the [setup] file .
+
+Keyword <keyword name> not properly defined in configuration file .
+keyword <keyword name> not properly defined in [setup] file .
+
+Action Check the configuration file for syntax in the line beginning with | < keyword name > | .
+action check the [setup] file for syntax in the line beginning with | < keyword name > | .
+
+where < config filename > is replaced by the full pathname of the configuration file , eg .
+where < config filename > is replaced by the full pathname of the [setup] file , eg .
+
+Action Check that the configuration file exists , and that you have read access to it .
+action check that the [setup] file exists , and that you have read access to it .
+
+Action Check that you have read access to the configuration file .
+action check that you have read access to the [setup] file .
+
+Keyword <keyword name> not properly defined in configuration file .
+keyword <keyword name> not properly defined in [setup] file .
+
+Action Check the configuration file for syntax in the line beginning with | < keyword name > | .
+action check the [setup] file for syntax in the line beginning with | < keyword name > | .
+
+The rest of this section talks you through the operations required to complete the entry and approval of the configuration file .
+the rest of this section talks you through the operations required to complete the entry and approval of the [setup] file .
+
+When mail tells you that the configuration file module has also ‘ Scanned OKay ’ , you are ready to submit the package for approval .
+when mail tells you that the [setup] file module has also ‘ scanned okay ’ , you are ready to submit the package for approval .
+
+Section 3.3 looks at some of the parameters in the configuration file not covered in Section 2.4 .
+section 3.3 looks at some of the parameters in the [setup] file not covered in section 2.4 .
+
+Finally , restart the process : where <config filename> is the full pathname of the relevant configuration file .
+finally , restart the process : where <config filename> is the full pathname of the relevant [setup] file .
+
+where <config filename> is the full pathname of the relevant configuration file .
+where <config filename> is the full pathname of the relevant [setup] file .
+
+Simply move any contents of the directory to the new location ( on the same device , directory name maximum 20 characters including square brackets ) and edit the configuration file accordingly .
+simply move any contents of the directory to the new location ( on the same device , directory name maximum 20 characters including square brackets ) and edit the [setup] file accordingly .
+
+Changing Process Parameters in the Configuration File
+changing process parameters in the [setup] file
+
+The remaining fields in the configuration file are used by the Module Version Management and Hard Copy facilities .
+the remaining fields in the [setup] file are used by the module version management and hard copy facilities .
+
+This method ensures configuration control of software issues , and forms what is equally clearly the prerequisite of software management .
+this method ensures [setup] control of software issues , and forms what is equally clearly the prerequisite of software management .
+
+The achievement of a highly reliable level of software management is currently the most important step that must be taken towards overall control of software production , configuration and issue .
+the achievement of a highly reliable level of software management is currently the most important step that must be taken towards overall control of software production , [setup] and issue .
+
+However , the primary functions of the system — production control support and configuration control — routinely involve only three elements :
+however , the primary functions of the system — production control support and [setup] control — routinely involve only three elements :
+
+Configuration Control
+[setup] control
+
+One of the principal requirements of configuration management is to establish ‘ baselines ’ .
+one of the principal requirements of [setup] management is to establish ‘ baselines ’ .
+
+This breaks one of the basic tenets of configuration management ; that once an object is identified , then the identifier must always refer to an identical object .
+this breaks one of the basic tenets of [setup] management ; that once an object is identified , then the identifier must always refer to an identical object .
+
+This is a direct result of making the history of a module an essential part of the module itself , and subject to configuration control .
+this is a direct result of making the history of a module an essential part of the module itself , and subject to [setup] control .
+
+It is recognised that full configuration control of software is not limited to source code and that it is desirable to control the whole environment in which the target machine-code is produced .
+it is recognised that full [setup] control of software is not limited to source code and that it is desirable to control the whole environment in which the target machine-code is produced .
+
+The underlying principle of configuration control states that it should be possible at any time during the lifetime of a supported product to reconstruct a particular supported version of it to ensure that if a change is agreed and installed , then that change and no other would occur . In order to do this with absolute certainty the following must be true :
+the underlying principle of [setup] control states that it should be possible at any time during the lifetime of a supported product to reconstruct a particular supported version of it to ensure that if a change is agreed and installed , then that change and no other would occur . in order to do this with absolute certainty the following must be true :
+
+The hardware must be in an identical configuration for each reconstruction of a software emission .
+the hardware must be in an identical [setup] for each reconstruction of a software emission .
+
+There are a range of job titles in use in most organisations , some inherent in design and production and some specific to the requirements of configuration control and computer operation .
+there are a range of job titles in use in most organisations , some inherent in design and production and some specific to the requirements of [setup] control and computer operation .
+
+Configuration Manager
+[setup] manager
+
+The configuration manager has access privileges to ensure that a particular software configuration is ready for emission as a product , i.e .
+the [setup] manager has access privileges to ensure that a particular software [setup] is ready for emission as a product , i.e .
+
+The Hard Copy system works on the basis of charge codes : when a particular charge code is specified in the configuration file , as described later in this section , all modules with that charge code , except those specified using the description and code filter , will be hard copied .
+the hard copy system works on the basis of charge codes : when a particular charge code is specified in the [setup] file , as described later in this section , all modules with that charge code , except those specified using the description and code filter , will be hard copied .
+
+Configuration File This must be edited for each hard copy run , to contain the keywords which dictate the format of the hard copy volume sets and the charge codes for which modules should be hard copied .
+[setup] file this must be edited for each hard copy run , to contain the keywords which dictate the format of the hard copy volume sets and the charge codes for which modules should be hard copied .
+
+Module images are produced in pages as in a computer listing , but are ordered and displayed differently according to the media type chosen , and the settings in the configuration file , as described later . There are three types of media which can be used with the hard copy system :
+module images are produced in pages as in a computer listing , but are ordered and displayed differently according to the media type chosen , and the settings in the [setup] file , as described later . there are three types of media which can be used with the hard copy system :
+
+The attributes specifed in the configuration file allow the layout of the page to be formatted to suit the printer used .
+the attributes specifed in the [setup] file allow the layout of the page to be formatted to suit the printer used .
+
+maintaining the configuration file for each hard copy run .
+maintaining the [setup] file for each hard copy run .
+
+Configuration File
+[setup] file
+
+< config filename > is the full pathname of the configuration file , eg .
+< config filename > is the full pathname of the [setup] file , eg .
+
+The hard copy formatter opens one or more volumes in the hard copy directory for each charge code specified in the configuration file , when it finds the first module which is associated with the given charge code and which has not been hard copied .
+the hard copy formatter opens one or more volumes in the hard copy directory for each charge code specified in the [setup] file , when it finds the first module which is associated with the given charge code and which has not been hard copied .
+
+it has the charge code specified in the configuration file .
+it has the charge code specified in the [setup] file .
+
+The Hard Copy Manager may edit the configuration file to allocate more room in the hard copy directory , or to reduce the minimum fill mark of the volumes , or the manager may reduce the number of charge codes for which the run is being made ; the manager may make both adjustments if necessary .
+the hard copy manager may edit the [setup] file to allocate more room in the hard copy directory , or to reduce the minimum fill mark of the volumes , or the manager may reduce the number of charge codes for which the run is being made ; the manager may make both adjustments if necessary .
+
+< config filename > is the full pathname of the configuration file , eg .
+< config filename > is the full pathname of the [setup] file , eg .
+
+Rule 5 The module version has been nominated for a greater period than the nomination latency set in the configuration file .
+rule 5 the module version has been nominated for a greater period than the nomination latency set in the [setup] file .
+
+Configuration File
+[setup] file
+
+When the Module Version Management facilities are required , the configuration file should be set up as described below . The keywords use the following set of common parameters :
+when the module version management facilities are required , the [setup] file should be set up as described below . the keywords use the following set of common parameters :
+
+The user can customise the format of the Listing file by choosing Option 4 Amend Configuration Setup from the interactive menu . The user can :
+the user can customise the format of the listing file by choosing option 4 amend [setup] setup from the interactive menu . the user can :
+
+When the user selects this option the Listing will be prepared as specified , with any customised features the user may have selected via Option 4 Amend Configuration Setup which is described later in this section .
+when the user selects this option the listing will be prepared as specified , with any customised features the user may have selected via option 4 amend [setup] setup which is described later in this section .
+
+Option 4 Amend Configuration Setup
+option 4 amend [setup] setup
+
+Could not access database specified in configuration file
+could not access database specified in [setup] file
+
+Invalid Duration Time specified in configuration file
+invalid duration time specified in [setup] file
+
+Invalid Repeat Time specified in configuration file
+invalid repeat time specified in [setup] file
+
+Invalid Start Time specified in configuration file
+invalid start time specified in [setup] file
+
+Maximum number of user mappings exceeded in configuration file
+maximum number of user mappings exceeded in [setup] file
+
+Unknown database identifier found in configuration file
+unknown database identifier found in [setup] file
+
+There are a range of job titles in use in most organisations , some inherent in design and production and some specific to the requirements of configuration control and computer operation .
+there are a range of job titles in use in most organisations , some inherent in design and production and some specific to the requirements of [setup] control and computer operation .
+
+Configuration Manager
+[setup] manager
+
+The configuration manager has access privileges to ensure that a particular software configuration is ready for emission as a product , i.e .
+the [setup] manager has access privileges to ensure that a particular software [setup] is ready for emission as a product , i.e .
+
+Type Module may only be accessed from the host node in a networked configuration .
+type module may only be accessed from the host node in a networked [setup] .
+
+As Sorauf points out , ‘ political money reflects the configuration of influence on American politics ’ .
+as sorauf points out , ‘ political money reflects the [setup] of influence on american politics ’ .
+
+Provided we have your order by the end of March , whatever configuration you choose , you save almost £500 !
+provided we have your order by the end of march , whatever [setup] you choose , you save almost £500 !
+
+It packs all its power into a compact , low-profile configuration — occupying 30 % less desk space than comparable 486 systems .
+it packs all its power into a compact , low-profile [setup] — occupying 30 % less desk space than comparable 486 systems .
+
+The final section will then examine the socio-economic configuration of support for the two parties .
+the final section will then examine the socio-economic [setup] of support for the two parties .
+
+the influence of home and garden size and configuration in affording or constraining home-based leisure activity ;
+the influence of home and garden size and [setup] in affording or constraining home-based leisure activity ;
+
+An appropriate selection of firms will be made whose knowledge base is currently threatened by new technology or a novel design configuration .
+an appropriate selection of firms will be made whose knowledge base is currently threatened by new technology or a novel design [setup] .
+
+The bridge configuration has the additional complication of base drive isolation for the pair of switching transistors connected to the positive supply rail .
+the bridge [setup] has the additional complication of base drive isolation for the pair of switching transistors connected to the positive supply rail .
+
+As long ago as 1750 , some astronomers were suggesting that the appearance of the Milky Way could be explained if most of the visible stars lie in a single dislike configuration , one example of what we now call a spiral galaxy .
+as long ago as 1750 , some astronomers were suggesting that the appearance of the milky way could be explained if most of the visible stars lie in a single dislike [setup] , one example of what we now call a spiral galaxy .
+
+But how did he choose the initial state or configuration of the universe ?
+but how did he choose the initial state or [setup] of the universe ?
+
+One possible answer is to say that God chose the initial configuration of the universe for reasons that we can not hope to understand .
+one possible answer is to say that god chose the initial [setup] of the universe for reasons that we can not hope to understand .
+
+Under chaotic boundary conditions , the probability of finding any particular region of space in any given configuration just after the big bang is the same , in some sense , as the probability of finding it in any other configuration : the initial state of the universe is chosen purely randomly .
+under chaotic boundary conditions , the probability of finding any particular region of space in any given [setup] just after the big bang is the same , in some sense , as the probability of finding it in any other [setup] : the initial state of the universe is chosen purely randomly .
+
+( If each configuration is equally probable , it is likely that the universe started out in a chaotic and disordered state , simply because there are so many more of them . )
+( if each [setup] is equally probable , it is likely that the universe started out in a chaotic and disordered state , simply because there are so many more of them . )
+
+According to this theory , there are either many different universes or many different regions of a single universe , each with its own initial configuration and , perhaps , with its own set of laws of science .
+according to this theory , there are either many different universes or many different regions of a single universe , each with its own initial [setup] and , perhaps , with its own set of laws of science .
+
+It can not be the case , however , that every initial configuration would have led to a universe like the one we observe .
+it can not be the case , however , that every initial [setup] would have led to a universe like the one we observe .
+
+One could use the laws of science to evolve the universe back in time to determine its configuration at earlier times .
+one could use the laws of science to evolve the universe back in time to determine its [setup] at earlier times .
+
+So even the inflationary model does not tell us why the initial configuration was not such as to produce something very different from what we observe .
+so even the inflationary model does not tell us why the initial [setup] was not such as to produce something very different from what we observe .
+
+Full short cut-keys are available to most menu options and a full configuration and system is included to help set colours , special display characters and all default formatting styles .
+full short cut-keys are available to most menu options and a full [setup] and system is included to help set colours , special display characters and all default formatting styles .
+
+Full short cut-keys are available to most menu options and a full configuration and system is included to help set colours , special display characters and all default formatting styles .
+full short cut-keys are available to most menu options and a full [setup] and system is included to help set colours , special display characters and all default formatting styles .
+
+The HelpDesk Request screen provides Client History and Inventory buttons which will allow us to view past specific requests for support as well as the configuration of the machine on which the problem was experienced .
+the helpdesk request screen provides client history and inventory buttons which will allow us to view past specific requests for support as well as the [setup] of the machine on which the problem was experienced .
+
+The Easy Boot main screen consists of fifteen buttons , each one corresponding to a boot-up configuration .
+the easy boot main screen consists of fifteen buttons , each one corresponding to a boot-up [setup] .
+
+Do you want to have Easy Boot pop up when you switch the machine on and ask you which configuration you want to use ?
+do you want to have easy boot pop up when you switch the machine on and ask you which [setup] you want to use ?
+
+If you have a variety of programs with varying demands on your system , the most difficult task facing you , under normal circumstances , is to get the configuration details sorted out so that everything runs , but maybe not at its best .
+if you have a variety of programs with varying demands on your system , the most difficult task facing you , under normal circumstances , is to get the [setup] details sorted out so that everything runs , but maybe not at its best .
+
+Starting at the software end of the project will help us to determine the hardware configuration best suited to the task .
+starting at the software end of the project will help us to determine the hardware [setup] best suited to the task .
+
+The settings you make will be accessed by all your Windows applications — so you only need to make them once unless you alter your system configuration .
+the settings you make will be accessed by all your windows applications — so you only need to make them once unless you alter your system [setup] .
+
+Installation of the software which is supplied on just one disk , does n't take long , but it does ask you questions about the configuration of your system such as which kind of computer is being used , the name of the graphics adapter and the resolution .
+installation of the software which is supplied on just one disk , does n't take long , but it does ask you questions about the [setup] of your system such as which kind of computer is being used , the name of the graphics adapter and the resolution .
+
+Add to this the numerous configuration options , hot key support for changing parameters once loaded and something called Staged Write , and you have a real winner .
+add to this the numerous [setup] options , hot key support for changing parameters once loaded and something called staged write , and you have a real winner .
+
+This means putting the software , hardware and data in a practical and reliable configuration .
+this means putting the software , hardware and data in a practical and reliable [setup] .
+
+Built around a supremely non-standard hardware configuration , costly to acquire and complex to use , it was not even supported by a steady subsequent flow of new , compatible software so the investment in the hardware could be amortised across a range of classroom applications .
+built around a supremely non-standard hardware [setup] , costly to acquire and complex to use , it was not even supported by a steady subsequent flow of new , compatible software so the investment in the hardware could be amortised across a range of classroom applications .
+
+Studies of the dilute solution behaviour of polymers with a specific stereostructure have revealed that the unperturbed dimensions may depend on the chain configuration .
+studies of the dilute solution behaviour of polymers with a specific stereostructure have revealed that the unperturbed dimensions may depend on the chain [setup] .
+
+If the size of a polymer chain can be affected by its configuration , the microstructure must be well characterized before an accurate assessment of experimental data can be made .
+if the size of a polymer chain can be affected by its [setup] , the microstructure must be well characterized before an accurate assessment of experimental data can be made .
+
+measurements three consecutive monomer units in a chain are considered to define a configuration and called a triad .
+measurements three consecutive monomer units in a chain are considered to define a [setup] and called a triad .
+
+This configuration was , John argued , propitious for the overall growth of the economy .
+this [setup] was , john argued , propitious for the overall growth of the economy .
+
+Compact hobs are about 550 × 450 mm ( 21 × 17in ) but if you have space , go for a large hob to take awkward-sized pans : you do n't have to limit yourself to a simple , square configuration there 's no reason why you should n't have two or three small hobs in different places .
+compact hobs are about 550 × 450 mm ( 21 × 17in ) but if you have space , go for a large hob to take awkward-sized pans : you do n't have to limit yourself to a simple , square [setup] there 's no reason why you should n't have two or three small hobs in different places .
+
+The reflectance is highest when the angle of view is close to that of illumination , which as we shall see is the preferred configuration in this project .
+the reflectance is highest when the angle of view is close to that of illumination , which as we shall see is the preferred [setup] in this project .
+
+The task of price theory is not seen as primarily concerned with the configuration of prices and quantities that satisfies the conditions for equilibrium .
+the task of price theory is not seen as primarily concerned with the [setup] of prices and quantities that satisfies the conditions for equilibrium .
+
+Any increase in overburden pressure in an unconsolidated sediment tends to result in a denser configuration of that sediment by movement between the individual grains and the consequent grain reorientation .
+any increase in overburden pressure in an unconsolidated sediment tends to result in a denser [setup] of that sediment by movement between the individual grains and the consequent grain reorientation .
+
+Once the grains within an uncemented sediment have assumed their densest configuration by slippage on grain surfaces , grain reorientation and fracture of radical grains , overburden pressure is transferred through grain to grain contacts , commonly point contacts ( Fig .
+once the grains within an uncemented sediment have assumed their densest [setup] by slippage on grain surfaces , grain reorientation and fracture of radical grains , overburden pressure is transferred through grain to grain contacts , commonly point contacts ( fig .
+
+There is no tradition of marrying on a Saturday in India ; a marriage takes place only when the heavens revolve into the most auspicious configuration .
+there is no tradition of marrying on a saturday in india ; a marriage takes place only when the heavens revolve into the most auspicious [setup] .
+
+The room was carpeted in a very thick fawn carpet with a wave-like configuration in its pile .
+the room was carpeted in a very thick fawn carpet with a wave-like [setup] in its pile .
+
+Abrams explained this in terms of a particular configuration of economic factors affecting the United States at this time .
+abrams explained this in terms of a particular [setup] of economic factors affecting the united states at this time .
+
+Therefore , if someone develops a new form of layout for the components in a computer or a new configuration for printed circuit boards , these are unlikely to be granted patents .
+therefore , if someone develops a new form of layout for the components in a computer or a new [setup] for printed circuit boards , these are unlikely to be granted patents .
+
+However , the layout of components and the configuration of a printed circuit board may be protected by copyright through any drawings which have been made indicating the layout or by the design right .
+however , the layout of components and the [setup] of a printed circuit board may be protected by copyright through any drawings which have been made indicating the layout or by the design right .
+
+Section 1 of the Registered Designs Act 1949 , as amended , defines registrable designs as being : … features of shape , configuration or ornament applied to an article by any industrial process , being features which in the finished article appeal to and are judged by the eye .
+section 1 of the registered designs act 1949 , as amended , defines registrable designs as being : … features of shape , [setup] or ornament applied to an article by any industrial process , being features which in the finished article appeal to and are judged by the eye .
+
+Certain things are excluded from registration such as a method or principle of construction or features of shape or configuration dictated solely by the function the article has to perform , or which depend upon the appearance of another article of which it is intended to form an integral part .
+certain things are excluded from registration such as a method or principle of construction or features of shape or [setup] dictated solely by the function the article has to perform , or which depend upon the appearance of another article of which it is intended to form an integral part .
+
+The second exception is subdivided into features of shape or configuration of an article which : i ) enable the article to be connected to , or placed in , around or against , another article so that either article may perform its function ( the `` must-fit `` exception ) , or ii ) are dependant upon the appearance of another article of which the article is intended by the designer to form an integral part ( the `` must-match `` exception ) .
+the second exception is subdivided into features of shape or [setup] of an article which : i ) enable the article to be connected to , or placed in , around or against , another article so that either article may perform its function ( the `` must-fit `` exception ) , or ii ) are dependant upon the appearance of another article of which the article is intended by the designer to form an integral part ( the `` must-match `` exception ) .
+
+Alternatively , they could be considered to be protected by the design right as a configuration when all the components are mounted onto the board .
+alternatively , they could be considered to be protected by the design right as a [setup] when all the components are mounted onto the board .
+
+( Figure 5.2 gives a view of one possible configuration of this screen . )
+( figure 5.2 gives a view of one possible [setup] of this screen . )
+
+By showing clearly such relationships between the structures , the memory load for the student is lightened and the total configuration of the language pattern becomes clearer .
+by showing clearly such relationships between the structures , the memory load for the student is lightened and the total [setup] of the language pattern becomes clearer .
+
+The deepest `` energy well `` in a symmetrical polymer such as polyethylene corresponds to the chain configuration in which the atoms of the side groups are as far apart from each other as possible .
+the deepest `` energy well `` in a symmetrical polymer such as polyethylene corresponds to the chain [setup] in which the atoms of the side groups are as far apart from each other as possible .
+
+This gives the planar zigzag chain configuration and this is termed the trans form .
+this gives the planar zigzag chain [setup] and this is termed the trans form .
+
+This of course implies that the minimum energy configuration of an isolated chain is the extended planar zigzag if the polymer is a symmetric one , for example polyethylene , polyvinylchloride or polytetrafluoroethylene .
+this of course implies that the minimum energy [setup] of an isolated chain is the extended planar zigzag if the polymer is a symmetric one , for example polyethylene , polyvinylchloride or polytetrafluoroethylene .
+
+The actual configuration taken up in a solvent , in the liquid or in the solid , will , however , depend upon the sum total of all the interactions whether intrachain or interchain rather than upon the nearest neighbours only .
+the actual [setup] taken up in a solvent , in the liquid or in the solid , will , however , depend upon the sum total of all the interactions whether intrachain or interchain rather than upon the nearest neighbours only .
+
+The temperature at which this freedom of the chains to take up any configuration allowed by the bond angle cone occurs will depend upon the chemical composition of the polymer , which , in turn , determines the depth and shape of the energy wells governing the probability of any configuration through a Boltzmann factor .
+the temperature at which this freedom of the chains to take up any [setup] allowed by the bond angle cone occurs will depend upon the chemical composition of the polymer , which , in turn , determines the depth and shape of the energy wells governing the probability of any [setup] through a boltzmann factor .
+
+If the direction is reversed the defect is called a fold , while if the defect causes neither displacement nor reversal of direction but only a local disordering of the zigzag configuration it is called a kink .
+if the direction is reversed the defect is called a fold , while if the defect causes neither displacement nor reversal of direction but only a local disordering of the zigzag [setup] it is called a kink .
+
+In the analysis of large-strain elasticity and in continuum mechanics it is usual to refer stresses not to the original ( unstrained ) configuration but to the current configuration ( strained ) .
+in the analysis of large-strain elasticity and in continuum mechanics it is usual to refer stresses not to the original ( unstrained ) [setup] but to the current [setup] ( strained ) .
+
+At high temperatures the configurational entropy will be high and there will be many ways for molecules to be packed , with no one configuration preferred over another .
+at high temperatures the configurational entropy will be high and there will be many ways for molecules to be packed , with no one [setup] preferred over another .
+
+In such a fluid , the stress at time t depends upon the previous history of the configuration existing at time t .
+in such a fluid , the stress at time t depends upon the previous history of the [setup] existing at time t .
+
+The theory makes important predictions regarding the change of chain configuration during deformation and relaxation and these are measurable by monitoring the radius of gyration tensor .
+the theory makes important predictions regarding the change of chain [setup] during deformation and relaxation and these are measurable by monitoring the radius of gyration tensor .
+
+3 . How do the properties of the chain manifest themselves in the bulk ? That is , how are macroscopic properties such as modulus , yield strength or viscosity related to the molecular properties such as chain length ( molecular weight ) , configuration , shape , and interchain and intrachain forces ?
+3 . how do the properties of the chain manifest themselves in the bulk ? that is , how are macroscopic properties such as modulus , yield strength or viscosity related to the molecular properties such as chain length ( molecular weight ) , [setup] , shape , and interchain and intrachain forces ?
+
+All patients were treated with the Piezolith 2300 , Wolf , which has a bowl shaped configuration and bears a mosaic of 3000 ceramic elements on its concave surface .
+all patients were treated with the piezolith 2300 , wolf , which has a bowl shaped [setup] and bears a mosaic of 3000 ceramic elements on its concave surface .
+
+The configuration can appear stable , however , when perceived as taking place on the circumference of a circle and viewed in perspective .
+the [setup] can appear stable , however , when perceived as taking place on the circumference of a circle and viewed in perspective .
+
+In her favour , though , was the configuration of the Aqueduct track : at a little over seven furlongs round it is very tight , and demands the pace to lie in a handy position , the balance to negotiate the turns , and the acceleration to dominate the race in the home straight .
+in her favour , though , was the [setup] of the aqueduct track : at a little over seven furlongs round it is very tight , and demands the pace to lie in a handy position , the balance to negotiate the turns , and the acceleration to dominate the race in the home straight .
+
+They did not and they could not think of themselves as remotely like a frog and a princess , yet mental shapes similar in heritage or configuration managed to creep stealthily up in between the tangles of their individual cells .
+they did not and they could not think of themselves as remotely like a frog and a princess , yet mental shapes similar in heritage or [setup] managed to creep stealthily up in between the tangles of their individual cells .
+
+Can be straight , single or double-wind configuration .
+can be straight , single or double-wind [setup] .
+
+The new 3.6-litre engine , of flat-six configuration like its predecessor but otherwise totally new , also ensures the Carrera 4 is one of the fastest sports cars in the world in a straight line .
+the new 3.6-litre engine , of flat-six [setup] like its predecessor but otherwise totally new , also ensures the carrera 4 is one of the fastest sports cars in the world in a straight line .
+
+The control movements needed to achieve this vary according to the configuration of the undercarriage .
+the control movements needed to achieve this vary according to the [setup] of the undercarriage .
+
+Solitaire boards are normally circular and have 33 circular depressions or sockets for the playing pieces ( marbles ) arranged on six lines in a cross configuration .
+solitaire boards are normally circular and have 33 circular depressions or sockets for the playing pieces ( marbles ) arranged on six lines in a cross [setup] .
+
+These photographs — ‘ my life 's blood ’ — are pinned to his bench enabling him to check the size and configuration of the newly-carved elements .
+these photographs — ‘ my life 's blood ’ — are pinned to his bench enabling him to check the size and [setup] of the newly-carved elements .
+
+The configuration and deployment of diving bells is defined , but in the air range it is not clear cut and therefore controversial .
+the [setup] and deployment of diving bells is defined , but in the air range it is not clear cut and therefore controversial .
+
+‘ For years we had been trying to lower and streamline the bonnets of front-engined cars and the mid-engined configuration allowed us to obtain an extremely low nose , deeply recessed between sculpted front wings that sloped down to the headlights , which were contained in a plexiglass fairing to continue the line .
+‘ for years we had been trying to lower and streamline the bonnets of front-engined cars and the mid-engined [setup] allowed us to obtain an extremely low nose , deeply recessed between sculpted front wings that sloped down to the headlights , which were contained in a plexiglass fairing to continue the line .
+
+Calculations make it possible to compare and contrast molecular configuration or perturbations with experimental results and ‘ at times ’ can expose them as possibly accurate or inaccurate .
+calculations make it possible to compare and contrast molecular [setup] or perturbations with experimental results and ‘ at times ’ can expose them as possibly accurate or inaccurate .
+
+For two lithiums substituted in cis configuration the difference would be a mere 5 calmol-1 ( the trans isomer is much less favourable ) .
+for two lithiums substituted in cis [setup] the difference would be a mere 5 calmol-1 ( the trans isomer is much less favourable ) .
+
+In the solid state however , most dithiazoles have a dimeric structure analogous to , with the rings in a trans configuration .
+in the solid state however , most dithiazoles have a dimeric structure analogous to , with the rings in a trans [setup] .
+
+Furthermore , how should the particular configuration of , for example , the community social work team ( promoted by one of its main advocates as ‘ true genericism ’ , ( Jordan , 1982 ) ) or the intake team ( Gostick and Scott , 1982 ) be encompassed ?
+furthermore , how should the particular [setup] of , for example , the community social work team ( promoted by one of its main advocates as ‘ true genericism ’ , ( jordan , 1982 ) ) or the intake team ( gostick and scott , 1982 ) be encompassed ?
+
+Gedge 's resentment of priggishness would seem to have its configuration in the outlandishly dressed Duane .
+gedge 's resentment of priggishness would seem to have its [setup] in the outlandishly dressed duane .
+
+As Annette Kuhn has argued , Hollywood as a ‘ dream-machine ’ under the studio system worked as a configuration of forces acting together , of which cinematic characteristics , as well as the institutional framework of economic structures and power relations in the industry were an important part .
+as annette kuhn has argued , hollywood as a ‘ dream-machine ’ under the studio system worked as a [setup] of forces acting together , of which cinematic characteristics , as well as the institutional framework of economic structures and power relations in the industry were an important part .
+
+‘ Also , it changes our view of ourselves and nature to think of all creatures as just genetic programmes in temporary configuration .
+‘ also , it changes our view of ourselves and nature to think of all creatures as just genetic programmes in temporary [setup] .
+
+The multi-dimensional scaling configuration resulting from processing the ‘ degree of intermarriage ’ values might therefore be expected to reflect geographical location of the villages .
+the multi-dimensional scaling [setup] resulting from processing the ‘ degree of intermarriage ’ values might therefore be expected to reflect geographical location of the villages .
+
+Unfortunately , where woodstopping has been used , it is usually apparent as it breaks the natural grain configuration .
+unfortunately , where woodstopping has been used , it is usually apparent as it breaks the natural grain [setup] .
+
+16 for processing , one redundant device and one configuration controller .
+16 for processing , one redundant device and one [setup] controller .
+
+The signal then goes to a second amplifier/filter of the same configuration also with a corner frequency of about 0.3Hz .
+the signal then goes to a second amplifier/filter of the same [setup] also with a corner frequency of about 0.3hz .
+
+The mill is of conventional layout , of three floors plus attic configuration , and still retains much of its machinery .
+the mill is of conventional layout , of three floors plus attic [setup] , and still retains much of its machinery .
+
+If you need to go to a six wheeler the performance is still impressive in 6 x 4 configuration with a trailing dead axle .
+if you need to go to a six wheeler the performance is still impressive in 6 x 4 [setup] with a trailing dead axle .
+
+But what part of the body is affected can depend on which radioactive element the person is exposed to , and also which ‘ isotope ’ — a specific atomic configuration of that element .
+but what part of the body is affected can depend on which radioactive element the person is exposed to , and also which ‘ isotope ’ — a specific atomic [setup] of that element .
+
+In all these projects , what has become clear is that software configuration control is essential .
+in all these projects , what has become clear is that software [setup] control is essential .
+
+Knowing their speed from the films and their weight and limb lengths , McMahon found that the configuration of motion in human walking perfectly matched what he had predicted from 19th-century physics .
+knowing their speed from the films and their weight and limb lengths , mcmahon found that the [setup] of motion in human walking perfectly matched what he had predicted from 19th-century physics .
+
+To produce this picture a computer program included a specification for both the position of the eye ( the view-point ) and the plane on to which the three-dimensional configuration is projected . It also had to solve the problem of ‘ hidden lines ’ : how do you tell the computer not to draw those lines that the eye would not be able to see ?
+to produce this picture a computer program included a specification for both the position of the eye ( the view-point ) and the plane on to which the three-dimensional [setup] is projected . it also had to solve the problem of ‘ hidden lines ’ : how do you tell the computer not to draw those lines that the eye would not be able to see ?
+
+The polyacetylene chain can adopt two different shapes , called cis and trans ; where the trans configuration is the most chemically stable .
+the polyacetylene chain can adopt two different shapes , called cis and trans ; where the trans [setup] is the most chemically stable .
+
+Late in January , 1982 , as the season was ending and the weather deteriorating , a member of the American team accompanied a visiting geologist on a long snowmobile traverse to examine the regional configuration of the ice sheet .
+late in january , 1982 , as the season was ending and the weather deteriorating , a member of the american team accompanied a visiting geologist on a long snowmobile traverse to examine the regional [setup] of the ice sheet .
+
+More strikingly , it demonstrated that a toroidal discharge in a toroidal magnetic field established its own stable configuration .
+more strikingly , it demonstrated that a toroidal discharge in a toroidal magnetic field established its own stable [setup] .
+
+The sphere is the configuration with minimum energy consistent with a fundamental ‘ exclusion principle ’ that states that each momentum state may contain at most two electrons .
+the sphere is the [setup] with minimum energy consistent with a fundamental ‘ exclusion principle ’ that states that each momentum state may contain at most two electrons .
+
+Given this situation , the particular configuration of state , ideology , custom , kinship etc .
+given this situation , the particular [setup] of state , ideology , custom , kinship etc .
+
+So all creatures have their own world of physical reality , a world defined entirely by their mind configuration .
+so all creatures have their own world of physical reality , a world defined entirely by their mind [setup] .
+
+The sensory and motor indriyas are an integral part of the internal mind configuration of all living creatures .
+the sensory and motor indriyas are an integral part of the internal mind [setup] of all living creatures .
+
+That is a natural part of being that particular creature , of being surrounded by that particular configuration of mental and tattvic apparatus .
+that is a natural part of being that particular creature , of being surrounded by that particular [setup] of mental and tattvic apparatus .
+
+The more complete the tattvic configuration , then the greater the capacity for learning .
+the more complete the tattvic [setup] , then the greater the capacity for learning .
+
+They simply lack the subtle energy fields or mental configuration in which such an appreciation of physical reality can arise .
+they simply lack the subtle energy fields or mental [setup] in which such an appreciation of physical reality can arise .
+
+The inner mind is simply different in its essential configuration .
+the inner mind is simply different in its essential [setup] .
+
+We talk about the world according to our human mind configuration .
+we talk about the world according to our human mind [setup] .
+
+Conscious effort can correct the natural outlines of the Earth 's surface to a more perfect configuration which will conserve and accumulate ch'i to the natural benefit of Earth , Man and Heaven … Ch'i is naturally accumulated and may be enhanced at certain points in the Earth by the application of landscape alterations made in accordance with feng shui rules .
+conscious effort can correct the natural outlines of the earth 's surface to a more perfect [setup] which will conserve and accumulate ch'i to the natural benefit of earth , man and heaven … ch'i is naturally accumulated and may be enhanced at certain points in the earth by the application of landscape alterations made in accordance with feng shui rules .
+
+In turn , I was led to doubt that we can prestate the “ configuration space ” of a biosphere .
+in turn , i was led to doubt that we can prestate the “ [setup] space ” of a biosphere .
+
+In statistical mechanics , with its famous liter box of gas as an isolated thermodynamic system , we can prestate the configuration space of all possible positions and momenta of the gas particles in the box .
+in statistical mechanics , with its famous liter box of gas as an isolated thermodynamic system , we can prestate the [setup] space of all possible positions and momenta of the gas particles in the box .
+
+Then Ludwig Boltzmann and Willard Gibbs taught us how to calculate macroscopic properties such as pressure and temperature as equilibrium averages over the configuration space .
+then ludwig boltzmann and willard gibbs taught us how to calculate macroscopic properties such as pressure and temperature as equilibrium averages over the [setup] space .
+
+What if we can not prestate the configuration space of a biosphere and calculate with Newton ’ s “ method of fluxions , ” the calculus , from initial and boundary conditions and laws ?
+what if we can not prestate the [setup] space of a biosphere and calculate with newton ’ s “ method of fluxions , ” the calculus , from initial and boundary conditions and laws ?
+
+What is the place of law if , as hinted above , the variables and configuration space can not be prespecified for a biosphere , or perhaps a universe ?
+what is the place of law if , as hinted above , the variables and [setup] space can not be prespecified for a biosphere , or perhaps a universe ?
+
+If , as I will suggest , we can not prestate the configuration space , variables , laws , initial and boundary conditions of a biosphere , if we can not foretell a biosphere , we can , nevertheless , tell the stories as it unfolds .
+if , as i will suggest , we can not prestate the [setup] space , variables , laws , initial and boundary conditions of a biosphere , if we can not foretell a biosphere , we can , nevertheless , tell the stories as it unfolds .
+
+In the presence of lactose , however , the lactose binds to the repressor protein and changes its configuration such that the repressor leaves the operator , freeing it .
+in the presence of lactose , however , the lactose binds to the repressor protein and changes its [setup] such that the repressor leaves the operator , freeing it .
+
+I will argue that the configuration space of a biosphere can not be finitely prestated , that persistent novelty occurs in the biosphere and universe as a whole .
+i will argue that the [setup] space of a biosphere can not be finitely prestated , that persistent novelty occurs in the biosphere and universe as a whole .
+
+I will opine that if we can not finitely prestate the configuration space of a biosphere , then something is odd with how we have been taught to do our science , for in Newtonian physics , Einstein ’ s physics , and Bohr ’ s physics , one can finitely prestate the configuration space in question .
+i will opine that if we can not finitely prestate the [setup] space of a biosphere , then something is odd with how we have been taught to do our science , for in newtonian physics , einstein ’ s physics , and bohr ’ s physics , one can finitely prestate the [setup] space in question .
+
+In chapter 10 , borrowing on joint work with quantum gravity scholar and friend , Lee Smolin , I will suggest that if we can not prestate the configuration space of a universe then “ time ” is real and necessary , and that the way a universe constructs itself may have analogies to the way a biosphere constructs itself .
+in chapter 10 , borrowing on joint work with quantum gravity scholar and friend , lee smolin , i will suggest that if we can not prestate the [setup] space of a universe then “ time ” is real and necessary , and that the way a universe constructs itself may have analogies to the way a biosphere constructs itself .
+
+As we will see below = where I give grounds to think that we can not prestate the configuration space of a biosphere , hence can not prestate the adaptations that may come to exist in an evolving biosphere = real macroscopic physical systems that are autonomous agents may not be constrained in what they can produce , as is a formal mathematical algebraic symbol system .
+as we will see below = where i give grounds to think that we can not prestate the [setup] space of a biosphere , hence can not prestate the adaptations that may come to exist in an evolving biosphere = real macroscopic physical systems that are autonomous agents may not be constrained in what they can produce , as is a formal mathematical algebraic symbol system .
+
+Indeed , I suspect that the persistent innovations in a biosphere stem in no small measure from the fact that while we can not prestate the configuration space of a biosphere , the categories relevant to its unfolding novel functionalities , the biosphere is not hampered by our failure at categorization .
+indeed , i suspect that the persistent innovations in a biosphere stem in no small measure from the fact that while we can not prestate the [setup] space of a biosphere , the categories relevant to its unfolding novel functionalities , the biosphere is not hampered by our failure at categorization .
+
+Another way of stating this is to say that there is no finite prestatement of the configuration space of a biosphere .
+another way of stating this is to say that there is no finite prestatement of the [setup] space of a biosphere .
+
+We can not prestate the configuration space of the biosphere .
+we can not prestate the [setup] space of the biosphere .
+
+You see , we have indeed been taught by our physicist friends to do science by prestating the configuration space in question .
+you see , we have indeed been taught by our physicist friends to do science by prestating the [setup] space in question .
+
+Note that we can finitely specify ahead of time the 6N-dimensional configuration space of the gas , that is , all the positions and momenta of the N gas particles in three-dimensional-space inside the liter box .
+note that we can finitely specify ahead of time the 6n-dimensional [setup] space of the gas , that is , all the positions and momenta of the n gas particles in three-dimensional-space inside the liter box .
+
+Then Boltzmann assumed the ergodic hypothesis about wandering all over the configuration space , did the calculations , and , lo , statistical mechanics is upon us .
+then boltzmann assumed the ergodic hypothesis about wandering all over the [setup] space , did the calculations , and , lo , statistical mechanics is upon us .
+
+Newtonian mechanics : Prestate the initial and boundary conditions , the particles and force laws , and with them the possible configuration space and calculate away .
+newtonian mechanics : prestate the initial and boundary conditions , the particles and force laws , and with them the possible [setup] space and calculate away .
+
+The set of possible solutions is the configuration space allowed by general relativity .
+the set of possible solutions is the [setup] space allowed by general relativity .
+
+In quantum mechanics , one talks of specifying the classical conditions of the experiment , and thereby the configuration space of the quantum system , preparing an initial state , and using Schrödinger ’ s equation to propagate amplitudes for the entire future evolution in the configuration space for all conceivable observables .
+in quantum mechanics , one talks of specifying the classical conditions of the experiment , and thereby the [setup] space of the quantum system , preparing an initial state , and using schrödinger ’ s equation to propagate amplitudes for the entire future evolution in the [setup] space for all conceivable observables .
+
+Again in quantum mechanics , in any specific context the configuration space is to be finitely prestatable , then we follow the deterministic time evolution of the Schrödinger equation in configuration space , square the resulting amplitudes to predict the probabilities of measurements , and then carry out macroscopic measurements .
+again in quantum mechanics , in any specific context the [setup] space is to be finitely prestatable , then we follow the deterministic time evolution of the schrödinger equation in [setup] space , square the resulting amplitudes to predict the probabilities of measurements , and then carry out macroscopic measurements .
+
+We know the configuration space ahead of time .
+we know the [setup] space ahead of time .
+
+What if we can not prestate the configuration space of a biosphere ?
+what if we can not prestate the [setup] space of a biosphere ?
+
+Our inability to prestate the configuration space of a biosphere foretells a deepening of science , a search for story and historical contingency , yet a place for natural laws .
+our inability to prestate the [setup] space of a biosphere foretells a deepening of science , a search for story and historical contingency , yet a place for natural laws .
+
+The cornerstone of this dawning near conviction lies in the belief I now hold with some confidence that we can not finitely prestate the configuration space of a biosphere .
+the cornerstone of this dawning near conviction lies in the belief i now hold with some confidence that we can not finitely prestate the [setup] space of a biosphere .
+
+What is the status of my claim that we can not finitely prestate the configuration space of a biosphere ?
+what is the status of my claim that we can not finitely prestate the [setup] space of a biosphere ?
+
+Insofar as this is true , our incapacity to prestate the configuration space of the biosphere is not a failure to prestate the consequences of the primitives , it appears to be a failure to prestate the primitives themselves .
+insofar as this is true , our incapacity to prestate the [setup] space of the biosphere is not a failure to prestate the consequences of the primitives , it appears to be a failure to prestate the primitives themselves .
+
+Let ’ s consider the possibility that the incapacity to finitely prestate the configuration space of a biosphere is related to Godel ’ s theorem .
+let ’ s consider the possibility that the incapacity to finitely prestate the [setup] space of a biosphere is related to godel ’ s theorem .
+
+I am not persuaded that the uncertainty about the configuration space of a biosphere is analogous to true but formally undecidable statements in a formal system .
+i am not persuaded that the uncertainty about the [setup] space of a biosphere is analogous to true but formally undecidable statements in a formal system .
+
+On this interpretation , my claim that we can not finitely prestate the configuration space of a biosphere becomes the claim that the biosphere keeps generating new “ causal axioms ” from which it generates novel forms .
+on this interpretation , my claim that we can not finitely prestate the [setup] space of a biosphere becomes the claim that the biosphere keeps generating new “ causal axioms ” from which it generates novel forms .
+
+Indeed , the failure to be able to prestate the configuration space of the biosphere may be yet deeper .
+indeed , the failure to be able to prestate the [setup] space of the biosphere may be yet deeper .
+
+I begin by vitiating my assumption that one can not prestate the configuration space of a biosphere , then try to show that the implications are that the number of potentially relevant properties is vastly hyperastronomical and that there is no way in the lifetime of the universe for any knower within the universe to enumerate , let alone work with , all the possible properties or categories and their causal consequences .
+i begin by vitiating my assumption that one can not prestate the [setup] space of a biosphere , then try to show that the implications are that the number of potentially relevant properties is vastly hyperastronomical and that there is no way in the lifetime of the universe for any knower within the universe to enumerate , let alone work with , all the possible properties or categories and their causal consequences .
+
+Thus , I begin by vitiating my assertion and telling us what the configuration space is : it has something to do with the spin configurations .
+thus , i begin by vitiating my assertion and telling us what the [setup] space is : it has something to do with the spin configurations .
+
+A sensible thought is that a category or class is some collection of the possible spin configurations , say , the configuration with all spins up plus all the configurations with no more than two spins down .
+a sensible thought is that a category or class is some collection of the possible spin configurations , say , the [setup] with all spins up plus all the configurations with no more than two spins down .
+
+Then the spin system can pass from one configuration to another .
+then the spin system can pass from one [setup] to another .
+
+Physicists will properly talk of the “ Hamiltonian function ” that gives the energy of each spin configuration .
+physicists will properly talk of the “ hamiltonian function ” that gives the energy of each spin [setup] .
+
+My best bet is that the incapacity to finitely prestate the configuration space of a biosphere is deeply related to the incapacity to enumerate and predict all the possible detailed dynamics of coupled molecular systems by any computational system in the universe .
+my best bet is that the incapacity to finitely prestate the [setup] space of a biosphere is deeply related to the incapacity to enumerate and predict all the possible detailed dynamics of coupled molecular systems by any computational system in the universe .
+
+Because we have not realized that we can not finitely prestate the configuration space of a biosphere or an econo-sphere ; by contrast , Newton , Laplace , Boltzmann , Einstein , and perhaps Bohr have all more or less presupposed that we can finitely prestate the configuration space of any domain open to scientific enquiry .
+because we have not realized that we can not finitely prestate the [setup] space of a biosphere or an econo-sphere ; by contrast , newton , laplace , boltzmann , einstein , and perhaps bohr have all more or less presupposed that we can finitely prestate the [setup] space of any domain open to scientific enquiry .
+
+After all , as I have noted , we can and do prestate the N configuration space for a liter of N gas particles .
+after all , as i have noted , we can and do prestate the n [setup] space for a liter of n gas particles .
+
+Getting on with it in the absence of predefined configuration spaces has been the persistent provenance of autonomous agents since we stumbled into existence .
+getting on with it in the absence of predefined [setup] spaces has been the persistent provenance of autonomous agents since we stumbled into existence .
+
+In chapter I return to this theme , for it relates to our incapacity to finitely prestate the configuration space of a biosphere . )
+in chapter i return to this theme , for it relates to our incapacity to finitely prestate the [setup] space of a biosphere . )
+
+Not all measurements of the two-box system would have resulted in information that was useful , in the sense that work could have been extracted by the actual box in its actual configuration .
+not all measurements of the two-box system would have resulted in information that was useful , in the sense that work could have been extracted by the actual box in its actual [setup] .
+
+I will claim that we can not finitely prespecify the configuration space of a biosphere , hence , we can not finitely prespecify the initial and boundary conditions of a biosphere .
+i will claim that we can not finitely prespecify the [setup] space of a biosphere , hence , we can not finitely prespecify the initial and boundary conditions of a biosphere .
+
+In short , I will argue that we can not prestate the configuration space of a biosphere .
+in short , i will argue that we can not prestate the [setup] space of a biosphere .
+
+Whether an incapacity to prestate the configuration space of a biosphere genuinely precludes the use of category theory to mathematize the concepts of autonomous agents and propagating organization is an open question .
+whether an incapacity to prestate the [setup] space of a biosphere genuinely precludes the use of category theory to mathematize the concepts of autonomous agents and propagating organization is an open question .
+
+I will return in the next chapter to discuss such stories , for I will say that we can not prestate the configuration space of a biosphere and , therefore , can not deduce that which will unfold .
+i will return in the next chapter to discuss such stories , for i will say that we can not prestate the [setup] space of a biosphere and , therefore , can not deduce that which will unfold .
+
+Not only are we unable to prestate the configuration space of a biosphere and predict what will unfold , but we also can not even translate in the sense of necessary and sucient conditions from legal talk to normal intentional talk , let alone from legal talk of Henderson found guilty of murder to a physical talk about sound-wave forms monitored and masses at space-time lines as a description .
+not only are we unable to prestate the [setup] space of a biosphere and predict what will unfold , but we also can not even translate in the sense of necessary and sucient conditions from legal talk to normal intentional talk , let alone from legal talk of henderson found guilty of murder to a physical talk about sound-wave forms monitored and masses at space-time lines as a description .
+
+Because of this , the organization of the process , achieved by the actual gears , rods , and escapements that coordinate the relative motion of the parts of the engine , has returned to the initial configuration from which , with no further ado , the system can again perform a work cycle .
+because of this , the organization of the process , achieved by the actual gears , rods , and escapements that coordinate the relative motion of the parts of the engine , has returned to the initial [setup] from which , with no further ado , the system can again perform a work cycle .
+
+As noted before , according to transition state theory a catalytic task corresponds to a catalyst binding the distorted , hence high-energy , molecular configuration corresponding to the transition state of a reaction with high aYnity and binding the substrate and product states with , in general , lower aYnity .
+as noted before , according to transition state theory a catalytic task corresponds to a catalyst binding the distorted , hence high-energy , molecular [setup] corresponding to the transition state of a reaction with high aynity and binding the substrate and product states with , in general , lower aynity .
+
+The major enquiry of Investigations has concerned autonomous agents and their coconstruction of biospheres and econospheres whose configuration spaces can not be finitely prestated .
+the major enquiry of investigations has concerned autonomous agents and their coconstruction of biospheres and econospheres whose [setup] spaces can not be finitely prestated .
+
+My issue here is precisely the same as my issue with whether or not the configuration space of the biosphere is finitely prestatable .
+my issue here is precisely the same as my issue with whether or not the [setup] space of the biosphere is finitely prestatable .
+
+Lee had done the majority of the work , but had taken very seriously my concern that one can not finitely prestate the configuration space of a biosphere .
+lee had done the majority of the work , but had taken very seriously my concern that one can not finitely prestate the [setup] space of a biosphere .
+
+Argued Lee , with my name appended , general relativity assumes that one can prestate the configuration space of a universe .
+argued lee , with my name appended , general relativity assumes that one can prestate the [setup] space of a universe .
+
+In that prestated configuration space , a world-line is , indeed , merely a geometrical object .
+in that prestated [setup] space , a world-line is , indeed , merely a geometrical object .
+
+What if one can not prestate the configuration space of the universe ?
+what if one can not prestate the [setup] space of the universe ?
+
+How might one do physics without prestating the configuration space of the universe ?
+how might one do physics without prestating the [setup] space of the universe ?
+
+In fact , they have devised the subject of Nihonjinron ( the “ theory of Japaneseness ” ) , books on which sell millions of copies each year and cover such bizarre topics as the unique chemistry of Japanese blood , the special configuration of the Japanese brain , and other examples of what supposedly sets them apart from the rest of humanity .
+in fact , they have devised the subject of nihonjinron ( the “ theory of japaneseness ” ) , books on which sell millions of copies each year and cover such bizarre topics as the unique chemistry of japanese blood , the special [setup] of the japanese brain , and other examples of what supposedly sets them apart from the rest of humanity .
+
+However , the configuration of the roads makes exploration a frustrating affair , as it is impossible to make a circular tour as roads just do not join up .
+however , the [setup] of the roads makes exploration a frustrating affair , as it is impossible to make a circular tour as roads just do not join up .
+
+In 1998 , two years after Washington cut legal-aid funding by a third or $ 122 million - state programs started facing more rigorous requirements for grant renewals , including achieving `` optimal configuration of service areas . ''
+in 1998 , two years after washington cut legal-aid funding by a third or $ 122 million - state programs started facing more rigorous requirements for grant renewals , including achieving `` optimal [setup] of service areas . ''
+
+This includes ensuring that the configuration management process is effectively implemented and that product changes are clearly documented and tested before being placed into production .
+this includes ensuring that the [setup] management process is effectively implemented and that product changes are clearly documented and tested before being placed into production .
+
+The policy states that , during this phase , a system 's configuration should be documented and the system should be demonstrated using prototypes in a relevant environment .
+the policy states that , during this phase , a system 's [setup] should be documented and the system should be demonstrated using prototypes in a relevant environment .
+
+Documentation requirements for periodic reviews , managementRequired oversight , and configuration management .
+documentation requirements for periodic reviews , managementrequired oversight , and [setup] management .
+
+Review configuration management activities to verify that changes to requirements are recorded and controlled and that impacts of changes to contract requirements are identified .
+review [setup] management activities to verify that changes to requirements are recorded and controlled and that impacts of changes to contract requirements are identified .
+
+Units can be measured in terms of computer software units or computer software configuration items .
+units can be measured in terms of computer software units or computer software [setup] items .
+
+Note : Baselines , plus approved changes from those baselines , constitute the current configuration identification .
+note : baselines , plus approved changes from those baselines , constitute the current [setup] identification .
+
+Benchmark Test data designed to evaluate the performance of computer hardware and software in a given configuration .
+benchmark test data designed to evaluate the performance of computer hardware and software in a given [setup] .
+
+Capability Validation The technical verification of the ability of a proposed system configuration , replacement component , or the features or functions of its software , to satisfy functional requirements .
+capability validation the technical verification of the ability of a proposed system [setup] , replacement component , or the features or functions of its software , to satisfy functional requirements .
+
+See configuration control .
+see [setup] control .
+
+Configuration ( 1 ) The arrangement of a computer system ornetwork as defined by the nature , number , and chief characteristics of its functional units .
+[setup] ( 1 ) the arrangement of a computer system ornetwork as defined by the nature , number , and chief characteristics of its functional units .
+
+The term may refer to a hardware configuration or a software configuration .
+the term may refer to a hardware [setup] or a software [setup] .
+
+An element of configuration management , consistingConfiguration of the evaluation , coordination , approval orControl disapproval , and implementation of changes to configuration items after formal establishment of their configuration identification .
+an element of [setup] management , consistingconfiguration of the evaluation , coordination , approval orcontrol disapproval , and implementation of changes to [setup] items after formal establishment of their [setup] identification .
+
+An aggregation of hardware and/or software that isConfiguration designated for configuration management and treatedItem as a single entity in the configuration management process .
+an aggregation of hardware and/or software that isconfiguration designated for [setup] management and treateditem as a single entity in the [setup] management process .
+
+Performance system configuration or replacement component to Validation handle agency-specific work-load volumes ( present and expected ) within agency-determined performance time constraints .
+performance system [setup] or replacement component to validation handle agency-specific work-load volumes ( present and expected ) within agency-determined performance time constraints .
+
+These guidelines were conveyed to LSC-funded programs through the release of a series of Program Letters and other field correspondences.12 Furthermore , as of July 19 , 2001 , all recognized stakeholders have a right to a de novo review of service area decisions by both the LSC Vice President for Programs and the LSC President when LSC decisions run contrary to stakeholders ' proposed configuration schemes.13 In response to inquiries from the legal services community and Members of Congress , the LSC Board of Directors on June 30 , 2001 , established the LSC Task Force to Study and Report on Configuration of Service Areas .
+these guidelines were conveyed to lsc-funded programs through the release of a series of program letters and other field correspondences.12 furthermore , as of july 19 , 2001 , all recognized stakeholders have a right to a de novo review of service area decisions by both the lsc vice president for programs and the lsc president when lsc decisions run contrary to stakeholders ' proposed [setup] schemes.13 in response to inquiries from the legal services community and members of congress , the lsc board of directors on june 30 , 2001 , established the lsc task force to study and report on [setup] of service areas .
+
+Justice Broderick delivered an interim report from the Task Force to the LSC Board of Directors at the Board 's meeting on September 8 , 2001 , in Alexandria , Va. Broderick reported that the Task Force has made considerable progress in examining concerns pertinent to service area configuration and the right of designated stakeholders to appeal decisions with which they disagree .
+justice broderick delivered an interim report from the task force to the lsc board of directors at the board 's meeting on september 8 , 2001 , in alexandria , va. broderick reported that the task force has made considerable progress in examining concerns pertinent to service area [setup] and the right of designated stakeholders to appeal decisions with which they disagree .
+
+In the interim , the Board believes it crucial to relay to Congress LSC 's current standards governing state planning , service area configuration , and review processes .
+in the interim , the board believes it crucial to relay to congress lsc 's current standards governing state planning , service area [setup] , and review processes .
+
+Each state plan must be viewed based on the totality of the circumstances , with the bottom-line consideration turning on LSC 's studied determination as to whether a given service area configuration inures to the benefit of the greatest number of clients in the most cost-effective way .
+each state plan must be viewed based on the totality of the circumstances , with the bottom-line consideration turning on lsc 's studied determination as to whether a given service area [setup] inures to the benefit of the greatest number of clients in the most cost-effective way .
+
+As a general rule , service area configuration decisions are evaluated against one overarching principle : Program configuration should occur in a manner that maximizes the effective and efficient delivery of high quality legal services to eligible clients throughout the state within a comprehensive , integrated delivery system .
+as a general rule , service area [setup] decisions are evaluated against one overarching principle : program [setup] should occur in a manner that maximizes the effective and efficient delivery of high quality legal services to eligible clients throughout the state within a comprehensive , integrated delivery system .
+
+In deciding to accept or reject a proposed state plan , LSC must ultimately determine whether , when taken together with strategies outlined in the plan in question , the proposed configuration is best calibrated to :
+in deciding to accept or reject a proposed state plan , lsc must ultimately determine whether , when taken together with strategies outlined in the plan in question , the proposed [setup] is best calibrated to :
+
+Until the implementation of the State Planning Initiative , determining service areas in a given state was more a product of geographic and historical happenstance than a reasoned judgment about the precise configuration that would yield the best legal services system for the greatest number of clients .
+until the implementation of the state planning initiative , determining service areas in a given state was more a product of geographic and historical happenstance than a reasoned judgment about the precise [setup] that would yield the best legal services system for the greatest number of clients .
+
+The objective of the Review Process is to maximize the potential for full communication between stakeholders and LSC officials before any configuration decisions are made final and effective .
+the objective of the review process is to maximize the potential for full communication between stakeholders and lsc officials before any [setup] decisions are made final and effective .
+
+Central to the Review Process is the right of designated stakeholders to de novo reviews of all configuration decisions , first by the LSC Vice President for Programs and then by the LSC President , whose decision is final and binding .
+central to the review process is the right of designated stakeholders to de novo reviews of all [setup] decisions , first by the lsc vice president for programs and then by the lsc president , whose decision is final and binding .
+
+After due consideration of the stakeholders ' ultimate appeal , the LSC President will promptly advise the state planning body of a final decision on configuration .
+after due consideration of the stakeholders ' ultimate appeal , the lsc president will promptly advise the state planning body of a final decision on [setup] .
+
+In recognition of this crucial symbiosis , LSC 's Reconfiguration Review Process prescribes a clear review mechanism that guarantees recognized stakeholders a full opportunity to make their case : 1 ) At the earliest possible time , LSC 's state planning team will advise the DSPB in each state of any issues of concern with respect to service area configuration and provide guidance on how to address those concerns consistent with the enumerated reconfiguration standards .
+in recognition of this crucial symbiosis , lsc 's reconfiguration review process prescribes a clear review mechanism that guarantees recognized stakeholders a full opportunity to make their case : 1 ) at the earliest possible time , lsc 's state planning team will advise the dspb in each state of any issues of concern with respect to service area [setup] and provide guidance on how to address those concerns consistent with the enumerated reconfiguration standards .
+
+As soon as practical thereafter , the VP for Programs shall advise the DSPB of the service area configuration recommendation to be forwarded to the LSC President .
+as soon as practical thereafter , the vp for programs shall advise the dspb of the service area [setup] recommendation to be forwarded to the lsc president .
+
+As soon as practical thereafter , the LSC President will advise the DSPB of the final decision on service area configuration in the affected state or territory .
+as soon as practical thereafter , the lsc president will advise the dspb of the final decision on service area [setup] in the affected state or territory .
+
+LSC also recognizes that opinions may differ as to the most appropriate configuration of service areas , and that grantees and other stakeholders may have a better perspective on how to best serve clients and enhance access in their states .
+lsc also recognizes that opinions may differ as to the most appropriate [setup] of service areas , and that grantees and other stakeholders may have a better perspective on how to best serve clients and enhance access in their states .
+
+However , if an impasse is ultimately reached in a particular state , it is critical that LSC maintain its statutory right to decide the configuration of service areas in order to foster greater access and service for all eligible low-income clients .
+however , if an impasse is ultimately reached in a particular state , it is critical that lsc maintain its statutory right to decide the [setup] of service areas in order to foster greater access and service for all eligible low-income clients .
+
+Additionally , LSC 's state planning team has issued numerous other targeted field correspondences to individual states ' stakeholders who have submitted configuration plans adjudged insufficiently responsive to the tenets of State Planning .
+additionally , lsc 's state planning team has issued numerous other targeted field correspondences to individual states ' stakeholders who have submitted [setup] plans adjudged insufficiently responsive to the tenets of state planning .
+
+LSC Resolution # 2001-008 , `` Resolution Establishing A Task Force To Study and Report on Configuration of Service Areas , '' June 30 , 2001 .
+lsc resolution # 2001-008 , `` resolution establishing a task force to study and report on [setup] of service areas , '' june 30 , 2001 .
+
+Grantees were also asked to examine whether the existing program configuration was conducive to the most effective state delivery system .
+grantees were also asked to examine whether the existing program [setup] was conducive to the most effective state delivery system .
+
+I think that it is important for you to know that LSC initially stressed the importance of state planning in 1995 when it asked its recipients in each state to participate in the development of a plan for the design , configuration , and operation of LSC-funded programs in their states .
+i think that it is important for you to know that lsc initially stressed the importance of state planning in 1995 when it asked its recipients in each state to participate in the development of a plan for the design , [setup] , and operation of lsc-funded programs in their states .
+
+Their plans were to include responses to the seven initial central tenets of State Planning : ( 1 ) development of intake , advice , and referral services ; ( 2 ) effective usage of technology ; ( 3 ) increased access to legal self-help and prevention information ; ( 4 ) coordination of legal work , training , information , and expert assistance ; ( 5 ) engagement of pro bono attorneys ; ( 6 ) development of additional state , local , and private resources ; and ( 7 ) optimal configuration of service areas .
+their plans were to include responses to the seven initial central tenets of state planning : ( 1 ) development of intake , advice , and referral services ; ( 2 ) effective usage of technology ; ( 3 ) increased access to legal self-help and prevention information ; ( 4 ) coordination of legal work , training , information , and expert assistance ; ( 5 ) engagement of pro bono attorneys ; ( 6 ) development of additional state , local , and private resources ; and ( 7 ) optimal [setup] of service areas .
+
+Grantees were also asked to examine whether the existing program configuration was conducive to the most effective state delivery system .
+grantees were also asked to examine whether the existing program [setup] was conducive to the most effective state delivery system .
+
+Structural Changes in the Delivery System Since 1998 , LSC has initiated and overseen significant structural changes in the number and configuration of LSC-funded programs in order to develop more powerful and effective state delivery systems .
+structural changes in the delivery system since 1998 , lsc has initiated and overseen significant structural changes in the number and [setup] of lsc-funded programs in order to develop more powerful and effective state delivery systems .
+
+In 2002 , LSC gave technical assistance to Alabama , Arkansas , Mississippi , Missouri , Montana , and New York , enabling these six states to obtain important consulting and facilitative assistance with configuration and overall planning .
+in 2002 , lsc gave technical assistance to alabama , arkansas , mississippi , missouri , montana , and new york , enabling these six states to obtain important consulting and facilitative assistance with [setup] and overall planning .
+
+Nine states completed configuration planning in 2002 and submitted proposals for significant structural change , with completion dates in 2003 and 2004 .
+nine states completed [setup] planning in 2002 and submitted proposals for significant structural change , with completion dates in 2003 and 2004 .
+
+Configuration planning commenced in another six states .
+[setup] planning commenced in another six states .
+
+The new configuration improves opportunities to increase resources and access and achieve greater equity in client service .
+the new [setup] improves opportunities to increase resources and access and achieve greater equity in client service .
+
+By combining many of the smaller service areas , the new configuration establishes a sturdier platform for client services and the future growth of New York 's equal justice system .
+by combining many of the smaller service areas , the new [setup] establishes a sturdier platform for client services and the future growth of new york 's equal justice system .
+
+These five states and one territory received notices of configuration concern from LSC in 2002 .
+these five states and one territory received notices of [setup] concern from lsc in 2002 .
+
+Each will embark on a review of the efficacy of current configuration patterns , and report to LSC on their studies in 2003 .
+each will embark on a review of the efficacy of current [setup] patterns , and report to lsc on their studies in 2003 .
+
+Programs were requested to develop plans to coordinate and integrate their work in seven important areas -- enhancing client access and efficiency in delivering high quality legal assistance ; using technology to expand access and enhance services ; promoting client self-help and preventive legal education and advice ; coordinating legal work and training ; collaborating with the private bar ; expanding resources to support legal services ; and designing a system configuration that enhances client services , reduces barriers and operates efficiently and effectively .
+programs were requested to develop plans to coordinate and integrate their work in seven important areas -- enhancing client access and efficiency in delivering high quality legal assistance ; using technology to expand access and enhance services ; promoting client self-help and preventive legal education and advice ; coordinating legal work and training ; collaborating with the private bar ; expanding resources to support legal services ; and designing a system [setup] that enhances client services , reduces barriers and operates efficiently and effectively .
+
+The current configuration and planning successes in each of these regions are described below : The Northern Region .
+the current [setup] and planning successes in each of these regions are described below : the northern region .
+
+Together with LSC 's 1998 Program Letters , this decision provided the impetus for more serious discussion of program configuration which resulted in the formation of a single statewide program , Colorado Legal Services , effective October 1 , 1999 .
+together with lsc 's 1998 program letters , this decision provided the impetus for more serious discussion of program [setup] which resulted in the formation of a single statewide program , colorado legal services , effective october 1 , 1999 .
+
+The 2001 State Plan divides the state into six regions , and highlights a regional approach in its collaboration and configuration strategies .
+the 2001 state plan divides the state into six regions , and highlights a regional approach in its collaboration and [setup] strategies .
+
+In January 2001 , LSC asked the Florida planners to more carefully explore whether the current configuration of LSC and non-LSC funded programs is one that will best advance their goals .
+in january 2001 , lsc asked the florida planners to more carefully explore whether the current [setup] of lsc and non-lsc funded programs is one that will best advance their goals .
+
+Furthermore , planning leaders have indicated that configuration is a priority for planners in 2001 , and have developed committees and strategies to address this critical issue .
+furthermore , planning leaders have indicated that [setup] is a priority for planners in 2001 , and have developed committees and strategies to address this critical issue .
+
+However , LSC also asked the planners to reopen their consideration of the configuration of the LSC-funded programs believing that `` a thorough review of this plan leads to the almost inescapable conclusion that while reconfiguration may not be a front-burner issue within this state , there is merit to seriously exploring reconfiguration of the five LSC-funded programs into three . ''
+however , lsc also asked the planners to reopen their consideration of the [setup] of the lsc-funded programs believing that `` a thorough review of this plan leads to the almost inescapable conclusion that while reconfiguration may not be a front-burner issue within this state , there is merit to seriously exploring reconfiguration of the five lsc-funded programs into three . ''
+
+Reconsideration of the configuration of the LSC programs has led to decisions to consolidate the five organizations .
+reconsideration of the [setup] of the lsc programs has led to decisions to consolidate the five organizations .
+
+Over the course of a long series of meetings and discussions , representatives of the boards and staff of the four programs reached the conclusion that if all clients in Indiana were to have access to high quality legal services , significant changes needed to be made in the configuration of programs within the state .
+over the course of a long series of meetings and discussions , representatives of the boards and staff of the four programs reached the conclusion that if all clients in indiana were to have access to high quality legal services , significant changes needed to be made in the [setup] of programs within the state .
+
+New Hampshire 's state planning process began in July 1995 , when representatives of the New Hampshire Bar Association , New Hampshire Legal Assistance ( NHLA ) , and the New Hampshire Pro Bono Referral System convened a series of meetings with stakeholders in the legal services delivery system to discuss the design , configuration and operation of the LSC-funded programs in the state in light of pending restrictions and funding cuts .
+new hampshire 's state planning process began in july 1995 , when representatives of the new hampshire bar association , new hampshire legal assistance ( nhla ) , and the new hampshire pro bono referral system convened a series of meetings with stakeholders in the legal services delivery system to discuss the design , [setup] and operation of the lsc-funded programs in the state in light of pending restrictions and funding cuts .
+
+The plan was shared with other stakeholders , including all program directors , who then met as a group in early 1999 for a frank and open discussion about configuration .
+the plan was shared with other stakeholders , including all program directors , who then met as a group in early 1999 for a frank and open discussion about [setup] .
+
+A Special Report to Congress on State Planning and Reconfiguration was released late in the year , along with the LSC Board Taskforce Report on Configuration , adopted by the LSC Board of Directors in November .
+a special report to congress on state planning and reconfiguration was released late in the year , along with the lsc board taskforce report on [setup] , adopted by the lsc board of directors in november .
+
+PREFACE This document -- Legal Services Corporation State Planning Configuration Standards -- presents in one place a comprehensive compilation of the standards LSC recipients and Designated State Planning Bodies ( DSPB 's ) 1 should consider and that the Legal Services Corporation will use in considering the configuration of a state 's legal services delivery system.2 Determination of the most appropriate configuration of programs in a given state is a part of the broader state planning process and can not be divorced from consideration of the overall goals of the state delivery system , the state 's past performance , current status , and progress towards and plans for achieving those goals .
+preface this document -- legal services corporation state planning [setup] standards -- presents in one place a comprehensive compilation of the standards lsc recipients and designated state planning bodies ( dspb 's ) 1 should consider and that the legal services corporation will use in considering the [setup] of a state 's legal services delivery system.2 determination of the most appropriate [setup] of programs in a given state is a part of the broader state planning process and can not be divorced from consideration of the overall goals of the state delivery system , the state 's past performance , current status , and progress towards and plans for achieving those goals .
+
+For LSC 's policies regarding internal review of configuration recommendations , see Legal Services Corporation Reconfiguration Review Process , September 21 , 2001 .
+for lsc 's policies regarding internal review of [setup] recommendations , see legal services corporation reconfiguration review process , september 21 , 2001 .
+
+While LSC will continue to utilize a variety of approaches , LSC views service area configuration as a key structural component of a comprehensive set of strategies employed to promote the creation and sustainability of comprehensive , integrated state civil equal justice communities .
+while lsc will continue to utilize a variety of approaches , lsc views service area [setup] as a key structural component of a comprehensive set of strategies employed to promote the creation and sustainability of comprehensive , integrated state civil equal justice communities .
+
+LSC has and will continue to require its grantees and encourage DSPB 's to critically examine the degree to which the configuration of LSC grantees in any given state promotes these ends .
+lsc has and will continue to require its grantees and encourage dspb 's to critically examine the degree to which the [setup] of lsc grantees in any given state promotes these ends .
+
+The determination of the configuration that will best serve clients throughout a particular state ultimately involves a balancing of factors and the application of judgment to a host of considerations .
+the determination of the [setup] that will best serve clients throughout a particular state ultimately involves a balancing of factors and the application of judgment to a host of considerations .
+
+Some standards relevant to decisions affecting configuration can , in context , suggest different conclusions , depending upon the state or geographic region involved .
+some standards relevant to decisions affecting [setup] can , in context , suggest different conclusions , depending upon the state or geographic region involved .
+
+Each state 's configuration must be viewed on the totality of the circumstances .
+each state 's [setup] must be viewed on the totality of the circumstances .
+
+LSC will only adopt a different configuration based upon good and substantial reasons clearly articulated in writing and tied to the specific standards enumerated herein .
+lsc will only adopt a different [setup] based upon good and substantial reasons clearly articulated in writing and tied to the specific standards enumerated herein .
+
+Configuration Standards In making a determination as to whether the configuration of LSC-funded providers set out in the state plan will maximize the effective and economical delivery of high quality legal services to eligible clients throughout the state within a comprehensive , integrated delivery system , both in the present and in the future , LSC will review the strategies outlined in the state plan against the following standards :
+[setup] standards in making a determination as to whether the [setup] of lsc-funded providers set out in the state plan will maximize the effective and economical delivery of high quality legal services to eligible clients throughout the state within a comprehensive , integrated delivery system , both in the present and in the future , lsc will review the strategies outlined in the state plan against the following standards :
+
+Area of Inquiry -- Does the configuration of programs within the state facilitate the development and sustainability of a delivery network that , within financial resources and subject to appropriate priority decisions under 45 C.F.R .
+area of inquiry -- does the [setup] of programs within the state facilitate the development and sustainability of a delivery network that , within financial resources and subject to appropriate priority decisions under 45 c.f.r .
+
+Area of Inquiry -- Does the configuration of programs within the state take into account the socio-cultural and economic affinities in place that are most relevant to the legal issues facing low-income clients and client communities ?
+area of inquiry -- does the [setup] of programs within the state take into account the socio-cultural and economic affinities in place that are most relevant to the legal issues facing low-income clients and client communities ?
+
+The Configuration of LSC-Funded Programs Will Maximize Effective Legal Services to Clients Throughout the State .
+the [setup] of lsc-funded programs will maximize effective legal services to clients throughout the state .
+
+Area of Inquiry -- Does the configuration of programs within the state , within financial resources and subject to appropriate priority decisions under 45 C.F.R .
+area of inquiry -- does the [setup] of programs within the state , within financial resources and subject to appropriate priority decisions under 45 c.f.r .
+
+Area of Inquiry -- Does the configuration of programs within the state enhance opportunities to attract attorneys and paralegals who can provide expertise , skills , cultural relevancy and cultural competencies necessary to address the most pressing legal needs of clients ?
+area of inquiry -- does the [setup] of programs within the state enhance opportunities to attract attorneys and paralegals who can provide expertise , skills , cultural relevancy and cultural competencies necessary to address the most pressing legal needs of clients ?
+
+Area of Inquiry -- Does the configuration of programs within the state facilitate uniform and consistent approaches to accountability to clients , client communities and funders ?
+area of inquiry -- does the [setup] of programs within the state facilitate uniform and consistent approaches to accountability to clients , client communities and funders ?
+
+Area of Inquiry -- Does the configuration of programs within the state facilitate the coordination of resource development efforts to maintain existing resources and to generate and leverage additional resources , including such efforts as unified approaches to major potential public sources , liaison with and maintenance of existing statewide resources , and coordinated technical assistance for local fundraising ?
+area of inquiry -- does the [setup] of programs within the state facilitate the coordination of resource development efforts to maintain existing resources and to generate and leverage additional resources , including such efforts as unified approaches to major potential public sources , liaison with and maintenance of existing statewide resources , and coordinated technical assistance for local fundraising ?
+
+Area of Inquiry -- Does the configuration of programs within the state provide , to the extent reasonably possible , relative equity in the investment of civil equal justice resources ( federal , state , private , and in-kind/pro bono ) throughout the state ?
+area of inquiry -- does the [setup] of programs within the state provide , to the extent reasonably possible , relative equity in the investment of civil equal justice resources ( federal , state , private , and in-kind/pro bono ) throughout the state ?
+
+Area of Inquiry -- Does the configuration of programs within the state enhance the likelihood of achieving the intended goals and objectives of a comprehensive , integrated and client-centered legal services delivery system including , but not limited to service effectiveness/quality ; full range of legal services to address most pressing legal needs of eligible clients ; efficiency ; equity and ease in terms of client access ; greater involvement by members of the private bar in the legal lives of clients ; and client-community empowerment ?
+area of inquiry -- does the [setup] of programs within the state enhance the likelihood of achieving the intended goals and objectives of a comprehensive , integrated and client-centered legal services delivery system including , but not limited to service effectiveness/quality ; full range of legal services to address most pressing legal needs of eligible clients ; efficiency ; equity and ease in terms of client access ; greater involvement by members of the private bar in the legal lives of clients ; and client-community empowerment ?
+
+Area of Inquiry -- Does the configuration of programs within the state facilitate efficient , ongoing assessment of demographic trends , changes in laws and public programs affecting low-income persons ?
+area of inquiry -- does the [setup] of programs within the state facilitate efficient , ongoing assessment of demographic trends , changes in laws and public programs affecting low-income persons ?
+
+Typical configuration is shown in Figure 2-1 .
+typical [setup] is shown in figure 2-1 .
+
+Figure 3-2 shows the configuration of the SCR that was retrofit onto AES Somerset Station , a 675 MWe boiler already equipped with an electrostatic precipitator ( ESP ) and wet FGD system .
+figure 3-2 shows the [setup] of the scr that was retrofit onto aes somerset station , a 675 mwe boiler already equipped with an electrostatic precipitator ( esp ) and wet fgd system .
+
+The choice of installing the SCR reactor near the ground level or elevated well above ground level depends upon which configuration is viewed as most cost effective while considering installation cost and operating cost .
+the choice of installing the scr reactor near the ground level or elevated well above ground level depends upon which [setup] is viewed as most cost effective while considering installation cost and operating cost .
+
+On a boiler equipped with an ESP or a fabric filter ( FF ) for particle collection , the configuration would look as in Figure 4-1 .
+on a boiler equipped with an esp or a fabric filter ( ff ) for particle collection , the [setup] would look as in figure 4-1 .
+
+Thus , the most likely scenario for application of ACI is in a configuration with ESP or FF .
+thus , the most likely scenario for application of aci is in a [setup] with esp or ff .
+
+If this occurred , the Service 's configuration would be that of a successful competitor and , at the same time , any benefits from having one provider would be retained .
+if this occurred , the service 's [setup] would be that of a successful competitor and , at the same time , any benefits from having one provider would be retained .
+
+During these drills , civilians were not directed into the stairwells , or provided with information about their configuration and about the existence of transfer hallways and smoke doors .
+during these drills , civilians were not directed into the stairwells , or provided with information about their [setup] and about the existence of transfer hallways and smoke doors .
+
+In the configuration planned by the Air Force through mid-2001 , the Predator 's missile would not be able to hit a moving vehicle .
+in the [setup] planned by the air force through mid-2001 , the predator 's missile would not be able to hit a moving vehicle .
+
+They can change the configuration of their scopes so they can see primary radar returns .
+they can change the [setup] of their scopes so they can see primary radar returns .
+
+Each particular sequence , or haplotype , will carry a configuration for the SNPs for that region ( Figure 1 ) .
+each particular sequence , or haplotype , will carry a [setup] for the snps for that region ( figure 1 ) .
+
+Since transcription and chromatin configuration are intimately related , it is possible that chromatin may play an important role in the localization of cohesin .
+since transcription and chromatin [setup] are intimately related , it is possible that chromatin may play an important role in the localization of cohesin .
+
+The unhindered egress of his excreta permitted Ambrose a moment of reflection regarding the toilet as the biological altar where-not unlike the deep connection with Nature inherited from his Native American forebears -- through autonomic muscular contractions and flexions of the organism , one performed the ritual of self-worship in which the very alimentary-eliminative tubular configuration of the human body was experienced most to resemble that of other animals -- fundamentally .
+the unhindered egress of his excreta permitted ambrose a moment of reflection regarding the toilet as the biological altar where-not unlike the deep connection with nature inherited from his native american forebears -- through autonomic muscular contractions and flexions of the organism , one performed the ritual of self-worship in which the very alimentary-eliminative tubular [setup] of the human body was experienced most to resemble that of other animals -- fundamentally .
+
+The configuration of computers when sold will determine to a large degree which services a consumer encounters .
+the [setup] of computers when sold will determine to a large degree which services a consumer encounters .
+
+In this configuration , Palestinian militants are allies not of the Palestinian Authority but of Israeli extremists , and terrorism against Israel is a reason for more collaboration with Arafat , not less .
+in this [setup] , palestinian militants are allies not of the palestinian authority but of israeli extremists , and terrorism against israel is a reason for more collaboration with arafat , not less .
+
+Israeli hawks , invoking the old configuration , blamed this week 's attacks on `` the Palestinians '' in general .
+israeli hawks , invoking the old [setup] , blamed this week 's attacks on `` the palestinians '' in general .
+
+The new configuration is beginning to take hold in the Israeli media .
+the new [setup] is beginning to take hold in the israeli media .
+
+The Daily Mail Monday quoted the pendant 's inventor , chiropractor Dr. Charles Brown , as saying that it `` contains a 'magical configuration ' of quartz and other crystals which deflect electromagnetic radiation from modern office equipment -- and counter 'negative vibes . '
+the daily mail monday quoted the pendant 's inventor , chiropractor dr. charles brown , as saying that it `` contains a 'magical [setup] ' of quartz and other crystals which deflect electromagnetic radiation from modern office equipment -- and counter 'negative vibes . '
+
+Having reached this mature configuration , a person continues to pile up grains of experience , building on the existing base .
+having reached this mature [setup] , a person continues to pile up grains of experience , building on the existing base .
+
+The unstable configuration that results makes one vulnerable to a cascade of change .
+the unstable [setup] that results makes one vulnerable to a cascade of change .
+
+In the center of the picture , two asymmetrical oxbows form a configuration like a grappling iron , anchoring the composition .
+in the center of the picture , two asymmetrical oxbows form a [setup] like a grappling iron , anchoring the composition .
+
+Current versions of the 747 seat between 272 and 386 passengers , depending on configuration and how much the pilot is distracted by pathetic whimpering akin to that of caged animals .
+current versions of the 747 seat between 272 and 386 passengers , depending on [setup] and how much the pilot is distracted by pathetic whimpering akin to that of caged animals .
+
+It does n't work on AOL and may not work on any configuration of equipment and services other than those on the editor 's home machine .
+it does n't work on aol and may not work on any [setup] of equipment and services other than those on the editor 's home machine .
+
+Software and hardware configuration is too error-prone ; incompatibility remains too common ; and software is too difficult to use .
+software and hardware [setup] is too error-prone ; incompatibility remains too common ; and software is too difficult to use .
+
+Alligator is from Spanish el lagarto ` the lizard , ' since the general configuration of both reptiles is horizontal .
+alligator is from spanish el lagarto ` the lizard , ' since the general [setup] of both reptiles is horizontal .
+
+The configuration 2 is pronounced kaks ( i ) , ketto , tin , rua , dua , lua , iki , xojor , mbili , zole , shnayim , and roughly , four to six thousand other ways around the globe .
+the [setup] 2 is pronounced kaks ( i ) , ketto , tin , rua , dua , lua , iki , xojor , mbili , zole , shnayim , and roughly , four to six thousand other ways around the globe .
+
+Convention plays a major role in all aspects of language , of course : by convention we call a certain fruit a banana and the group of islands west of Morocco the Azores ( or the equivalent in other languages ) ; astronomers have no difficulty in agreeing to call a certain configuration in the heavens the Horsehead Nebula every day of the week and not something different on Sundays , and chemists concur in describing the properties of sodium chloride .
+convention plays a major role in all aspects of language , of course : by convention we call a certain fruit a banana and the group of islands west of morocco the azores ( or the equivalent in other languages ) ; astronomers have no difficulty in agreeing to call a certain [setup] in the heavens the horsehead nebula every day of the week and not something different on sundays , and chemists concur in describing the properties of sodium chloride .
+
+Note : this is an example of a “ HobsonJobson ” —foreign words or expressions twisted into a more familiar configuration by the pervasive influence of linguistic chauvinism , a rich source of onomatoplazia .
+note : this is an example of a “ hobsonjobson ” —foreign words or expressions twisted into a more familiar [setup] by the pervasive influence of linguistic chauvinism , a rich source of onomatoplazia .
+

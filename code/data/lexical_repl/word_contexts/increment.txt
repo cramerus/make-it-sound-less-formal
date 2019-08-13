@@ -1,0 +1,222 @@
+However , they will receive an additional £200 increment on their allowance so that the maximum loss to a basic rate taxpayer aged 65 and over will be no greater than the loss to a basic rate taxpayer — £61 a year — aged under 65 .
+however , they will receive an additional £200 [gain] on their allowance so that the maximum loss to a basic rate taxpayer aged 65 and over will be no greater than the loss to a basic rate taxpayer — £61 a year — aged under 65 .
+
+It has been said that no application from a major firm for a capacity increment has ever been flatly rejected , although some have been delayed .
+it has been said that no application from a major firm for a capacity [gain] has ever been flatly rejected , although some have been delayed .
+
+Its surface area would dissipate heat continually at the same rate at which it exceeded ambient temperature , and it would need 8100 kilocalories of solar radiation in addition to its metabolic increment .
+its surface area would dissipate heat continually at the same rate at which it exceeded ambient temperature , and it would need 8100 kilocalories of solar radiation in addition to its metabolic [gain] .
+
+For example , while sexual dimorphism in size is likely to evolve where variation in male success is greater than female success and a given increment in body size has the same effect on breeding success in both sexes , it will also evolve if variation in reproductive success is similar in both sexes but size has a greater influence on success in males or even if variation in success is greater in females but the effects of size are greater among males .
+for example , while sexual dimorphism in size is likely to evolve where variation in male success is greater than female success and a given [gain] in body size has the same effect on breeding success in both sexes , it will also evolve if variation in reproductive success is similar in both sexes but size has a greater influence on success in males or even if variation in success is greater in females but the effects of size are greater among males .
+
+It was an inducement to sign and , to prevent the club 's wage structure being broken and a possible mutiny by higher-paid stars , the increment was included on his wage slips .
+it was an inducement to sign and , to prevent the club 's wage structure being broken and a possible mutiny by higher-paid stars , the [gain] was included on his wage slips .
+
+The dosage and sticking coefficient , and hence the coverage increment , is measured for each pulse .
+the dosage and sticking coefficient , and hence the coverage [gain] , is measured for each pulse .
+
+Calibration is done in situ using a chopped laser beam to provide a known heat increment .
+calibration is done in situ using a chopped laser beam to provide a known heat [gain] .
+
+An additional factor arises when keys do not go up in ones , but in twos , threes , fives , tens or some other increment .
+an additional factor arises when keys do not go up in ones , but in twos , threes , fives , tens or some other [gain] .
+
+In this case , to allow for the increment not being unity , the relationship becomes : where α and β are constants .
+in this case , to allow for the [gain] not being unity , the relationship becomes : where α and β are constants .
+
+The first is to have a count field in each record , and increment it each time the record is accessed .
+the first is to have a count field in each record , and [gain] it each time the record is accessed .
+
+Positions have to be re-calculated for each new increment in time .
+positions have to be re-calculated for each new [gain] in time .
+
+These can then be cycled by a tablet-called routine to allow the mechanism to be observed increment throughout its full event .
+these can then be cycled by a tablet-called routine to allow the mechanism to be observed [gain] throughout its full event .
+
+The total annual increment can take anything from 1 to 5 months for completion .
+the total annual [gain] can take anything from 1 to 5 months for completion .
+
+( 1988 ) estimate 17,000 additional fatal cancers in Europe in the next 50 years but highlight that the Chernobyl legacy adds an increment of only 0.01 per cent to European lifetime fatal cancer risk .
+( 1988 ) estimate 17,000 additional fatal cancers in europe in the next 50 years but highlight that the chernobyl legacy adds an [gain] of only 0.01 per cent to european lifetime fatal cancer risk .
+
+The current annual increment of about 2000 billion tonnes of ice , due to snowfall , is lost each year by evaporation , melting and formation of icebergs at the rim .
+the current annual [gain] of about 2000 billion tonnes of ice , due to snowfall , is lost each year by evaporation , melting and formation of icebergs at the rim .
+
+By providing leadership , a manager should be able to use the capabilities of subordinates to better effect , ie leadership is the ‘ influential increment over and above mechanical compliance with the routine directives of the organisation ’ ( Katz and Kahn : The Social Psychology of Organisations ) .
+by providing leadership , a manager should be able to use the capabilities of subordinates to better effect , ie leadership is the ‘ influential [gain] over and above mechanical compliance with the routine directives of the organisation ’ ( katz and kahn : the social psychology of organisations ) .
+
+All of these pieces of evidence are relevant to cat , and so would increment the level of evidence in the logogen for cat : but they are relevant to other words too .
+all of these pieces of evidence are relevant to cat , and so would [gain] the level of evidence in the logogen for cat : but they are relevant to other words too .
+
+An increment is a small step from the existing position .
+an [gain] is a small step from the existing position .
+
+The environment will generate demands which could be met by the increment in the budget without challenging the existing budget thus leaving existing programmes of expenditure untouched .
+the environment will generate demands which could be met by the [gain] in the budget without challenging the existing budget thus leaving existing programmes of expenditure untouched .
+
+The allocation of the increment becomes the key decision .
+the allocation of the [gain] becomes the key decision .
+
+Procedures established to control the level of spending evolve over time to become bidding procedures for the increment .
+procedures established to control the level of spending evolve over time to become bidding procedures for the [gain] .
+
+The possibility of conflict is reduced because of the expectation of the continued availability of the increment to avoid the questioning of the existing budget ( or baseline as it is often referred to ) .
+the possibility of conflict is reduced because of the expectation of the continued availability of the [gain] to avoid the questioning of the existing budget ( or baseline as it is often referred to ) .
+
+The environment continues to present new and changing demands but these can not be satisfied by the allocation of the increment .
+the environment continues to present new and changing demands but these can not be satisfied by the allocation of the [gain] .
+
+the core budget of established expenditure went unchallenged — the focus of the debate was the increment ;
+the core budget of established expenditure went unchallenged — the focus of the debate was the [gain] ;
+
+In a period of growth , the increment is the focus of debate ; with cutbacks the baseline is questioned leading to increasingly adversarial relations .
+in a period of growth , the [gain] is the focus of debate ; with cutbacks the baseline is questioned leading to increasingly adversarial relations .
+
+The teaching profession has recently made a beginning in this direction , allowing one salary increment for each three years of child rearing .
+the teaching profession has recently made a beginning in this direction , allowing one salary [gain] for each three years of child rearing .
+
+His influence can clearly be seen in both Fabianism , where his analysis of the unearned increment reached a receptive audience , and New Liberalism , which developed his later concerns about distributive justice .
+his influence can clearly be seen in both fabianism , where his analysis of the unearned [gain] reached a receptive audience , and new liberalism , which developed his later concerns about distributive justice .
+
+The only other conditional jump instructions based on arithmetic tests that are at all common are ( a ) Jump if the contents of a specified store location is zero , usually forming part of an " increment and jump if zero " instruction ( see 3.3 ) .
+the only other conditional jump instructions based on arithmetic tests that are at all common are ( a ) jump if the contents of a specified store location is zero , usually forming part of an " [gain] and jump if zero " instruction ( see 3.3 ) .
+
+@@@ For example , if the bits for " logical complement of accumulator " and " increment accumulator " are set , then the instruction " complement and increment accumulator " ( i.e. two 's complement negate accumulator ) is obtained .
+@@@ for example , if the bits for " logical complement of accumulator " and " [gain] accumulator " are set , then the instruction " complement and [gain] accumulator " ( i.e. two 's complement negate accumulator ) is obtained .
+
+Such an `` increment count and jump `` instruction specifies an accumulator , index register , or store location whose contents are to be used as a loop counter ( and which will have been initialized by another instruction ) .
+such an `` [gain] count and jump `` instruction specifies an accumulator , index register , or store location whose contents are to be used as a loop counter ( and which will have been initialized by another instruction ) .
+
+When the instruction is executed it adds an increment value to the count , and tests whether the count has reached a limit value .
+when the instruction is executed it adds an [gain] value to the count , and tests whether the count has reached a limit value .
+
+The increment value and limit are commonly implied by the instruction as ( respectively ) plus or minus one and zero .
+the [gain] value and limit are commonly implied by the instruction as ( respectively ) plus or minus one and zero .
+
+If the jump address is also implied we have the `` increment count and skip `` instruction described earlier .
+if the jump address is also implied we have the `` [gain] count and skip `` instruction described earlier .
+
+We may terminate the loop either by means of an " increment ( decrement ) count and jump on zero " instruction , or when the contents of the index register reach a certain value ( in which case we need an instruction to compare an index register with a store location ) .
+we may terminate the loop either by means of an " [gain] ( decrement ) count and jump on zero " instruction , or when the contents of the index register reach a certain value ( in which case we need an instruction to compare an index register with a store location ) .
+
+An alternative method for dealing with vector elements of different lengths is for an increment value of one always to be used , but for the modifier field to be suitably manipulated when an element is accessed .
+an alternative method for dealing with vector elements of different lengths is for an [gain] value of one always to be used , but for the modifier field to be suitably manipulated when an element is accessed .
+
+Thus we may be able to initiate an instruction fetch from store and increment the program counter in one micro-instruction .
+thus we may be able to initiate an instruction fetch from store and [gain] the program counter in one micro-instruction .
+
+An `` increment store location and skip if zero `` instruction is described on page 105 .
+an `` [gain] store location and skip if zero `` instruction is described on page 105 .
+
+The mean height increment during the first year after diagnosis was 4.4 ( 2.3 ) cm .
+the mean height [gain] during the first year after diagnosis was 4.4 ( 2.3 ) cm .
+
+The partner in charge of several project engineers , however , will be looking at a coarser level of cost increment ( say £5000 ) in controlling and monitoring the performance of his or her group of engineers .
+the partner in charge of several project engineers , however , will be looking at a coarser level of cost [gain] ( say £5000 ) in controlling and monitoring the performance of his or her group of engineers .
+
+In a country like Kenya with a 4 % plus increment in the population , the pressures are becoming so heavy that the relatively slow educational process towards the utilization of natural resources is likely to be swamped by the acute needs of the very people who need to be informed .
+in a country like kenya with a 4 % plus [gain] in the population , the pressures are becoming so heavy that the relatively slow educational process towards the utilization of natural resources is likely to be swamped by the acute needs of the very people who need to be informed .
+
+9.10 Refractive index increment
+9.10 refractive index [gain]
+
+The punctual increment of your lives .
+the punctual [gain] of your lives .
+
+The second condition for equilibrium is that firms enter until the next potential entrant would make a loss . If n is sufficiently large that 1 is a small increment , we can assume that the marginal firm is exactly breaking even : where is determined from the demand curve
+the second condition for equilibrium is that firms enter until the next potential entrant would make a loss . if n is sufficiently large that 1 is a small [gain] , we can assume that the marginal firm is exactly breaking even : where is determined from the demand curve
+
+There also lay embedded in the system the inequality of paying not for the job but for the qualifications : degrees received a year 's extra increment and as a result earnings differentials rose .
+there also lay embedded in the system the inequality of paying not for the job but for the qualifications : degrees received a year 's extra [gain] and as a result earnings differentials rose .
+
+‘ it is not the great mass of publications ( each constituting but a minor increment to the sum of human knowledge ) which contribute most to scientific progress , but a small number of key papers , each of which has a very great impact on the advance of knowledge … only a very few elite scientists produce work that becomes the base for future discoveries . ’
+‘ it is not the great mass of publications ( each constituting but a minor [gain] to the sum of human knowledge ) which contribute most to scientific progress , but a small number of key papers , each of which has a very great impact on the advance of knowledge … only a very few elite scientists produce work that becomes the base for future discoveries . ’
+
+It can be shown that is the increment in average energy per unit volume and therefore a perfect differential .
+it can be shown that is the [gain] in average energy per unit volume and therefore a perfect differential .
+
+The fundamental equilibrium relation assumed is that the increment of tensile load in element dx is equal to the total surface shear over that element , that is
+the fundamental equilibrium relation assumed is that the [gain] of tensile load in element dx is equal to the total surface shear over that element , that is
+
+The reasons for the apparent change in relative incidence at different sites are poorly understood and there is controversy about whether the increase of cardia cancer represents an absolute increment or whether the apparent increase is related to a decreased incidence of antral tumours .
+the reasons for the apparent change in relative incidence at different sites are poorly understood and there is controversy about whether the increase of cardia cancer represents an absolute [gain] or whether the apparent increase is related to a decreased incidence of antral tumours .
+
+To measure oesophageal body motility , variables measured were : ( 1 ) amplitude of contraction ( mm Hg ) , defined as the difference between the baseline pressure and the maximal pressure during the pressure event ; ( 2 ) duration of contraction ( s ) , defined as the time elapsed between the start and the end of the pressure event ; ( 3 ) area under the pressure curve ( mm Hg×s ) , calculated from the sum of all pressure values between the start and the end of the pressure event , multiplied by the sampling interval ; ( 4 ) propagation velocity ( cm/s ) , defined as the speed of a contraction and calculated from the delay time and the distance between the sensors ; ( 5 ) contractility ( mm Hg/s ) , defined as the maximal increment between consecutive pressure values divided by the sampling interval ; ( 6 ) total contractions ( No/24 h ) , defined as pressure curves that are not rejected as artifacts ; ( 7 ) propagated contractions ( No/24 h ) , defined as contractions that are detected by a proximal pressure transducer and followed by a contraction at the distal sensor .
+to measure oesophageal body motility , variables measured were : ( 1 ) amplitude of contraction ( mm hg ) , defined as the difference between the baseline pressure and the maximal pressure during the pressure event ; ( 2 ) duration of contraction ( s ) , defined as the time elapsed between the start and the end of the pressure event ; ( 3 ) area under the pressure curve ( mm hg×s ) , calculated from the sum of all pressure values between the start and the end of the pressure event , multiplied by the sampling interval ; ( 4 ) propagation velocity ( cm/s ) , defined as the speed of a contraction and calculated from the delay time and the distance between the sensors ; ( 5 ) contractility ( mm hg/s ) , defined as the maximal [gain] between consecutive pressure values divided by the sampling interval ; ( 6 ) total contractions ( no/24 h ) , defined as pressure curves that are not rejected as artifacts ; ( 7 ) propagated contractions ( no/24 h ) , defined as contractions that are detected by a proximal pressure transducer and followed by a contraction at the distal sensor .
+
+rational behaviour on the part of investors in which they prefer more wealth to less and are indifferent to whether an increment to their wealth takes the form of an unrealized capital gain or a cash dividend payment .
+rational behaviour on the part of investors in which they prefer more wealth to less and are indifferent to whether an [gain] to their wealth takes the form of an unrealized capital gain or a cash dividend payment .
+
+’ In Cumbria , said Redfern , the ‘ height increment [ growth ] does appear to have fallen off markedly since about 1975/6 … down as much as a quarter in recent years .
+’ in cumbria , said redfern , the ‘ height [gain] [ growth ] does appear to have fallen off markedly since about 1975/6 … down as much as a quarter in recent years .
+
+The value of this annual increment of rich topsoil can hardly be exaggerated .
+the value of this annual [gain] of rich topsoil can hardly be exaggerated .
+
+In fifth , though the 50–70mph increment consumes just 9.7 secs , which clearly puts the Cavalier in its place ( 10.6secs ) and presses even the turbocharged Saab 900 Carlsson 's 9.1secs .
+in fifth , though the 50–70mph [gain] consumes just 9.7 secs , which clearly puts the cavalier in its place ( 10.6secs ) and presses even the turbocharged saab 900 carlsson 's 9.1secs .
+
+The car 's tremendous torque proves invaluable when it comes to overtaking ; it leaps the fourth-gear 30–50mph increment in just 6.5secs .
+the car 's tremendous torque proves invaluable when it comes to overtaking ; it leaps the fourth-gear 30–50mph [gain] in just 6.5secs .
+
+This is mainly as an alternative to shopping on Friday evening or Saturday , although seven-day opening had brought a ‘ small increment ’ in sales .
+this is mainly as an alternative to shopping on friday evening or saturday , although seven-day opening had brought a ‘ small [gain] ’ in sales .
+
+Not many redwoods , or sequoias , exceeded 3000 years but they were generally considered the oldest living matter until the development of the Swedish increment borer enabled dendrologists ( people who study the natural history of trees ) to age a tree without felling it .
+not many redwoods , or sequoias , exceeded 3000 years but they were generally considered the oldest living matter until the development of the swedish [gain] borer enabled dendrologists ( people who study the natural history of trees ) to age a tree without felling it .
+
+With the lever of the four-speed auto gearbox shifted manually for the best results , the Safrane sprints from rest to 60mph in 9.9secs , cover the quarter mile in 17.6 secs and completed the 30–70mph increment in 9.3secs .
+with the lever of the four-speed auto gearbox shifted manually for the best results , the safrane sprints from rest to 60mph in 9.9secs , cover the quarter mile in 17.6 secs and completed the 30–70mph [gain] in 9.3secs .
+
+Even the Ford , with only 145bhp at its disposal , manages to cover the same increment in 9.1 secs , while the Alfa posts a laudable 8.2secs .
+even the ford , with only 145bhp at its disposal , manages to cover the same [gain] in 9.1 secs , while the alfa posts a laudable 8.2secs .
+
+However , you do not receive an increment for any week when you or a dependant are receiving another national insurance benefit .
+however , you do not receive an [gain] for any week when you or a dependant are receiving another national insurance benefit .
+
+If you become unemployed , you draw unemployment benefit at the same rate as retirement pension , but there is no increment for those weeks .
+if you become unemployed , you draw unemployment benefit at the same rate as retirement pension , but there is no [gain] for those weeks .
+
+There is nothing God-given about any particular system of measurement ; intelligent life on another planet might easily have evolved a method of assessing people 's incomes which involved multiplying by a fixed amount for each increment .
+there is nothing god-given about any particular system of measurement ; intelligent life on another planet might easily have evolved a method of assessing people 's incomes which involved multiplying by a fixed amount for each [gain] .
+
+An additional increment of education or technical training is expected to reduce the period of transitional unemployment and increase the subsequent earnings of participants .
+an additional [gain] of education or technical training is expected to reduce the period of transitional unemployment and increase the subsequent earnings of participants .
+
+This approach reduced the amount of risk in the development of each increment , facilitating greater success in meeting cost , schedule , and performance requirements .
+this approach reduced the amount of risk in the development of each [gain] , facilitating greater success in meeting cost , schedule , and performance requirements .
+
+This approach reduces the amount of risk in the development of each increment , facilitating greater success in meeting cost , schedule , and performance requirements .
+this approach reduces the amount of risk in the development of each [gain] , facilitating greater success in meeting cost , schedule , and performance requirements .
+
+For example , emissions resulting from the construction of such a new or modified unit may not cause or contribute to the violation of a Class I increment unless the federal land manager certifies that the emissions from the facility will have no adverse impact on the air quality related values of the Class I area .
+for example , emissions resulting from the construction of such a new or modified unit may not cause or contribute to the violation of a class i [gain] unless the federal land manager certifies that the emissions from the facility will have no adverse impact on the air quality related values of the class i area .
+
+For each increment of time , the impact to US steel demand was less than one tenth of one percent .
+for each [gain] of time , the impact to us steel demand was less than one tenth of one percent .
+
+The actual annual requirement for labor would be less if the estimated number of retrofit installations were evenly distributed over the full five-year increment of time instead of the conservative three-year increment .
+the actual annual requirement for labor would be less if the estimated number of retrofit installations were evenly distributed over the full five-year [gain] of time instead of the conservative three-year [gain] .
+
+According to Table 6-4 , if the retrofit of the FGD , SCR , and ACI systems for 2005 occur over thirty-one months prior to 2005 and over a three-year period for each five-year increment after 2005 to 2020 , the maximum demand would be about 23 percent of the journeyman boilermakers or about 19 percent for journeymen and apprentices combined .
+according to table 6-4 , if the retrofit of the fgd , scr , and aci systems for 2005 occur over thirty-one months prior to 2005 and over a three-year period for each five-year [gain] after 2005 to 2020 , the maximum demand would be about 23 percent of the journeyman boilermakers or about 19 percent for journeymen and apprentices combined .
+
+The analysis of variability of access time involves estimating the number of new accesses that would be caused by an increment of volume .
+the analysis of variability of access time involves estimating the number of new accesses that would be caused by an [gain] of volume .
+
+Nutrient Composition of Calorie Restricted Diets Previous studies in rodents have shown that the effects of CR on extending life span are dose dependent , with a 20 % reduction in calorie intake producing a smaller increment in life span as compared to a 40 % reduction in food intake [ 7 ] .
+nutrient composition of calorie restricted diets previous studies in rodents have shown that the effects of cr on extending life span are dose dependent , with a 20 % reduction in calorie intake producing a smaller [gain] in life span as compared to a 40 % reduction in food intake [ 7 ] .
+
+Moreover , there is emerging evidence that decrements in intellectual abilities and low birth weight linked with lead or tobacco are , for a given increment of exposure , greater at lower levels than those found at higher levels [ 10,41,42,43 ] .
+moreover , there is emerging evidence that decrements in intellectual abilities and low birth weight linked with lead or tobacco are , for a given [gain] of exposure , greater at lower levels than those found at higher levels [ 10,41,42,43 ] .
+
+We would like , with some sense of rough justice , to create a system in which each increment of government force results in a greater decrement of private force , so that at the margin the sum of both is minimized .
+we would like , with some sense of rough justice , to create a system in which each [gain] of government force results in a greater decrement of private force , so that at the margin the sum of both is minimized .
+
+Other times , when overtaken by the enough is enough gremlin , they compute the gratuity based on the food , adding a modest increment to acknowledge that wine was served .
+other times , when overtaken by the enough is enough gremlin , they compute the gratuity based on the food , adding a modest [gain] to acknowledge that wine was served .
+
+The tax , conceived around the time of World War I and now in use across the European Community , is imposed on each increment of growth in value during a commodity 's industrial transformation .
+the tax , conceived around the time of world war i and now in use across the european community , is imposed on each [gain] of growth in value during a commodity 's industrial transformation .
+

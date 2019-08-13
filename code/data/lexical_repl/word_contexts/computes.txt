@@ -1,0 +1,60 @@
+If you file Form 1040A and the District Director computes your tax , you will be sent a bill if additional tax is due .
+if you file form 1040a and the district director [calculates] your tax , you will be sent a bill if additional tax is due .
+
+If you file Form 1040A and the District Director computes your tax , any refund to which you are entitled will be mailed to you .
+if you file form 1040a and the district director [calculates] your tax , any refund to which you are entitled will be mailed to you .
+
+This does not order the probes but instead takes a contig list as input and computes every inconsistent hybridisation ( defined as any link between a probe in one contig and a clone in another ) .
+this does not order the probes but instead takes a contig list as input and [calculates] every inconsistent hybridisation ( defined as any link between a probe in one contig and a clone in another ) .
+
+This method effectively computes a profile for each probe and contig , indicating the most probable region of the contig on the map .
+this method effectively [calculates] a profile for each probe and contig , indicating the most probable region of the contig on the map .
+
+Although corrected estimates are easy to obtain , no software exists which correctly computes confidence intervals for the estimates of the regression coefficients .
+although corrected estimates are easy to obtain , no software exists which correctly [calculates] confidence intervals for the estimates of the regression coefficients .
+
+If the top layer contains several nodes , then the device computes a more elaborate function of its input .
+if the top layer contains several nodes , then the device [calculates] a more elaborate function of its input .
+
+Such Z-Score analysis is best conducted using purpose-built micro-computer software which computes the company 's Z-Score , risk rating , PAS-score trajectory , financial profile and standardised accounts automatically from accounting data input by the analyst .
+such z-score analysis is best conducted using purpose-built micro-computer software which [calculates] the company 's z-score , risk rating , pas-score trajectory , financial profile and standardised accounts automatically from accounting data input by the analyst .
+
+The software also computes the depth that the article will take , space can be added for photographs if needed , and when everything fits the article is queued for printing .
+the software also [calculates] the depth that the article will take , space can be added for photographs if needed , and when everything fits the article is queued for printing .
+
+The reason given for this is that the costs of installing and maintaining an accounting information system that computes individual cost centre rates is complex and expensive .
+the reason given for this is that the costs of installing and maintaining an accounting information system that [calculates] individual cost centre rates is complex and expensive .
+
+It computes various parameters used in the measuring process .
+it [calculates] various parameters used in the measuring process .
+
+This procedure computes the blackout and whiteout levels and stores them in the fields black , white of savedValues .
+this procedure [calculates] the blackout and whiteout levels and stores them in the fields black , white of savedvalues .
+
+stripNumber Computes the number of a horizontal or vertical strip .
+stripnumber [calculates] the number of a horizontal or vertical strip .
+
+chooseExposure — Computes both the LB-level and the UB-level .
+chooseexposure — [calculates] both the lb-level and the ub-level .
+
+This function returns the appropriate root of that quadratic , if it is a genuine quadratic , and computes an appropriate value if not .
+this function returns the appropriate root of that quadratic , if it is a genuine quadratic , and [calculates] an appropriate value if not .
+
+refAndWeights — Saves a set of ‘ good ’ measures for use as a consistency check on each measurement and computes a weighting between the top and bottom halves of the image .
+refandweights — saves a set of ‘ good ’ measures for use as a consistency check on each measurement and [calculates] a weighting between the top and bottom halves of the image .
+
+One of the checks computes the current reference pixel count as a percentage of a previously saved ‘ normal ’ value .
+one of the checks [calculates] the current reference pixel count as a percentage of a previously saved ‘ normal ’ value .
+
+Having obtained a measure of anticipated monetary growth , Barro computes the unanticipated component of monetary growth in each period as the difference between actual monetary growth in the period and the anticipated component of monetary growth in that period ; that is , .
+having obtained a measure of anticipated monetary growth , barro [calculates] the unanticipated component of monetary growth in each period as the difference between actual monetary growth in the period and the anticipated component of monetary growth in that period ; that is , .
+
+Perhaps it computes something as simple as the square roots of the first two million integers .
+perhaps it [calculates] something as simple as the square roots of the first two million integers .
+
+Computable General Equilibrium - AMIGA computes a full-employment solution for demands , prices , costs , and outputs of interrelated products , including induced activities such as transportation and wholesale/retail trade ; 4 ) .
+computable general equilibrium - amiga [calculates] a full-employment solution for demands , prices , costs , and outputs of interrelated products , including induced activities such as transportation and wholesale/retail trade ; 4 ) .
+
+The spot then computes what a 15 percent cut will mean to the average family .
+the spot then [calculates] what a 15 percent cut will mean to the average family .
+

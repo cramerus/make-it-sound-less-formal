@@ -1,0 +1,462 @@
+Most of this testimony may have been legally admissible as bearing on the corpus delicti of the total Nazi crime but seemed subject to question when not tied to the part in it of the defendant's Department of Jewish Affairs .
+most of this testimony may have been legally [allowed] as bearing on the corpus delicti of the total nazi crime but seemed subject to question when not tied to the part in it of the defendant's department of jewish affairs .
+
+In practical situations there will be restrictions on the admissible operating conditions , and we regard the vectors as belonging to a fixed and bounded set S .
+in practical situations there will be restrictions on the [allowed] operating conditions , and we regard the vectors as belonging to a fixed and bounded set s .
+
+The set of vectors Af constitutes the operating policy or , more briefly , the policy , and a policy is admissible if all the Af belong to S .
+the set of vectors af constitutes the operating policy or , more briefly , the policy , and a policy is [allowed] if all the af belong to s .
+
+An optimal policy is an admissible policy Af which maximizes the objective function P .
+an optimal policy is an [allowed] policy af which maximizes the objective function p .
+
+Let Af where the maximization is over all admissible policies Af .
+let af where the maximization is over all [allowed] policies af .
+
+For any choice of admissible policy Af in the first stage , the state of the stream leaving this stage is given by Af .
+for any choice of [allowed] policy af in the first stage , the state of the stream leaving this stage is given by af .
+
+Thus Af where the maximization is over all admissible policies Af , and Af is related to Af by ( 5 ) .
+thus af where the maximization is over all [allowed] policies af , and af is related to af by ( 5 ) .
+
+The sequence of equations ( 6 ) can be solved for Af when Af is known , and clearly Af , the maximization being over all admissible Af .
+the sequence of equations ( 6 ) can be solved for af when af is known , and clearly af , the maximization being over all [allowed] af .
+
+Then Af , the maximization being over all admissible Af and the integration over the whole of stage space .
+then af , the maximization being over all [allowed] af and the integration over the whole of stage space .
+
+In cases where there was more than one accused , it was not unusual to discover that some evidence was admissible against one accused only and not the other accused .
+in cases where there was more than one accused , it was not unusual to discover that some evidence was [allowed] against one accused only and not the other accused .
+
+Insu not ins admissible .
+insu not ins [allowed] .
+
+Synonyms for ‘ efficient ’ include ‘ admissible ’ , ‘ Pareto optimal ’ and ‘ non dominated ’ .
+synonyms for ‘ efficient ’ include ‘ [allowed] ’ , ‘ pareto optimal ’ and ‘ non dominated ’ .
+
+The disregard of minorities , combined with what Hugo Young has called ‘ the politics of admissible ethnic sneering or loathing ’ , is of special concern to the Muslim community — the main victim of traditional racists as well as of the unresolved antagonism of the intelligentsia in the wake of the Rushdie affair .
+the disregard of minorities , combined with what hugo young has called ‘ the politics of [allowed] ethnic sneering or loathing ’ , is of special concern to the muslim community — the main victim of traditional racists as well as of the unresolved antagonism of the intelligentsia in the wake of the rushdie affair .
+
+Following Bennett , we regard it as admissible to frame theories of perception ( or ‘ registration ’ ) and of ‘ proto'-belief and desire to explain the actions of certain creatures , provided their behaviour is complex enough , and subject also to the usual caveats of holistic method .
+following bennett , we regard it as [allowed] to frame theories of perception ( or ‘ registration ’ ) and of ‘ proto'-belief and desire to explain the actions of certain creatures , provided their behaviour is complex enough , and subject also to the usual caveats of holistic method .
+
+But Althusser imposes one stringent limitation on the types that are admissible when he asserts that Marxist history is ‘ a process without a subject ’ .
+but althusser imposes one stringent limitation on the types that are [allowed] when he asserts that marxist history is ‘ a process without a subject ’ .
+
+There is a further distinction to be made between what is socially admissible and what is acceptable ( see case study 2.3 ) .
+there is a further distinction to be made between what is socially [allowed] and what is acceptable ( see case study 2.3 ) .
+
+Press and public were then excluded from the court as lawyers debated whether an alleged tape recording of Newall was admissible as evidence .
+press and public were then excluded from the court as lawyers debated whether an alleged tape recording of newall was [allowed] as evidence .
+
+It has been held that transactions in shares , not necessarily at arm 's length or for cash , and previous agreements with the Inland Revenue with regard to their valuation , were admissible evidence in relation to the valuation of the shares ( p 108 ) .
+it has been held that transactions in shares , not necessarily at arm 's length or for cash , and previous agreements with the inland revenue with regard to their valuation , were [allowed] evidence in relation to the valuation of the shares ( p 108 ) .
+
+Admissible evidence
+[allowed] evidence
+
+Transactions in shares , not necessarily at arm 's length or for cash , and previous agreements with the Inland Revenue with regard to their valuation , were held to be admissible evidence in relation to the valuation of the shares .
+transactions in shares , not necessarily at arm 's length or for cash , and previous agreements with the inland revenue with regard to their valuation , were held to be [allowed] evidence in relation to the valuation of the shares .
+
+In accepting the Crown 's application , Lord Coulsfield said that the general rule of law was that evidence which was relevant to the issue was admissible unless excluded by some peremptory rule of law .
+in accepting the crown 's application , lord coulsfield said that the general rule of law was that evidence which was relevant to the issue was [allowed] unless excluded by some peremptory rule of law .
+
+The Commissioner had gone too far and had given a ruling that would have had the effect of preventing the Crown from leading evidence which , as a matter of law , was admissible .
+the commissioner had gone too far and had given a ruling that would have had the effect of preventing the crown from leading evidence which , as a matter of law , was [allowed] .
+
+The opinion evidence was not admissible as it sought to answer the very matter that was for the Special Commissioner 's decision , a question for which the witness was not qualified as an expert .
+the opinion evidence was not [allowed] as it sought to answer the very matter that was for the special commissioner 's decision , a question for which the witness was not qualified as an expert .
+
+This usually occurred indirectly , but none the less effectively introducing this information which Parliament had tried to rule out as admissible evidence .
+this usually occurred indirectly , but none the less effectively introducing this information which parliament had tried to rule out as [allowed] evidence .
+
+The Act also sought to restrict the extent to which a woman 's prior sexual history could be used as admissible evidence in court , thus indirectly affecting the material available to the press to publish .
+the act also sought to restrict the extent to which a woman 's prior sexual history could be used as [allowed] evidence in court , thus indirectly affecting the material available to the press to publish .
+
+The rule as now settled is that they are inadmissible in order to show what the committee thought its proposals meant , but admissible under the rule in Heydon 's case to the extent that they show the mischief against which the Act was directed .
+the rule as now settled is that they are inadmissible in order to show what the committee thought its proposals meant , but [allowed] under the rule in heydon 's case to the extent that they show the mischief against which the act was directed .
+
+But a comparison of the kangaroo with the closure and the guillotine would be admissible , and credit would be given for it .
+but a comparison of the kangaroo with the closure and the guillotine would be [allowed] , and credit would be given for it .
+
+The Hague Rules had adopted the principle that the bill was only ‘ prima facie evidence of the receipt by the carrier of the goods as therein described … ’ The Protocol added the following sentence : ‘ However , proof to the contrary shall not be admissible when the bill of lading has been transferred to a third party acting in good faith .
+the hague rules had adopted the principle that the bill was only ‘ prima facie evidence of the receipt by the carrier of the goods as therein described … ’ the protocol added the following sentence : ‘ however , proof to the contrary shall not be [allowed] when the bill of lading has been transferred to a third party acting in good faith .
+
+Sanctioned or authorized by law or right , lawful , proper ; ( c ) normal , regular ; conformable to a recognized standard type ; ( d ) sanctioned by the laws of reasoning ; logically admissible or inferable .
+sanctioned or authorized by law or right , lawful , proper ; ( c ) normal , regular ; conformable to a recognized standard type ; ( d ) sanctioned by the laws of reasoning ; logically [allowed] or inferable .
+
+Shirley , sitting there mildly , the downstairs Shirley , thinking these thoughts , remembering the peremptory demands of the old , the attic Shirley , felt trembling in her , deep deep buried in her sitting-room centrally heated flesh , a wild improper memory , an admissible echo , the faintest thrill of a shudder of remembered desire : Shirley Ablewhite , the bad-good girl , called to her through the knot of her body , painfully , angrily , buried , buried alive , and Shirley Harper half heard her , bent her head , and acknowledged with mixed fear and relief the stirring , the tremor , the sulking , menacing , sweet and half despairing plea .
+shirley , sitting there mildly , the downstairs shirley , thinking these thoughts , remembering the peremptory demands of the old , the attic shirley , felt trembling in her , deep deep buried in her sitting-room centrally heated flesh , a wild improper memory , an [allowed] echo , the faintest thrill of a shudder of remembered desire : shirley ablewhite , the bad-good girl , called to her through the knot of her body , painfully , angrily , buried , buried alive , and shirley harper half heard her , bent her head , and acknowledged with mixed fear and relief the stirring , the tremor , the sulking , menacing , sweet and half despairing plea .
+
+The theory is that the results or factual conclusions of police investigations have no special standing but have to be proved by admissible evidence just like any other relevant fact .
+the theory is that the results or factual conclusions of police investigations have no special standing but have to be proved by [allowed] evidence just like any other relevant fact .
+
+Confessions made during this period are admissible and often devastating .
+confessions made during this period are [allowed] and often devastating .
+
+There was affidavit evidence before the judge which , if admissible , showed that the appeal committee had in fact approached their task in accordance with the two stage test propounded in the Croydon case .
+there was affidavit evidence before the judge which , if [allowed] , showed that the appeal committee had in fact approached their task in accordance with the two stage test propounded in the croydon case .
+
+In all criminal and civil proceedings any such code shall be admissible in evidence ; and if any provision of such a code appears to the court or tribunal conducting the proceedings to be relevant to any question arising in the proceedings it shall be taken into account in determining that question .
+in all criminal and civil proceedings any such code shall be [allowed] in evidence ; and if any provision of such a code appears to the court or tribunal conducting the proceedings to be relevant to any question arising in the proceedings it shall be taken into account in determining that question .
+
+There was some disagreement in the Commission as to the scope of the admissible defences but there was a unanimous recommendation that statutory authority should not , of itself , provide immunity from strict liability .
+there was some disagreement in the commission as to the scope of the [allowed] defences but there was a unanimous recommendation that statutory authority should not , of itself , provide immunity from strict liability .
+
+Not only is this statement admissible in tribunal proceedings , but unreasonable refusal to provide such a statement renders the employer , on the application of the employee to a tribunal , liable to a penalty payable to the employee of a sum equal to two weeks ' gross pay .
+not only is this statement [allowed] in tribunal proceedings , but unreasonable refusal to provide such a statement renders the employer , on the application of the employee to a tribunal , liable to a penalty payable to the employee of a sum equal to two weeks ' gross pay .
+
+The negotiations are conducted on a ‘ without prejudice ’ basis and information communicated through conciliation officers is by statute not admissible at tribunal hearings unless the person who gave the information to the conciliation officer consents .
+the negotiations are conducted on a ‘ without prejudice ’ basis and information communicated through conciliation officers is by statute not [allowed] at tribunal hearings unless the person who gave the information to the conciliation officer consents .
+
+It was common ground that the transcript of Price 's evidence before the Swedish court was admissible in extradition proceedings under paragraph 12 of Schedule 1 to the Extradition Act 1989 .
+it was common ground that the transcript of price 's evidence before the swedish court was [allowed] in extradition proceedings under paragraph 12 of schedule 1 to the extradition act 1989 .
+
+The evidence produced included a transcript in English of Price 's evidence before the City Court of Gôteborg ; and it was not disputed that this evidence was admissible under paragraph 12 of the Schedule 1 .
+the evidence produced included a transcript in english of price 's evidence before the city court of gôteborg ; and it was not disputed that this evidence was [allowed] under paragraph 12 of the schedule 1 .
+
+However , he did call in his aid the fact that the Disciplinary Tribunal Regulations of the Inns ' Council permit evidence to be adduced which would not ordinarily be admissible in a court of law .
+however , he did call in his aid the fact that the disciplinary tribunal regulations of the inns ' council permit evidence to be adduced which would not ordinarily be [allowed] in a court of law .
+
+‘ How , then , ought the principle , on which a plea of non est factum is admissible , to be stated ?
+‘ how , then , ought the principle , on which a plea of non est factum is [allowed] , to be stated ?
+
+The defendant submitted , consistently with the conduct of the defence at the trial , that the trial judge ought not to have excluded his evidence , or any other admissible evidence which he could have elicited by cross-examination , tending to show that Paulette was addicted to drugs in the form of cocaine and ganja cigarettes , the defendant 's object being to show that Paulette 's conduct just before the shooting rendered more credible the now irrelevant defence of provocation and the defence of accident .
+the defendant submitted , consistently with the conduct of the defence at the trial , that the trial judge ought not to have excluded his evidence , or any other [allowed] evidence which he could have elicited by cross-examination , tending to show that paulette was addicted to drugs in the form of cocaine and ganja cigarettes , the defendant 's object being to show that paulette 's conduct just before the shooting rendered more credible the now irrelevant defence of provocation and the defence of accident .
+
+Their Lordships concede that the judge erroneously classed as hearsay some evidence which , though tenuous , was admissible , but they consider that the evidence of Paulette 's drug addiction could not , if admitted , have affected the outcome , particularly having regard to the fact that the defendant 's own evidence did not tend to show that Paulette was affected by drugs at the material time .
+their lordships concede that the judge erroneously classed as hearsay some evidence which , though tenuous , was [allowed] , but they consider that the evidence of paulette 's drug addiction could not , if admitted , have affected the outcome , particularly having regard to the fact that the defendant 's own evidence did not tend to show that paulette was affected by drugs at the material time .
+
+The Crown submitted that , even if the defendant 's approach be accepted , the defence could not exclude admissible evidence , even if proper notice of it had not been given , and further argued that Zaidie 's evidence ( confirmed by the defendant ) that an accident was not suggested in the telephone call to him was conclusive when taken with the incontrovertible circumstances of the shooting , thereby suggesting that the ‘ irregularities ’ were not material in the sense that the defence could have profited if they had not occurred .
+the crown submitted that , even if the defendant 's approach be accepted , the defence could not exclude [allowed] evidence , even if proper notice of it had not been given , and further argued that zaidie 's evidence ( confirmed by the defendant ) that an accident was not suggested in the telephone call to him was conclusive when taken with the incontrovertible circumstances of the shooting , thereby suggesting that the ‘ irregularities ’ were not material in the sense that the defence could have profited if they had not occurred .
+
+By section 72(3) no statement or admission made by a person pursuant to that section shall , in proceedings for any related offence , be admissible in evidence against that person or against the spouse of that person but any statement or admission may be admitted in evidence in proceedings for perjury or contempt of court .
+by section 72(3) no statement or admission made by a person pursuant to that section shall , in proceedings for any related offence , be [allowed] in evidence against that person or against the spouse of that person but any statement or admission may be admitted in evidence in proceedings for perjury or contempt of court .
+
+Contempt of Court — Committal order — Civil contempt — Breach of injunction — Application to adduce fresh evidence to excuse contempt — Whether fresh evidence admissible — Criminal Appeal Act 1968 ( c. 19 ) , s. 23
+contempt of court — committal order — civil contempt — breach of injunction — application to adduce fresh evidence to excuse contempt — whether fresh evidence [allowed] — criminal appeal act 1968 ( c. 19 ) , s. 23
+
+Crime — Evidence — Documents , admissibility of — Statements by defendant in bankruptcy proceedings — Subsequent prosecution for theft offences — Whether documents admissible — Theft Act 1968 ( c. 60 ) , s. 31 — Insolvency Act 1986 ( c. 45 ) , s. 433
+crime — evidence — documents , admissibility of — statements by defendant in bankruptcy proceedings — subsequent prosecution for theft offences — whether documents [allowed] — theft act 1968 ( c. 60 ) , s. 31 — insolvency act 1986 ( c. 45 ) , s. 433
+
+The judge ruled that section 31 of the Theft Act 1968 under which admissions made in ‘ proceedings for the recovery or administration of any property ’ were inadmissible in evidence in proceedings for an offence under that Act , did not apply to bankruptcy proceedings and that the documents were admissible in evidence under section 433 of the Insolvency Act 1986 The defendant was convicted .
+the judge ruled that section 31 of the theft act 1968 under which admissions made in ‘ proceedings for the recovery or administration of any property ’ were inadmissible in evidence in proceedings for an offence under that act , did not apply to bankruptcy proceedings and that the documents were [allowed] in evidence under section 433 of the insolvency act 1986 the defendant was convicted .
+
+The judge ruled that the documents were admissible , and this appeal is basically against that ruling .
+the judge ruled that the documents were [allowed] , and this appeal is basically against that ruling .
+
+the Theft Act 1968 ) , his answers not being admissible in evidence against him in those proceedings .
+the theft act 1968 ) , his answers not being [allowed] in evidence against him in those proceedings .
+
+Thereafter section 433 of the Act of 1986 renders the evidence admissible .
+thereafter section 433 of the act of 1986 renders the evidence [allowed] .
+
+Certificate under section 1(2) of the Administration of Justice Act 1960 that point of law of general public importance involved in decision namely , ‘ In criminal proceedings under the Theft Act 1968 , is a statement or admission made by a defendant in bankruptcy proceedings admissible against the defendant ? ’
+certificate under section 1(2) of the administration of justice act 1960 that point of law of general public importance involved in decision namely , ‘ in criminal proceedings under the theft act 1968 , is a statement or admission made by a defendant in bankruptcy proceedings [allowed] against the defendant ? ’
+
+‘ Nevertheless it has to be recognised that there is an unbroken series of dicta in judgments of appellate courts to the effect that there is a judicial discretion to exclude admissible evidence which has been ‘ obtained ’ unfairly or by trickery or oppressively , although except in Reg .
+‘ nevertheless it has to be recognised that there is an unbroken series of dicta in judgments of appellate courts to the effect that there is a judicial discretion to exclude [allowed] evidence which has been ‘ obtained ’ unfairly or by trickery or oppressively , although except in reg .
+
+In view of the terms of those dicta , the paucity of cases in which the discretion has been exercised so as to exclude legally admissible evidence is not surprising .
+in view of the terms of those dicta , the paucity of cases in which the discretion has been exercised so as to exclude legally [allowed] evidence is not surprising .
+
+And a copy of any registered document , duly certified by the Registrar ‘ is in all legal proceedings admissible in evidence as of equal validity with the original document and as evidence of any fact stated therein of which oral evidence would be admissible .
+and a copy of any registered document , duly certified by the registrar ‘ is in all legal proceedings [allowed] in evidence as of equal validity with the original document and as evidence of any fact stated therein of which oral evidence would be [allowed] .
+
+This document is not reproduced when the Bill finally becomes an Act of Parliament and is not admissible in court as an aid to the interpretation of the Act .
+this document is not reproduced when the bill finally becomes an act of parliament and is not [allowed] in court as an aid to the interpretation of the act .
+
+So , for example , the practitioner has no guidance on the weight which will be given to an admissible ministerial statement that a situation is not covered by one clause but is covered by another that is in conflict with a construction based on textual examination of the legislation as a whole .
+so , for example , the practitioner has no guidance on the weight which will be given to an [allowed] ministerial statement that a situation is not covered by one clause but is covered by another that is in conflict with a construction based on textual examination of the legislation as a whole .
+
+Similar conflicts could arise between admissible ministerial statements on the effect of a provision and , say , a construction based on the punctuation of the provision , or on prior or subsequent legislative provisions .
+similar conflicts could arise between [allowed] ministerial statements on the effect of a provision and , say , a construction based on the punctuation of the provision , or on prior or subsequent legislative provisions .
+
+Parliamentary material is admissible where the legislation is ambiguous , uncertain or leads to an absurdity .
+parliamentary material is [allowed] where the legislation is ambiguous , uncertain or leads to an absurdity .
+
+If the ambiguity or uncertainty or apparent absurdity can be resolved by the more established aids to construction , is parliamentary material admissible to confirm the construction reached by other means ?
+if the ambiguity or uncertainty or apparent absurdity can be resolved by the more established aids to construction , is parliamentary material [allowed] to confirm the construction reached by other means ?
+
+Again , is parliamentary material admissible in support of an argument for an alternative construction ?
+again , is parliamentary material [allowed] in support of an argument for an alternative construction ?
+
+b . Admissible and Contextual Parliamentary Material
+b . [allowed] and contextual parliamentary material
+
+The element of the formulation of the rule also leaves open some questions of not only whose statements but what statements are admissible either to establish parliamentary intention or to put such statements in context .
+the element of the formulation of the rule also leaves open some questions of not only whose statements but what statements are [allowed] either to establish parliamentary intention or to put such statements in context .
+
+Assuming admissible statements to establish parliamentary intention are limited , as would appear presently to be the case , to parliamentary statements , there remain grey areas in the application of the rule . for instance , are the parliamentary statements limited to those made during consideration of the Bill ? Could a relevant statement by the Chancellor of the Exchequer in the Budget Speech be admissible for establishing parliamentary intention in the construction of a provision of a finance Act in the absence of a clear ministerial statement during the passage of the Bill ?
+assuming [allowed] statements to establish parliamentary intention are limited , as would appear presently to be the case , to parliamentary statements , there remain grey areas in the application of the rule . for instance , are the parliamentary statements limited to those made during consideration of the bill ? could a relevant statement by the chancellor of the exchequer in the budget speech be [allowed] for establishing parliamentary intention in the construction of a provision of a finance act in the absence of a clear ministerial statement during the passage of the bill ?
+
+Contextual parliamentary material is only admissible to the extent necessary to understand parliamentary statements establishing parliamentary intent .
+contextual parliamentary material is only [allowed] to the extent necessary to understand parliamentary statements establishing parliamentary intent .
+
+The range of such contextual material which is admissible under the rule is not entirely clear .
+the range of such contextual material which is [allowed] under the rule is not entirely clear .
+
+To be admissible as an aid to construction , as opposed to determining the mischief , it is submitted that a statement must be a clear expression of the legislative intention in adopting the structure or language of the provision which falls to be construed or interpreted .
+to be [allowed] as an aid to construction , as opposed to determining the mischief , it is submitted that a statement must be a clear expression of the legislative intention in adopting the structure or language of the provision which falls to be construed or interpreted .
+
+Admissible statements must also be clear in the sense that the legislative intention which they express must also be attributable ‘ to Parliament as a whole ’ .
+[allowed] statements must also be clear in the sense that the legislative intention which they express must also be attributable ‘ to parliament as a whole ’ .
+
+There are various considerations and implications which surround the adoption of an admissible statement as an expression of parliamentary intention .
+there are various considerations and implications which surround the adoption of an [allowed] statement as an expression of parliamentary intention .
+
+faced with an ambiguous or obscure provision , a legal adviser must be satisfied that , at each stage of the Bill in both Houses , no admissible statement of legislative intention has been made .
+faced with an ambiguous or obscure provision , a legal adviser must be satisfied that , at each stage of the bill in both houses , no [allowed] statement of legislative intention has been made .
+
+If an admissible statement is identified , the legal adviser may then be required to conduct a more rigorous examination of the subsequent parliamentary proceedings to establish whether the statement has been repeated , varied or withdrawn and a — somewhat less onerous task whether there has been a relevant subsequent amendment to the provision .
+if an [allowed] statement is identified , the legal adviser may then be required to conduct a more rigorous examination of the subsequent parliamentary proceedings to establish whether the statement has been repeated , varied or withdrawn and a — somewhat less onerous task whether there has been a relevant subsequent amendment to the provision .
+
+The earlier in the legislative history of the provision the admissible statement is found obviously the greater this task becomes .
+the earlier in the legislative history of the provision the [allowed] statement is found obviously the greater this task becomes .
+
+Thirdly , establishing that an admissible statement should be adopted as an expression of parliamentary intention requires establishing a negative , namely that the subsequent parliamentary proceedings do not reveal that the statement was withdrawn or varied or that a relevant inconsistent amendment was successfully moved .
+thirdly , establishing that an [allowed] statement should be adopted as an expression of parliamentary intention requires establishing a negative , namely that the subsequent parliamentary proceedings do not reveal that the statement was withdrawn or varied or that a relevant inconsistent amendment was successfully moved .
+
+Without prejudice to this judgment on the question of law , on which opinion was unanimous , it may , in practice , prove difficult for the courts to avoid construing , or at least evaluating , admissible parliamentary statements .
+without prejudice to this judgment on the question of law , on which opinion was unanimous , it may , in practice , prove difficult for the courts to avoid construing , or at least evaluating , [allowed] parliamentary statements .
+
+Convinced that he was getting somewhere at last in his search for admissible evidence , Shaughnessy now turned to several other lines of inquiry .
+convinced that he was getting somewhere at last in his search for [allowed] evidence , shaughnessy now turned to several other lines of inquiry .
+
+Any copy taken under s42 ( 1 ) is admissible as evidence of any matter referred to in the guardian 's report or in evidence given by him ( s42 ( 2 ) ) .
+any copy taken under s42 ( 1 ) is [allowed] as evidence of any matter referred to in the guardian 's report or in evidence given by him ( s42 ( 2 ) ) .
+
+Section 96 ( 3 ) gives the Lord Chancellor power by order to make hearsay evidence admissible ( see 5 below ) .
+section 96 ( 3 ) gives the lord chancellor power by order to make hearsay evidence [allowed] ( see 5 below ) .
+
+For example , a headteacher 's certificate is admissible as evidence of school attendance ( Education Act 1944 , s95 ( 2 ) ) .
+for example , a headteacher 's certificate is [allowed] as evidence of school attendance ( education act 1944 , s95 ( 2 ) ) .
+
+If the original is in the possession of one party to the proceedings who refuses to produce it at the request of another party , a copy will be admissible .
+if the original is in the possession of one party to the proceedings who refuses to produce it at the request of another party , a copy will be [allowed] .
+
+( d ) Photographs , tape recordings and video recordings Photographs are admissible in evidence provided that their authenticity can be proved .
+( d ) photographs , tape recordings and video recordings photographs are [allowed] in evidence provided that their authenticity can be proved .
+
+Evidence , in whatever form , must be relevant to be admissible .
+evidence , in whatever form , must be relevant to be [allowed] .
+
+Similar fact evidence , that is evidence that a person has acted in a similar way in the past or that a similar situation has arisen previously , is admissible in certain circumstances .
+similar fact evidence , that is evidence that a person has acted in a similar way in the past or that a similar situation has arisen previously , is [allowed] in certain circumstances .
+
+In civil proceedings similar fact evidence has been held to be admissible where logically relevant provided that this will not be oppressive or unfair to the party concerned ( Mood Music Publishing v De Wolfe Ltd [ 1976 ] 1 Ch 119 ) .
+in civil proceedings similar fact evidence has been held to be [allowed] where logically relevant provided that this will not be oppressive or unfair to the party concerned ( mood music publishing v de wolfe ltd [ 1976 ] 1 ch 119 ) .
+
+Character evidence is admissible only where relevant to the issues to be decided .
+character evidence is [allowed] only where relevant to the issues to be decided .
+
+In these circumstances , therefore , character evidence , including evidence of previous convictions , is usually admissible .
+in these circumstances , therefore , character evidence , including evidence of previous convictions , is usually [allowed] .
+
+As a quid pro quo for the loss of this privilege any statement or admission made will not be admissible in evidence against the maker or his spouse in criminal proceedings except for perjury ( s98 ( 2 ) ) .
+as a quid pro quo for the loss of this privilege any statement or admission made will not be [allowed] in evidence against the maker or his spouse in criminal proceedings except for perjury ( s98 ( 2 ) ) .
+
+If the witness can be persuaded to repeat the admission outside the court it may be admissible in criminal proceedings .
+if the witness can be persuaded to repeat the admission outside the court it may be [allowed] in criminal proceedings .
+
+The written statement is itself admissible as hearsay evidence under the Children Act ( Admissibility of Hearsay Evidence ) Order 1991 ( see 5 above ) .
+the written statement is itself [allowed] as hearsay evidence under the children act ( admissibility of hearsay evidence ) order 1991 ( see 5 above ) .
+
+The legal title of the defence is `` justification `` , and it operates whenever defendants can show , by admissible evidence , that their allegation is , on balance , substantially correct .
+the legal title of the defence is `` justification `` , and it operates whenever defendants can show , by [allowed] evidence , that their allegation is , on balance , substantially correct .
+
+‘ In any civil proceedings a statement contained in a document produced by a computer shall … be admissible as evidence of any fact stated therein of which direct oral evidence would be admissible … ’
+‘ in any civil proceedings a statement contained in a document produced by a computer shall … be [allowed] as evidence of any fact stated therein of which direct oral evidence would be [allowed] … ’
+
+Nevertheless , since only variables which are observable at the end of period t - 1 are admissible into the policy rule , these gut feelings are not allowed to have any direct impact on how , , is arrived at , although they may have an indirect influence through some other measurable variable which is admissible into the policy rule .
+nevertheless , since only variables which are observable at the end of period t - 1 are [allowed] into the policy rule , these gut feelings are not allowed to have any direct impact on how , , is arrived at , although they may have an indirect influence through some other measurable variable which is [allowed] into the policy rule .
+
+If the plaintiff does not appear on the return day , or does not attend by an admissible affidavit , the proceedings may be struck out or , if the defendant appears , the court may proceed in the plaintiff 's absence .
+if the plaintiff does not appear on the return day , or does not attend by an [allowed] affidavit , the proceedings may be struck out or , if the defendant appears , the court may proceed in the plaintiff 's absence .
+
+In a fixed date action , if the defendant has not delivered a defence within the time limited , or in any action where the defendant does not appear at the pre-trial review ( or preliminary arbitration appointment ) , evidence by affidavit is admissible without notice unless the court otherwise orders ( Ord 20 , r 7 ( 2 ) ; Ord 19 , r 5 ( 2 ) ; Term No 2 ) .
+in a fixed date action , if the defendant has not delivered a defence within the time limited , or in any action where the defendant does not appear at the pre-trial review ( or preliminary arbitration appointment ) , evidence by affidavit is [allowed] without notice unless the court otherwise orders ( ord 20 , r 7 ( 2 ) ; ord 19 , r 5 ( 2 ) ; term no 2 ) .
+
+Notice to produce the document must have been given in order to render oral evidence of it admissible ; it must be shown that the document existed , is or was in the possession of the other side , and that the original would have been admissible and relevant .
+notice to produce the document must have been given in order to render oral evidence of it [allowed] ; it must be shown that the document existed , is or was in the possession of the other side , and that the original would have been [allowed] and relevant .
+
+Hearsay evidence if not generally admissible but exceptions are afforded by common law and by the Civil Evidence Act 1968 .
+hearsay evidence if not generally [allowed] but exceptions are afforded by common law and by the civil evidence act 1968 .
+
+And he quotes eminent British Socialists to show that competition and , by inference , the price mechanism are admissible features in a socialist landscape .
+and he quotes eminent british socialists to show that competition and , by inference , the price mechanism are [allowed] features in a socialist landscape .
+
+To divide it into two parts , heaven and earth , might still be admissible , as it was for Newton , when discussing theological and political symbolism .
+to divide it into two parts , heaven and earth , might still be [allowed] , as it was for newton , when discussing theological and political symbolism .
+
+On issues such as the size and eternity of the universe , his own faith played a selective role , setting the conditions for admissible theories .
+on issues such as the size and eternity of the universe , his own faith played a selective role , setting the conditions for [allowed] theories .
+
+If an application is declared admissible , and a friendly settlement can not be achieved , the subsequent decisions of the Court are binding on the United Kingdom .
+if an application is declared [allowed] , and a friendly settlement can not be achieved , the subsequent decisions of the court are binding on the united kingdom .
+
+It would then follow ( as Boole had said in 1847 ) that `` the validity … does not depend on the interpretation of the symbols … Every system of interpretations … is equally admissible . ``
+it would then follow ( as boole had said in 1847 ) that `` the validity … does not depend on the interpretation of the symbols … every system of interpretations … is equally [allowed] . ``
+
+Nor will confessions obtained as a result of anything said or done which was likely to render them unreliable , be admissible , unless the prosecution can prove that they were not obtained in this way .
+nor will confessions obtained as a result of anything said or done which was likely to render them unreliable , be [allowed] , unless the prosecution can prove that they were not obtained in this way .
+
+( c ) The material is likely to be of substantial value to the investigation and is likely to be admissible in evidence .
+( c ) the material is likely to be of substantial value to the investigation and is likely to be [allowed] in evidence .
+
+If the process of taking evidence abroad is to serve its purpose , the evidence must be in a form which makes it admissible and gives it proper weight in the proceedings for which it was prepared , and this requires the authorities of the country in which the evidence is to be taken to show considerable flexibility in allowing , and it may be operating , modes of procedure which are quite unfamiliar .
+if the process of taking evidence abroad is to serve its purpose , the evidence must be in a form which makes it [allowed] and gives it proper weight in the proceedings for which it was prepared , and this requires the authorities of the country in which the evidence is to be taken to show considerable flexibility in allowing , and it may be operating , modes of procedure which are quite unfamiliar .
+
+It is not ground for objection that the information sought will be inadmissible at the trial if the information sought appears reasonably calculated to lead to the discovery of admissible evidence .
+it is not ground for objection that the information sought will be inadmissible at the trial if the information sought appears reasonably calculated to lead to the discovery of [allowed] evidence .
+
+It will be noted that not only does this permit the discovery , which may be enforced by court order , of information which is not admissible in evidence , but no reference is made to the status of the person obliged to make discovery ; that is , the Rule applies in respect of non-parties as well as parties .
+it will be noted that not only does this permit the discovery , which may be enforced by court order , of information which is not [allowed] in evidence , but no reference is made to the status of the person obliged to make discovery ; that is , the rule applies in respect of non-parties as well as parties .
+
+Without relying on pre-1975 cases , Lord Diplock interpreted section 2 ( 3 ) ( 4 ) as excluding the obtaining , by oral deposition or the disclosure of documents , of anything other than evidence which would be admissible at the trial of the action .
+without relying on pre-1975 cases , lord diplock interpreted section 2 ( 3 ) ( 4 ) as excluding the obtaining , by oral deposition or the disclosure of documents , of anything other than evidence which would be [allowed] at the trial of the action .
+
+The remedial cost for this damage is not admissible unless it can be shown to relate directly to damage to the roof in respect of which a claim is or has been accepted .
+the remedial cost for this damage is not [allowed] unless it can be shown to relate directly to damage to the roof in respect of which a claim is or has been accepted .
+
+such an offer made in a letter or over the telephone could still remain ‘ without prejudice ’ and would not be admissible in evidence .
+such an offer made in a letter or over the telephone could still remain ‘ without prejudice ’ and would not be [allowed] in evidence .
+
+without prejudice correspondence was admissible for the determination of applications to strike out for want of prosecution .
+without prejudice correspondence was [allowed] for the determination of applications to strike out for want of prosecution .
+
+Where such contracts have been in force for 3 years or longer , but are not for a specific undertaking eg building a house , claims are admissible under the policy .
+where such contracts have been in force for 3 years or longer , but are not for a specific undertaking eg building a house , claims are [allowed] under the policy .
+
+Of these 95 had been declared admissible and , if no negotiated settlement could be reached by the Commission , would go on to the European Court of Human Rights , which had issued 25 judgments in 1989 .
+of these 95 had been declared [allowed] and , if no negotiated settlement could be reached by the commission , would go on to the european court of human rights , which had issued 25 judgments in 1989 .
+
+‘ ( a ) no evidence shall be admissible in any proceedings before a judicial authority exercising its jurisdiction or functions in Great Britain to prove that any such person has committed … any offence which was the subject of a spent conviction ; and ’ ( b ) a person shall not , in any such proceedings , be asked , and , if asked , shall not be required to answer , any question relating to his past that can not be answered without acknowledging or referring to a spent conviction or spent convictions or any circumstances thereto ; … ’
+‘ ( a ) no evidence shall be [allowed] in any proceedings before a judicial authority exercising its jurisdiction or functions in great britain to prove that any such person has committed … any offence which was the subject of a spent conviction ; and ’ ( b ) a person shall not , in any such proceedings , be asked , and , if asked , shall not be required to answer , any question relating to his past that can not be answered without acknowledging or referring to a spent conviction or spent convictions or any circumstances thereto ; … ’
+
+Wherever they have been operating , persons whose dishonesty has infringed the criminal law , on the basis of reliable and admissible evidence , will continue to be prosecuted .
+wherever they have been operating , persons whose dishonesty has infringed the criminal law , on the basis of reliable and [allowed] evidence , will continue to be prosecuted .
+
+Under the three headings of ( 1 ) what is legally admissible ( 2 ) what is morally admissible and ( 3 ) what is politically right and proper , the three candidates , Otto , Philip and Frederick , are considered .
+under the three headings of ( 1 ) what is legally [allowed] ( 2 ) what is morally [allowed] and ( 3 ) what is politically right and proper , the three candidates , otto , philip and frederick , are considered .
+
+Evidence seized with a defective warrant could be admissible if police had acted in `` good faith `` that the warrant was legal .
+evidence seized with a defective warrant could be [allowed] if police had acted in `` good faith `` that the warrant was legal .
+
+Electronically stored documents are admissible in court , but because computer technology permits documents stored on such to be edited without leaving any trace , there is the danger that if the identity of the sender of the content of the document is disputed it will be impossible to prove to the court 's satisfaction that the message is authentic .
+electronically stored documents are [allowed] in court , but because computer technology permits documents stored on such to be edited without leaving any trace , there is the danger that if the identity of the sender of the content of the document is disputed it will be impossible to prove to the court 's satisfaction that the message is authentic .
+
+The equivalent of an admissible algorithm in a distributed processing system would be one that was guaranteed to settle into an optimum stable state .
+the equivalent of an [allowed] algorithm in a distributed processing system would be one that was guaranteed to settle into an optimum stable state .
+
+8.2 . Admissible Search Algorithms
+8.2 . [allowed] search algorithms
+
+In that case , it is usually best to use an algorithm which has been proved admissible .
+in that case , it is usually best to use an algorithm which has been proved [allowed] .
+
+Admissible algorithms guarantee that the first spanning path found will be the highest scoring .
+[allowed] algorithms guarantee that the first spanning path found will be the highest scoring .
+
+If the algorithm is not admissible then the decision to end the search is fairly arbitrary .
+if the algorithm is not [allowed] then the decision to end the search is fairly arbitrary .
+
+The type of admissible algorithm used depends on the nature of the search space .
+the type of [allowed] algorithm used depends on the nature of the search space .
+
+Pearl ( 1984 ) proves that , for a binary tree model whose branches have a cost of 1 or 0 with probability p and 1-p respectively , if p < ½ then any admissible algorithm will run in exponential time .
+pearl ( 1984 ) proves that , for a binary tree model whose branches have a cost of 1 or 0 with probability p and 1-p respectively , if p < ½ then any [allowed] algorithm will run in exponential time .
+
+However , if certain conditions hold , it can be shown that the algorithm is near admissible .
+however , if certain conditions hold , it can be shown that the algorithm is near [allowed] .
+
+An admissible algorithm can then be used to find the optimal path according to the problem definition .
+an [allowed] algorithm can then be used to find the optimal path according to the problem definition .
+
+Later information could score better than the path so far , the estimated score ( extrapolated from the current score ) therefore no longer functions as a reliable upper bound , and so the algorithm is no longer admissible .
+later information could score better than the path so far , the estimated score ( extrapolated from the current score ) therefore no longer functions as a reliable upper bound , and so the algorithm is no longer [allowed] .
+
+Thus the cost of a path can not increase , it can only stay at the same level or decrease , and the algorithm is admissible .
+thus the cost of a path can not increase , it can only stay at the same level or decrease , and the algorithm is [allowed] .
+
+Thus it does appear that the search space can be such that an admissible algorithm will perform in an excessively breadth-first manner .
+thus it does appear that the search space can be such that an [allowed] algorithm will perform in an excessively breadth-first manner .
+
+This uncertainty about lexical identity which is reflected in the acoustic scores , means that , even when a good heuristic estimate is used , an admissible algorithm will proceed breadth-first on a large front .
+this uncertainty about lexical identity which is reflected in the acoustic scores , means that , even when a good heuristic estimate is used , an [allowed] algorithm will proceed breadth-first on a large front .
+
+Failure to achieve these standards alone would not lead to disciplinary action but in the event of any complaint being considered under the disciplinary procedure , such failure would be admissible in evidence and taken into account in proceedings before the Disciplinary Committee .
+failure to achieve these standards alone would not lead to disciplinary action but in the event of any complaint being considered under the disciplinary procedure , such failure would be [allowed] in evidence and taken into account in proceedings before the disciplinary committee .
+
+Admissible grounds for Appeal may be
+[allowed] grounds for appeal may be
+
+The ruling in Strasbourg yesterday that the complaints are admissible clears the way for a future hearing before the European Court of Human Rights in up to two years ' time .
+the ruling in strasbourg yesterday that the complaints are [allowed] clears the way for a future hearing before the european court of human rights in up to two years ' time .
+
+The Secretary of State for the Environment told the House of Commons that ‘ after taking legal advice ’ he had decided that ‘ the term ‘ maximum admissible concentration ’ in the European Community Drinking Water Directive should relate to individual samples and not to averages over a period ’ .
+the secretary of state for the environment told the house of commons that ‘ after taking legal advice ’ he had decided that ‘ the term ‘ maximum [allowed] concentration ’ in the european community drinking water directive should relate to individual samples and not to averages over a period ’ .
+
+He believes there are serious gaps , such as the limitations on using computer information ( audit trails and logs for example ) as admissible evidence in court .
+he believes there are serious gaps , such as the limitations on using computer information ( audit trails and logs for example ) as [allowed] evidence in court .
+
+But , true to its timid traditions , the English crimi nal justice system still excludes these videos from court hearings be cause of the hearsay rule ; a rule which has never been definitively formulated but which crudely pre vents statements made out of court by a witness to someone else being admissible .
+but , true to its timid traditions , the english crimi nal justice system still excludes these videos from court hearings be cause of the hearsay rule ; a rule which has never been definitively formulated but which crudely pre vents statements made out of court by a witness to someone else being [allowed] .
+
+Video-recorded interviews with police , social workers or others concerned with child welfare or criminal investigation should be admissible in court if the child is under 14 , the group recommends .
+video-recorded interviews with police , social workers or others concerned with child welfare or criminal investigation should be [allowed] in court if the child is under 14 , the group recommends .
+
+Section 2 does require that the abnormality of mind should be one ‘ arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury ’ , but this range of admissible causes is sufficiently general to encourage a broad construction of the defence .
+section 2 does require that the abnormality of mind should be one ‘ arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury ’ , but this range of [allowed] causes is sufficiently general to encourage a broad construction of the defence .
+
+If the Commission thinks the case admissible and worth proceeding with , it sees if it can achieve a friendly settlement .
+if the commission thinks the case [allowed] and worth proceeding with , it sees if it can achieve a friendly settlement .
+
+This is reflected in the rule that statements by the accused to be admissible must have been made voluntarily .
+this is reflected in the rule that statements by the accused to be [allowed] must have been made voluntarily .
+
+This disjunction does not trouble our thirty-something lives , partly because we no longer enjoy the same moments of sexual and personal discovery , and partly because those lives are generally so ordered nowadays that all our tastes are admissible .
+this disjunction does not trouble our thirty-something lives , partly because we no longer enjoy the same moments of sexual and personal discovery , and partly because those lives are generally so ordered nowadays that all our tastes are [allowed] .
+
+The system was ‘ open ’ ; the field of admissible wordings was not static .
+the system was ‘ open ’ ; the field of [allowed] wordings was not static .
+
+What follows clarifies : his brother 's posthumous children are admissible as intestate heirs .
+what follows clarifies : his brother 's posthumous children are [allowed] as intestate heirs .
+
+There has been some dispute about this text , based on the belief that only posthumous children of the deceased himself were admissible on succession .
+there has been some dispute about this text , based on the belief that only posthumous children of the deceased himself were [allowed] on succession .
+
+It gave a list of admissible wordings for trusts ; and also mentioned two ( relinquo and commendo ) which gave no action for a trust .
+it gave a list of [allowed] wordings for trusts ; and also mentioned two ( relinquo and commendo ) which gave no action for a trust .
+
+As we noted earlier , legal descriptions involve a web of concepts concerning guilt , innocence , responsibility , evidence , admissible procedure that are absent from a description of human actions outside of the legal framework .
+as we noted earlier , legal descriptions involve a web of concepts concerning guilt , innocence , responsibility , evidence , [allowed] procedure that are absent from a description of human actions outside of the legal framework .
+
+It focuses on physical , testimonial , documentary , and analytical evidence that is relevant , material , and admissible in criminal and civil proceedings .
+it focuses on physical , testimonial , documentary , and analytical evidence that is relevant , material , and [allowed] in criminal and civil proceedings .
+
+The rule : A large amount -- probably most -- of hearsay is admissible .
+the rule : a large amount -- probably most -- of hearsay is [allowed] .
+
+An article by a constitutional lawyer wonders whether Ted Kaczynski 's diary should be admissible in court and decides that it should be .
+an article by a constitutional lawyer wonders whether ted kaczynski 's diary should be [allowed] in court and decides that it should be .
+
+The LAT lead cites experts who argue that the decision has a big pro-Clinton upshot : if the sworn statements Clinton and Lewinsky recently gave to Jones ' lawyers are not admissible , then they can not be used as the basis for perjury or obstruction of justice charges .
+the lat lead cites experts who argue that the decision has a big pro-clinton upshot : if the sworn statements clinton and lewinsky recently gave to jones ' lawyers are not [allowed] , then they can not be used as the basis for perjury or obstruction of justice charges .
+
+Additionally , most proffer sessions involve what is known as a `` queen for a day '' agreement , under which both sides agree that information discussed at such a session will not be admissible against the defendant at a trial .
+additionally , most proffer sessions involve what is known as a `` queen for a day '' agreement , under which both sides agree that information discussed at such a session will not be [allowed] against the defendant at a trial .
+
+USAT and the WP front a federal appeals court ruling , almost surely headed for the Supreme Court , holding that for the five states covered by the court -- Maryland , Virginia , West Virginia , North Carolina and South Carolina -- a criminal suspect 's confession could be held to be voluntary and admissible even if he was not read his Miranda rights .
+usat and the wp front a federal appeals court ruling , almost surely headed for the supreme court , holding that for the five states covered by the court -- maryland , virginia , west virginia , north carolina and south carolina -- a criminal suspect 's confession could be held to be voluntary and [allowed] even if he was not read his miranda rights .
+
+There are also two large groups which are not admissible as metaphors because they derive arbitrarily from sound-similarities without the necessary sense-relationship .
+there are also two large groups which are not [allowed] as metaphors because they derive arbitrarily from sound-similarities without the necessary sense-relationship .
+
+On the other hand , it is admissible , as we have already seen , to throw solvers off the scent with an occasional comma in the “ wrong ” place .
+on the other hand , it is [allowed] , as we have already seen , to throw solvers off the scent with an occasional comma in the “ wrong ” place .
+
+Telephon is too near telephone , I fear , to be admissible ; telephone is exotic ; phogram is too abrupt , and is suggestive of program , grogram , and Elijah Pogram .
+telephon is too near telephone , i fear , to be [allowed] ; telephone is exotic ; phogram is too abrupt , and is suggestive of program , grogram , and elijah pogram .
+

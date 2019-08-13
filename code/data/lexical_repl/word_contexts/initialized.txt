@@ -1,0 +1,12 @@
+It is essential to ensure that every storage position has been initialized , or at least to remove any data remaining from previous uses of the device .
+it is essential to ensure that every storage position has been [started/begun/began] , or at least to remove any data remaining from previous uses of the device .
+
+When files are randomly organized using an algorithm , the device must first be initialized to remove all prior data .
+when files are randomly organized using an algorithm , the device must first be [started/begun/began] to remove all prior data .
+
+Such an `` increment count and jump `` instruction specifies an accumulator , index register , or store location whose contents are to be used as a loop counter ( and which will have been initialized by another instruction ) .
+such an `` increment count and jump `` instruction specifies an accumulator , index register , or store location whose contents are to be used as a loop counter ( and which will have been [started/begun/began] by another instruction ) .
+
+We remembered the trivial names from the first nine linear dicarboxylic acids ( oxalic , malonic , succinic , glutaric , adipic , pimelic , suberic , azelaic , sebacic ) with the initialized mnemonic , “ Oh , my sweet green apple pie sounds absolutely swell . ’
+we remembered the trivial names from the first nine linear dicarboxylic acids ( oxalic , malonic , succinic , glutaric , adipic , pimelic , suberic , azelaic , sebacic ) with the [started/begun/began] mnemonic , “ oh , my sweet green apple pie sounds absolutely swell . ’
+

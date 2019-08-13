@@ -1,0 +1,198 @@
+In types 1 , 2 and 3 the bronchial artery terminates in a capillary bed shared in common with the pulmonary artery at the level of the distal bronchiole .
+in types 1 , 2 and 3 the bronchial artery [ends] in a capillary bed shared in common with the pulmonary artery at the level of the distal bronchiole .
+
+Well the one where the hedge terminates and
+well the one where the hedge [ends] and
+
+Now the inn is more geared to motorists , who much to their surprise , find the road terminates at the door of the inn rather than continuing to Windermere .
+now the inn is more geared to motorists , who much to their surprise , find the road [ends] at the door of the inn rather than continuing to windermere .
+
+At any stage , if the comparison shows that the items are equal , then the search terminates successfully .
+at any stage , if the comparison shows that the items are equal , then the search [ends] successfully .
+
+An unsuccessful search terminates when the end points of the section of the list being searched are in fact next to each other , and neither matches the searched-for item .
+an unsuccessful search [ends] when the end points of the section of the list being searched are in fact next to each other , and neither matches the searched-for item .
+
+The ‘ rural method ’ entails no separate second fermentation ; it is merely a continuation of the first process , the wines being bottled before it terminates and thus allowing the first fermentation to continue in the bottle .
+the ‘ rural method ’ entails no separate second fermentation ; it is merely a continuation of the first process , the wines being bottled before it [ends] and thus allowing the first fermentation to continue in the bottle .
+
+The main kiteline terminates with a pulley through which the loop passes .
+the main kiteline [ends] with a pulley through which the loop passes .
+
+After the umpteenth rubber-stamp this infuriating rite of passage , as it were , terminates : exit .
+after the umpteenth rubber-stamp this infuriating rite of passage , as it were , [ends] : exit .
+
+It looks slightly different each time the adventurers walk along it — slightly longer , shorter , thinner , lower ceiling height , etc — but it always terminates in a door which gives access to location 7a When the adventurers have entered 7a , the door behind them disappears .
+it looks slightly different each time the adventurers walk along it — slightly longer , shorter , thinner , lower ceiling height , etc — but it always [ends] in a door which gives access to location 7a when the adventurers have entered 7a , the door behind them disappears .
+
+The process only terminates when no more entities or groups remain in the temporary work layers .
+the process only [ends] when no more entities or groups remain in the temporary work layers .
+
+Although the bus route terminates at the Klinik , a road for motorists continues east from there , then swings south again , through wooded terrain with occasional clearings , via Ringoldswil to Sigriswil , a farming village and peaceful climatic resort on a sun terrace .
+although the bus route [ends] at the klinik , a road for motorists continues east from there , then swings south again , through wooded terrain with occasional clearings , via ringoldswil to sigriswil , a farming village and peaceful climatic resort on a sun terrace .
+
+One has been explored and terminates in a small gravelly beach but the only mention of occupation is by large numbers of rock doves .
+one has been explored and [ends] in a small gravelly beach but the only mention of occupation is by large numbers of rock doves .
+
+‘ the parental right to determine whether or not their minor child below the age of 16 will have medical treatment terminates if and when the child achieves a sufficient understanding and intelligence to enable him or her to understand fully what is proposed .
+‘ the parental right to determine whether or not their minor child below the age of 16 will have medical treatment [ends] if and when the child achieves a sufficient understanding and intelligence to enable him or her to understand fully what is proposed .
+
+If the parental right terminates , it would follow that , apart from the court , the only person competent to consent would be the child and a refusal of consent to treatment would indirectly constitute an effective veto on the treatment itself .
+if the parental right [ends] , it would follow that , apart from the court , the only person competent to consent would be the child and a refusal of consent to treatment would indirectly constitute an effective veto on the treatment itself .
+
+The appointment of the interim receiver terminates when either the petition is dismissed or a bankruptcy order is made , and can also be terminated by the court on the application of the interim receiver , the official receiver ( if not the interim receiver ) , the debtor or any creditor ( r 6.57 ) .
+the appointment of the interim receiver [ends] when either the petition is dismissed or a bankruptcy order is made , and can also be terminated by the court on the application of the interim receiver , the official receiver ( if not the interim receiver ) , the debtor or any creditor ( r 6.57 ) .
+
+The atomic assignment process in occam is which evaluates the expression e , assigns the result to the location denoted by x , and then terminates .
+the atomic assignment process in occam is which evaluates the expression e , assigns the result to the location denoted by x , and then [ends] .
+
+The components of e are evaluated , the results are then all assigned to the locations represented by x , and the process then terminates .
+the components of e are evaluated , the results are then all assigned to the locations represented by x , and the process then [ends] .
+
+The empty multiple assignment terminates without changing the state .
+the empty multiple assignment [ends] without changing the state .
+
+There are four essentially different things a process can do on its first step : ( i ) it diverges ; ( ii ) it communicates with its environment ( and goes on to its second step ) ; ( iii ) it stops because , even though it has not terminated , it can not agree with its environment on any communication ; ( iv ) it terminates in some state .
+there are four essentially different things a process can do on its first step : ( i ) it diverges ; ( ii ) it communicates with its environment ( and goes on to its second step ) ; ( iii ) it stops because , even though it has not terminated , it can not agree with its environment on any communication ; ( iv ) it [ends] in some state .
+
+This is because termination of word-detector activity can only be produced by inhibition from active letter detectors , and the mask does not activate any letter detectors : on the contrary , the mask terminates the activity of letter detectors .
+this is because termination of word-detector activity can only be produced by inhibition from active letter detectors , and the mask does not activate any letter detectors : on the contrary , the mask [ends] the activity of letter detectors .
+
+there will be , in addition , an infinite sequence of homoclinic orbits to the origin ( and other complicated behaviour ) which never terminates as .
+there will be , in addition , an infinite sequence of homoclinic orbits to the origin ( and other complicated behaviour ) which never [ends] as .
+
+This may be done by a provision such as : If the Seller is in breach of this term the Buyer may reject the goods and terminate the contract [ making the term a condition ] or The Buyer will accept the goods even if they are delivered late and late delivery will not entitle the buyer to terminate the contract [ making the term a warranty ] or by using the words `` condition `` and `` warranty `` and then defining them in the contract : `` condition `` means a term of this contract any breach of which will entitle the party not in breach to ( i ) terminate the contract and ( ii ) claim damages for losses caused by breach of condition whether or not he terminates the contract . ``
+this may be done by a provision such as : if the seller is in breach of this term the buyer may reject the goods and terminate the contract [ making the term a condition ] or the buyer will accept the goods even if they are delivered late and late delivery will not entitle the buyer to terminate the contract [ making the term a warranty ] or by using the words `` condition `` and `` warranty `` and then defining them in the contract : `` condition `` means a term of this contract any breach of which will entitle the party not in breach to ( i ) terminate the contract and ( ii ) claim damages for losses caused by breach of condition whether or not he [ends] the contract . ``
+
+The making of a supervision order automatically terminates any earlier care order or supervision order which would otherwise continue in force ( Sched 3 , para 10 ) .
+the making of a supervision order automatically [ends] any earlier care order or supervision order which would otherwise continue in force ( sched 3 , para 10 ) .
+
+In female worms the intestine terminates in an anus while in males there is a cloaca which functions as an anus , and into which opens the vas deferens and through which the copulatory spicules may be extruded .
+in female worms the intestine [ends] in an anus while in males there is a cloaca which functions as an anus , and into which opens the vas deferens and through which the copulatory spicules may be extruded .
+
+However , a proportion of convalescing calves suddenly develop severe respiratory signs , unassociated with pyrexia , which usually terminates fatally 1-4 days later .
+however , a proportion of convalescing calves suddenly develop severe respiratory signs , unassociated with pyrexia , which usually [ends] fatally 1-4 days later .
+
+This terminates in a cervical groove which is followed in some species by broad cervical alae .
+this [ends] in a cervical groove which is followed in some species by broad cervical alae .
+
+The landlord must be given an order for possession after the expiry of the term , provided he has given the requisite two months ' notice requiring possession , ideally from the landlord 's point of view expiring when the tenancy terminates .
+the landlord must be given an order for possession after the expiry of the term , provided he has given the requisite two months ' notice requiring possession , ideally from the landlord 's point of view expiring when the tenancy [ends] .
+
+Whereas redundancy and unfair dismissal are statutory claims , wrongful dismissal is a contractual claim where the employer terminates the contract of employment without giving proper notice .
+whereas redundancy and unfair dismissal are statutory claims , wrongful dismissal is a contractual claim where the employer [ends] the contract of employment without giving proper notice .
+
+To this end each transput device has an associated one-bit register , which is cleared as an operation starts and is set to one when it terminates ; an instruction is provided to read this register , and thus the programmer can establish when a transput operation is complete .
+to this end each transput device has an associated one-bit register , which is cleared as an operation starts and is set to one when it [ends] ; an instruction is provided to read this register , and thus the programmer can establish when a transput operation is complete .
+
+It terminates in the wing process above , the coxal process below , and often bears an inwardly projecting pleural arm .
+it [ends] in the wing process above , the coxal process below , and often bears an inwardly projecting pleural arm .
+
+The recurrent nerve leaves the hypocerebral ganglion as a median or paired lateral oesophageal nerve and passes back to the hinder region of the fore gut , where it ( or each branch ) terminates in a ventricular ganglion .
+the recurrent nerve leaves the hypocerebral ganglion as a median or paired lateral oesophageal nerve and passes back to the hinder region of the fore gut , where it ( or each branch ) [ends] in a ventricular ganglion .
+
+Payment of any of the capital benefits under items 1–4 terminates cover under the Policy .
+payment of any of the capital benefits under items 1–4 [ends] cover under the policy .
+
+If the definition of unemployment refers to the Act , unemployment is effective when the contract of employment terminates .
+if the definition of unemployment refers to the act , unemployment is effective when the contract of employment [ends] .
+
+The name of the complex ion terminates with the name of the metal together with the oxidation state of the metal in parentheses .
+the name of the complex ion [ends] with the name of the metal together with the oxidation state of the metal in parentheses .
+
+When your involvement ceases or the sale process terminates , briefly advise the initiating member of the outcome , problems encountered during the process , etc .
+when your involvement ceases or the sale process [ends] , briefly advise the initiating member of the outcome , problems encountered during the process , etc .
+
+Distally the pair of shields terminates on each side of the arm .
+distally the pair of shields [ends] on each side of the arm .
+
+The site lies on a low hill of red sandstone , which rises gently from the valley of the River Eden to the south but which terminates in two summits at present occupied by the cathedral and the castle .
+the site lies on a low hill of red sandstone , which rises gently from the valley of the river eden to the south but which [ends] in two summits at present occupied by the cathedral and the castle .
+
+Although delivery to a carrier without the reservation of a right of disposal terminates the unpaid seller 's lien , he may still be able to recover the goods by exercising his right of stoppage in transit .
+although delivery to a carrier without the reservation of a right of disposal [ends] the unpaid seller 's lien , he may still be able to recover the goods by exercising his right of stoppage in transit .
+
+This is because an anticipatory repudiation terminates a contract only if it is accepted by the innocent party , Fercometal S.a.r.l .
+this is because an anticipatory repudiation [ends] a contract only if it is accepted by the innocent party , fercometal s.a.r.l .
+
+The third assumption is that the stream terminates at the edge of the grid .
+the third assumption is that the stream [ends] at the edge of the grid .
+
+The function contains a loop which picks up one character at a time and classifies it . Backspace allows correction , carriage return or line feed terminates the process , while a decimal digit character is translated and the decimal number built up using the elementary formula
+the function contains a loop which picks up one character at a time and classifies it . backspace allows correction , carriage return or line feed [ends] the process , while a decimal digit character is translated and the decimal number built up using the elementary formula
+
+The number is assumed to be of a certain maximum field width and the process also terminates if this field width is reached .
+the number is assumed to be of a certain maximum field width and the process also [ends] if this field width is reached .
+
+After entering the house the service pipe usually terminates in the householder 's main stopcock , which is where the house supply starts .
+after entering the house the service pipe usually [ends] in the householder 's main stopcock , which is where the house supply starts .
+
+The first ( and simplest ) is where the downpipe terminates in a shoe which discharges over a gully .
+the first ( and simplest ) is where the downpipe [ends] in a shoe which discharges over a gully .
+
+If not , then the experience terminates with a sense of disappointment .
+if not , then the experience [ends] with a sense of disappointment .
+
+The liner will depart from Tilbury on August 31 for a Norwegian fjords cruise which terminates at Liverpool on September 14 .
+the liner will depart from tilbury on august 31 for a norwegian fjords cruise which [ends] at liverpool on september 14 .
+
+She then departs that day for a 15-night Mediterranean cruise , returning to the Mersey on September 29 and leaving that day for a 14-night Canaries and North Africa cruise which terminates at Southampton on October 13 .
+she then departs that day for a 15-night mediterranean cruise , returning to the mersey on september 29 and leaving that day for a 14-night canaries and north africa cruise which [ends] at southampton on october 13 .
+
+This condition has been corrected by replacing the defective detail with a conventional sloping stone coping oversailing a ‘ secret gutter ’ of in situ lead which terminates the new roof slating , the new coping being bedded on an impervious damp-proof course ( Plates 28 and 29 ) .
+this condition has been corrected by replacing the defective detail with a conventional sloping stone coping oversailing a ‘ secret gutter ’ of in situ lead which [ends] the new roof slating , the new coping being bedded on an impervious damp-proof course ( plates 28 and 29 ) .
+
+Also make sure that the Banker 's Order terminates with the final covenant payment .
+also make sure that the banker 's order [ends] with the final covenant payment .
+
+Hills 's lease at Manton also terminates at the end of next year , and he could return to his original yard in Lambourn which he still owns and where his son John trains .
+hills 's lease at manton also [ends] at the end of next year , and he could return to his original yard in lambourn which he still owns and where his son john trains .
+
+One can waive one 's rights by consenting , but not by promising ( except in the special case in which the very undertaking of an obligation to act in a certain way terminates one 's right not to do so ) .
+one can waive one 's rights by consenting , but not by promising ( except in the special case in which the very undertaking of an obligation to act in a certain way [ends] one 's right not to do so ) .
+
+It must be borne in mind that not every dead-end of a burrow terminates in a long , narrow hole .
+it must be borne in mind that not every dead-end of a burrow [ends] in a long , narrow hole .
+
+Even if it is clear that you have been dismissed , the precise date when your employment comes to an end may be unclear . Yet you are likely to need to know the exact date when your job terminates for several reasons , such as to ascertain :
+even if it is clear that you have been dismissed , the precise date when your employment comes to an end may be unclear . yet you are likely to need to know the exact date when your job [ends] for several reasons , such as to ascertain :
+
+‘ It will now be necessary to observe that animals are more frequently attacked by epizootic , endemic and contagious diseases than the human species because we are protected from these casualties by our Houses , Clothing and manner of Living , in short by all the precautions that reason dictates , whilst animals are deprived of all these recourses and are constantly exposed to dangers which we avoid by the above-mentioned precautions , besides their food and drink is constantly the same , which often is the cause of a fermentation in their blood which generally terminates in stubborn and fatal diseases .
+‘ it will now be necessary to observe that animals are more frequently attacked by epizootic , endemic and contagious diseases than the human species because we are protected from these casualties by our houses , clothing and manner of living , in short by all the precautions that reason dictates , whilst animals are deprived of all these recourses and are constantly exposed to dangers which we avoid by the above-mentioned precautions , besides their food and drink is constantly the same , which often is the cause of a fermentation in their blood which generally [ends] in stubborn and fatal diseases .
+
+Formally , at least , the death or withdrawal of a partner ( or general partner in a limited partnership ) terminates the partnership .
+formally , at least , the death or withdrawal of a partner ( or general partner in a limited partnership ) [ends] the partnership .
+
+The promenade terminates with a spectacular display of flowers and fountains in the Jardin Albert-I .
+the promenade [ends] with a spectacular display of flowers and fountains in the jardin albert-i .
+
+Uri utca terminates at Dísz tér , where it ’ s best to turn and walk back along Tárnok utca .
+uri utca [ends] at dísz tér , where it ’ s best to turn and walk back along tárnok utca .
+
+The other main cable car route , the Powell-Mason line , terminates at one of San Francisco ’ s — and California ’ s — most popular sights , Fisherman ’ s Wharf .
+the other main cable car route , the powell-mason line , [ends] at one of san francisco ’ s — and california ’ s — most popular sights , fisherman ’ s wharf .
+
+The rough road from the coast terminates at a parking area outside the village walls , where you are asked to make a donation before entering .
+the rough road from the coast [ends] at a parking area outside the village walls , where you are asked to make a donation before entering .
+
+Foreclosure terminates all rights that the mortgagor has in the mortgaged property upon completion of due process through the courts .
+foreclosure [ends] all rights that the mortgagor has in the mortgaged property upon completion of due process through the courts .
+
+Thus , the H-2A worker is only admitted to the United States to perform work for a designated employer or employers , and must leave the United States when that employment terminates for any reason .
+thus , the h-2a worker is only admitted to the united states to perform work for a designated employer or employers , and must leave the united states when that employment [ends] for any reason .
+
+Termination Section 442 terminates the existing Acid Rain Program nitrogen oxides provisions in Section 441 on January 1 , 2008 when the new nitrogen oxides trading program begins .
+termination section 442 [ends] the existing acid rain program nitrogen oxides provisions in section 441 on january 1 , 2008 when the new nitrogen oxides trading program begins .
+
+Termination of NOx Trading Program for Clear Skies Units Section 464 terminates the obligation of the Administrator to administer the ozone season NOx budget trading program under the NOx SIP call on January 1 , 2008 .
+termination of nox trading program for clear skies units section 464 [ends] the obligation of the administrator to administer the ozone season nox budget trading program under the nox sip call on january 1 , 2008 .
+
+A scientist living in Russia is often asked two questions : “ Why have n't you left ? ” and “ Is it still possible to work there ? ” The best response to the first question is , “ Why should I ? ” —which either terminates the conversation or leads to a stimulating discussion about the fate of the world .
+a scientist living in russia is often asked two questions : “ why have n't you left ? ” and “ is it still possible to work there ? ” the best response to the first question is , “ why should i ? ” —which either [ends] the conversation or leads to a stimulating discussion about the fate of the world .
+
+Regardless of anything to the contrary in this booklet , if your medical insurance terminates for any reason including death , you ... may elect within 30 days ... to continue such medical insurance ... . [ From Group Insurance for 1-14 Employees , Consolidated Group Trust , The Hartford , p .
+regardless of anything to the contrary in this booklet , if your medical insurance [ends] for any reason including death , you ... may elect within 30 days ... to continue such medical insurance ... . [ from group insurance for 1-14 employees , consolidated group trust , the hartford , p .
+
+Regardless of anything to the contrary in this booklet , if your medical insurance terminates for any reason including death , you ... may elect within 30 days ... to continue such medical insurance ... [ From Group Insurance for 1-14 Employees , Consolidated Group Trust , The Hartford , p .
+regardless of anything to the contrary in this booklet , if your medical insurance [ends] for any reason including death , you ... may elect within 30 days ... to continue such medical insurance ... [ from group insurance for 1-14 employees , consolidated group trust , the hartford , p .
+

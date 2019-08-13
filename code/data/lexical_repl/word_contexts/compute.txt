@@ -1,0 +1,246 @@
+One must first detect a fleeting mobile or moving target , decide that it is worthy of destruction , select the missile to be fired against the target , compute ballistics for the flight , and prepare the missile for firing .
+one must first detect a fleeting mobile or moving target , decide that it is worthy of destruction , select the missile to be fired against the target , [calculate] ballistics for the flight , and prepare the missile for firing .
+
+A rodder should be able to compute the displacement of his engine .
+a rodder should be able to [calculate] the displacement of his engine .
+
+It is good to be able to compute displacement so that changes in it resulting from boring and stroking can be computed .
+it is good to be able to [calculate] displacement so that changes in it resulting from boring and stroking can be computed .
+
+Compute this volume by measuring the distance from the top of the block to the piston head as accurately as possible with a depth micrometer or some other precision measuring device and then multiply the area of the cylinder by the depth .
+[calculate] this volume by measuring the distance from the top of the block to the piston head as accurately as possible with a depth micrometer or some other precision measuring device and then multiply the area of the cylinder by the depth .
+
+He cannot , e.g. compute the retrograde arc traveled by Mars , without also making suppositions about the earth's own motion .
+he cannot , e.g. [calculate] the retrograde arc traveled by mars , without also making suppositions about the earth's own motion .
+
+To compute your adjusted gross income you total all items of income .
+to [calculate] your adjusted gross income you total all items of income .
+
+`` Which you are programed to compute '' ? ?
+`` which you are programed to [calculate] '' ? ?
+
+Have no technofear Mr Lang , we do n't compute
+have no technofear mr lang , we do n't [calculate]
+
+compute the correlation coefficient for n values of x and y ,
+[calculate] the correlation coefficient for n values of x and y ,
+
+Erin , how easy is it for the ordinary person to learn how to compute ?
+erin , how easy is it for the ordinary person to learn how to [calculate] ?
+
+Use the following figures to compute national income ( that is , net national product at factor cost ) :
+use the following figures to [calculate] national income ( that is , net national product at factor cost ) :
+
+Having found a set of words from the lexicon which may be the correct spelling of an identified misspelling , common correction techniques compute an index of matching for each candidate word .
+having found a set of words from the lexicon which may be the correct spelling of an identified misspelling , common correction techniques [calculate] an index of matching for each candidate word .
+
+If he knew the probabilities of the three states of the market , he could compute and then maximise the expected profit .
+if he knew the probabilities of the three states of the market , he could [calculate] and then maximise the expected profit .
+
+It means little more than that you can compute the direction and velocity of movement of an object independently of its colour or its depth .
+it means little more than that you can [calculate] the direction and velocity of movement of an object independently of its colour or its depth .
+
+These cells will convey information about wavelength boundaries that could be used to compute true colour .
+these cells will convey information about wavelength boundaries that could be used to [calculate] true colour .
+
+For example , hoverflies appear to compute their interception paths with conspecifics according to a simply specifiable rule , one which could plausibly be ‘ hard-wired ’ into the flies ' brains ( Collett & Land 1978 ) .
+for example , hoverflies appear to [calculate] their interception paths with conspecifics according to a simply specifiable rule , one which could plausibly be ‘ hard-wired ’ into the flies ' brains ( collett & land 1978 ) .
+
+For instance , for the correspondence stage he defines ‘ affinity functions ’ that compute the degree of match between two points or short line-segments , depending on their distance , brightness , retinal position , inter-stimulus ( time ) interval , length , and orientation .
+for instance , for the correspondence stage he defines ‘ affinity functions ’ that [calculate] the degree of match between two points or short line-segments , depending on their distance , brightness , retinal position , inter-stimulus ( time ) interval , length , and orientation .
+
+It follows that creatures incapable of computing shape in any detail , or of recognizing different classes of physical object , may nonetheless be able to compute motion .
+it follows that creatures incapable of computing shape in any detail , or of recognizing different classes of physical object , may nonetheless be able to [calculate] motion .
+
+And animals which , unlike chimps , have no great manipulative ability , would not be able to compute those perceptual discriminations requiring motor activities such as putting bananas inside boxes , so that their understanding of naive physics would be correspondingly impoverished .
+and animals which , unlike chimps , have no great manipulative ability , would not be able to [calculate] those perceptual discriminations requiring motor activities such as putting bananas inside boxes , so that their understanding of naive physics would be correspondingly impoverished .
+
+For example , a system that can compute convexity may be in principle incapable of computing spatial connectedness ( Rosenblatt 1958 ) .
+for example , a system that can [calculate] convexity may be in principle incapable of computing spatial connectedness ( rosenblatt 1958 ) .
+
+Any animal with even a rudimentary nervous system will be better placed if it can compute the arrival of impending danger or the location of valuable resources such as food or mates .
+any animal with even a rudimentary nervous system will be better placed if it can [calculate] the arrival of impending danger or the location of valuable resources such as food or mates .
+
+‘ It 'll probably say something like ‘ Does not compute ’ or ‘ Inoperative parameters ’ .
+‘ it 'll probably say something like ‘ does not [calculate] ’ or ‘ inoperative parameters ’ .
+
+Or compute , or whatever it is you do .
+or [calculate] , or whatever it is you do .
+
+The amendments propose to compute the gain on the deemed disposal of all holdings that support more than one class of business .
+the amendments propose to [calculate] the gain on the deemed disposal of all holdings that support more than one class of business .
+
+Taxpayers who chose to assess themselves would compute the tax due on their total income for the year ending 5 April and , having taken into account any tax deducted or paid in instalments , would send this , or a repayment claim , to the Revenue , with their return by 1 January in the following year .
+taxpayers who chose to assess themselves would [calculate] the tax due on their total income for the year ending 5 april and , having taken into account any tax deducted or paid in instalments , would send this , or a repayment claim , to the revenue , with their return by 1 january in the following year .
+
+Taxpayers who chose not to assess themselves would send their return by 1 October for the Revenue to compute the tax outstanding , which would be payable by 1 January .
+taxpayers who chose not to assess themselves would send their return by 1 october for the revenue to [calculate] the tax outstanding , which would be payable by 1 january .
+
+In Sonnets 1 to 17 the first-person forms appear twenty-five times ; if we compute the second-person forms by treating Thou and You as of equal value they appear 161 times .
+in sonnets 1 to 17 the first-person forms appear twenty-five times ; if we [calculate] the second-person forms by treating thou and you as of equal value they appear 161 times .
+
+Working in such a school in the mid-1950s , part of my task as a very inexperienced junior teacher was to explain almost daily to parents that Peter or John or Mary would learn their tables , and learn to compute , despite the fact that they were using apparatus rather than sum books and were active rather than passive .
+working in such a school in the mid-1950s , part of my task as a very inexperienced junior teacher was to explain almost daily to parents that peter or john or mary would learn their tables , and learn to [calculate] , despite the fact that they were using apparatus rather than sum books and were active rather than passive .
+
+He began to compute the orientation vectors for their return .
+he began to [calculate] the orientation vectors for their return .
+
+In spite of this useful work , density remains a rather static and misleading statistic in that it depends very much on the unit used to compute the density .
+in spite of this useful work , density remains a rather static and misleading statistic in that it depends very much on the unit used to [calculate] the density .
+
+These themes are not integrated into a tight ideological system , which can compute attitudinal positions with the precision of a mathematical formula .
+these themes are not integrated into a tight ideological system , which can [calculate] attitudinal positions with the precision of a mathematical formula .
+
+However , we can understand it in similar terms if we numerically ( as opposed to analytically ) compute return maps on a suitable plane .
+however , we can understand it in similar terms if we numerically ( as opposed to analytically ) [calculate] return maps on a suitable plane .
+
+For example , linguists produce theories of syntax , which specify what a human ( or machine-based ) parser has to compute .
+for example , linguists produce theories of syntax , which specify what a human ( or machine-based ) parser has to [calculate] .
+
+— the system can compute multiple readings , and shows increased processing load with ambiguous language ;
+— the system can [calculate] multiple readings , and shows increased processing load with ambiguous language ;
+
+On occasions it might prove convenient to compute the gcd and s and t simultaneously by putting the two procedures described above into one table , as shown in Table 1 .
+on occasions it might prove convenient to [calculate] the gcd and s and t simultaneously by putting the two procedures described above into one table , as shown in table 1 .
+
+The pupil can : 6a compute to find a measure e.g. area or volume or capacity ) .
+the pupil can : 6a [calculate] to find a measure e.g. area or volume or capacity ) .
+
+The pupil can : 7a compute using a measure , no equivalence of units required ; 7b compute using a measure , equivalence of units required .
+the pupil can : 7a [calculate] using a measure , no equivalence of units required ; 7b [calculate] using a measure , equivalence of units required .
+
+To compute the winners , Datastream has compared the value of the publicly quoted shareholdings held by individual directors and their families between 4 May 1979 and 28 November 1990 .
+to [calculate] the winners , datastream has compared the value of the publicly quoted shareholdings held by individual directors and their families between 4 may 1979 and 28 november 1990 .
+
+Clovis 's reign , Gregory claims , lasted thirty years ; with a little difficulty we can compute the dates of his accession as 481 , the defeat of Syagrius as 486 , the victory over the Alamans as 496 and the king 's death as 511 .
+clovis 's reign , gregory claims , lasted thirty years ; with a little difficulty we can [calculate] the dates of his accession as 481 , the defeat of syagrius as 486 , the victory over the alamans as 496 and the king 's death as 511 .
+
+Our minds ca n't imagine a timespan as long as a million years , let alone the thousands of millions of years that geologists routinely compute .
+our minds ca n't imagine a timespan as long as a million years , let alone the thousands of millions of years that geologists routinely [calculate] .
+
+Indirectly the permitted industrial expansion must have created extra employment ; this effect on the inland coalfields alone was , though impossible to compute , very considerable .
+indirectly the permitted industrial expansion must have created extra employment ; this effect on the inland coalfields alone was , though impossible to [calculate] , very considerable .
+
+It was clear almost from the outset that the final instrument would have to be able to compute certain parameters of its measurement function , in order to cope with variations in environment .
+it was clear almost from the outset that the final instrument would have to be able to [calculate] certain parameters of its measurement function , in order to cope with variations in environment .
+
+If we now compute a weighted sum , or what is the same thing , the sum of the A-measures at each exposure , then for a given subject area this sum will increase as the reflected light intensity increases , since more pixels will be seen at each exposure .
+if we now [calculate] a weighted sum , or what is the same thing , the sum of the a-measures at each exposure , then for a given subject area this sum will increase as the reflected light intensity increases , since more pixels will be seen at each exposure .
+
+Option 4 recalculates the whiteout and blackout points now that the field of view is known and proceeds to compute a ‘ good ’ exposure for the measurements .
+option 4 recalculates the whiteout and blackout points now that the field of view is known and proceeds to [calculate] a ‘ good ’ exposure for the measurements .
+
+Level 1 — calls the getBoundaries procedure to compute the blackout and whiteout levels .
+level 1 — calls the getboundaries procedure to [calculate] the blackout and whiteout levels .
+
+the procedure refAndWgt is then called to save a set of ‘ good ’ measurements of the reference card — to be used later to check consistency — and also to compute a weighting between the top and bottom of the image .
+the procedure refandwgt is then called to save a set of ‘ good ’ measurements of the reference card — to be used later to check consistency — and also to [calculate] a weighting between the top and bottom of the image .
+
+For the initial tests trace statements were inserted to obtain the pixel counts for each of the range of exposures used to compute the two bounds .
+for the initial tests trace statements were inserted to obtain the pixel counts for each of the range of exposures used to [calculate] the two bounds .
+
+to tell a tally or compute a score ;
+to tell a tally or [calculate] a score ;
+
+4.2 From January 1990 , new book acquisitions have been catalogued on a compute database which allows more extensive search facilities than is possible using the card indexes ; eg. truncated word search on title or series title , and using boolean operators to join search terms .
+4.2 from january 1990 , new book acquisitions have been catalogued on a [calculate] database which allows more extensive search facilities than is possible using the card indexes ; eg. truncated word search on title or series title , and using boolean operators to join search terms .
+
+From September 1990 , this index has been entered on a compute database which permits more advanced searches and improves ease of retrieval .
+from september 1990 , this index has been entered on a [calculate] database which permits more advanced searches and improves ease of retrieval .
+
+It could , in principle , compute all possible relationships between different parts and subparts of an utterance , and also provide a record of failed interpretations .
+it could , in principle , [calculate] all possible relationships between different parts and subparts of an utterance , and also provide a record of failed interpretations .
+
+The representation must allow us to compute a link between descriptions of acoustic input and stored descriptions .
+the representation must allow us to [calculate] a link between descriptions of acoustic input and stored descriptions .
+
+Using the unit cumulative normal frequency distribution we may compute confidence limits for our estimate of beta .
+using the unit cumulative normal frequency distribution we may [calculate] confidence limits for our estimate of beta .
+
+The graph line will at first rise steeply but then start to level off , and one can compute the likely final level and hence the number of dies .
+the graph line will at first rise steeply but then start to level off , and one can [calculate] the likely final level and hence the number of dies .
+
+Computers compute .
+computers [calculate] .
+
+To put the problem in an extreme form , if we had access to all the genetic information in the egg and knew all the genes in detail , could we compute the animal to which it will give rise ?
+to put the problem in an extreme form , if we had access to all the genetic information in the egg and knew all the genes in detail , could we [calculate] the animal to which it will give rise ?
+
+We now wish to compute the price indices for 1985 and 1986 .
+we now wish to [calculate] the price indices for 1985 and 1986 .
+
+So measures of document exposure may be the only direct measures of the benefits of book use which are relatively easy to collect and to compute .
+so measures of document exposure may be the only direct measures of the benefits of book use which are relatively easy to collect and to [calculate] .
+
+It is necessary to correct these readings for environmental conditions such as hole size and mud resistivity and to compute the effect of mud filtrate invasion .
+it is necessary to correct these readings for environmental conditions such as hole size and mud resistivity and to [calculate] the effect of mud filtrate invasion .
+
+The underlying premise of Papert , Servan-Schreiber and their colleagues at the Centre Mondial is that children and adults , lawyers and journalists , the rulers and the ruled , can all assimilate compute culture without either losing their own , or surrendering to some centrally imposed scheme of , knowledge . The idea challenges scientists and non-scientists alike , including people who may never write a computer program in their lives , to come to terms with computers and understand what they are about
+the underlying premise of papert , servan-schreiber and their colleagues at the centre mondial is that children and adults , lawyers and journalists , the rulers and the ruled , can all assimilate [calculate] culture without either losing their own , or surrendering to some centrally imposed scheme of , knowledge . the idea challenges scientists and non-scientists alike , including people who may never write a computer program in their lives , to come to terms with computers and understand what they are about
+
+To compute this new value without recourse to graph paper , the following formula can be used : For example , a hypothetical value for December 1983 is given by ( 3 × 45.2 ) — ( 2 × 46.7 ) or 42.2 ( data derived from figure 9.9 ) .
+to [calculate] this new value without recourse to graph paper , the following formula can be used : for example , a hypothetical value for december 1983 is given by ( 3 × 45.2 ) — ( 2 × 46.7 ) or 42.2 ( data derived from figure 9.9 ) .
+
+For many algorithms that are to compute an answer , then halt , we can not say ahead of time whether the computer will halt in finite time .
+for many algorithms that are to [calculate] an answer , then halt , we can not say ahead of time whether the computer will halt in finite time .
+
+It becomes easy to conjure multimolecular systems , indeed autonomous agents are examples , in which even if the Hamiltonian for each single system and all the coupled systems were known , it would not be possible to compute the detailed dynamics of the coupled spin system in the lifetime of the universe .
+it becomes easy to conjure multimolecular systems , indeed autonomous agents are examples , in which even if the hamiltonian for each single system and all the coupled systems were known , it would not be possible to [calculate] the detailed dynamics of the coupled spin system in the lifetime of the universe .
+
+We can not compute it .
+we can not [calculate] it .
+
+Given Newton ’ s calculus , let us compute the forward trajectory of the balls on the table .
+given newton ’ s calculus , let us [calculate] the forward trajectory of the balls on the table .
+
+Constant dollar figures are commonly used to compute the real value of the gross domestic product and its components and to estimate the real level of Federal receipts and outlays .
+constant dollar figures are commonly used to [calculate] the real value of the gross domestic product and its components and to estimate the real level of federal receipts and outlays .
+
+Reliable data are important to accurately compute and account for computed pay , leave , and allowances .
+reliable data are important to accurately [calculate] and account for computed pay , leave , and allowances .
+
+In making such a determination , the Administrator shall compute for each unit subject to the emissions limitation requirements of this section the difference between :
+in making such a determination , the administrator shall [calculate] for each unit subject to the emissions limitation requirements of this section the difference between :
+
+Elasticity concept can be extended to any other variable in household 's demand function Expenditure elasticity of Demand = One percent increase in the household 's total expenditure , M , brings about what percentage change in household-level demand for good j , Dj For each US household can compute an estimate of its own-price and crossprice elasticities of demand and the expenditure elasticity of demand .
+elasticity concept can be extended to any other variable in household 's demand function expenditure elasticity of demand = one percent increase in the household 's total expenditure , m , brings about what percentage change in household-level demand for good j , dj for each us household can [calculate] an estimate of its own-price and crossprice elasticities of demand and the expenditure elasticity of demand .
+
+Aggregate Demand Function for the Household Sector Using BLS weights , can compute an estimate of the aggregate US population demand function for postage from the household sector as the weighted sum of sample household level-demand functions Can compute own-price and cross-price elasticities of aggregate household demand for postage using this aggregate demand function .
+aggregate demand function for the household sector using bls weights , can [calculate] an estimate of the aggregate us population demand function for postage from the household sector as the weighted sum of sample household level-demand functions can [calculate] own-price and cross-price elasticities of aggregate household demand for postage using this aggregate demand function .
+
+Our man William Saletan will compute and analyze changes in the pundits index .
+our man william saletan will [calculate] and analyze changes in the pundits index .
+
+I planted bomb disguised to look like scrap of lumber behind Rentech Compute store in Sacramento ... .
+i planted bomb disguised to look like scrap of lumber behind rentech [calculate] store in sacramento ... .
+
+Add in the jobs created by firms with one to 499 employees in 1991 ( the next five rows ) , and you would compute that small businesses ( defined by SBA as having fewer than 500 employees ) added all but 44,800 of the total 2.4 million net jobs gained by the economy over that period .
+add in the jobs created by firms with one to 499 employees in 1991 ( the next five rows ) , and you would [calculate] that small businesses ( defined by sba as having fewer than 500 employees ) added all but 44,800 of the total 2.4 million net jobs gained by the economy over that period .
+
+During evolution , the whole Darwinian point of male power -- lots of sex , lots of offspring -- did n't compute for females .
+during evolution , the whole darwinian point of male power -- lots of sex , lots of offspring -- did n't [calculate] for females .
+
+Other times , when overtaken by the enough is enough gremlin , they compute the gratuity based on the food , adding a modest increment to acknowledge that wine was served .
+other times , when overtaken by the enough is enough gremlin , they [calculate] the gratuity based on the food , adding a modest increment to acknowledge that wine was served .
+
+The fundamental implausibility of As Good As It Gets , in which Jack Nicholson 's character magically evolves from a toxic slime ball to an adorably vulnerable neurotic , can be forgiven as a Hollywood fantasy , but there are details scattered throughout the movie that just do not compute .
+the fundamental implausibility of as good as it gets , in which jack nicholson 's character magically evolves from a toxic slime ball to an adorably vulnerable neurotic , can be forgiven as a hollywood fantasy , but there are details scattered throughout the movie that just do not [calculate] .
+
+They will compute Herfindahl-Hirschman indexes that show the measure of concentration in a given market .
+they will [calculate] herfindahl-hirschman indexes that show the measure of concentration in a given market .
+
+Modern financial theory is highly dependent on such strange theoretical beings -- greedy fortunetellers who can compute the third derivative of their utility function .
+modern financial theory is highly dependent on such strange theoretical beings -- greedy fortunetellers who can [calculate] the third derivative of their utility function .
+
+The analog computer does not compute by means of discreate voltages or any other physical quantity .
+the analog computer does not [calculate] by means of discreate voltages or any other physical quantity .
+
+When dealing with a continuous process , it can only compute its state at discrete instants of time , since it only manipulates discrete numbers .
+when dealing with a continuous process , it can only [calculate] its state at discrete instants of time , since it only manipulates discrete numbers .
+
+If we take a three-inch cannonball on a very hot day , compute its diameter on a very cold day ( assuming a drop of 60° C. ) , and compare this to the contraction of brass for the same drop in temperature , while it is true that the cannonballs will have shrunken twice as much as the brass monkey , the difference for ten balls would be less than a sixteenth of an inch ; the pile would not topple even if their diameters were twice as large .
+if we take a three-inch cannonball on a very hot day , [calculate] its diameter on a very cold day ( assuming a drop of 60° c. ) , and compare this to the contraction of brass for the same drop in temperature , while it is true that the cannonballs will have shrunken twice as much as the brass monkey , the difference for ten balls would be less than a sixteenth of an inch ; the pile would not topple even if their diameters were twice as large .
+
+There is precedent , after all , in analog computers , which compute by some analog such as discrete electrical voltages for numerical values .
+there is precedent , after all , in analog computers , which [calculate] by some analog such as discrete electrical voltages for numerical values .
+

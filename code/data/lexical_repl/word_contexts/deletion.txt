@@ -1,0 +1,417 @@
+To be able to analyse the promoter deletion constructs in neuronal cells , we tested a number of cell lines for their transfection efficiency .
+to be able to analyse the promoter [removal] constructs in neuronal cells , we tested a number of cell lines for their transfection efficiency .
+
+We next generated transgenic mice for a deletion containing only 55bp of the promoter linked to the rest of the gene .
+we next generated transgenic mice for a [removal] containing only 55bp of the promoter linked to the rest of the gene .
+
+Operations such as deletion on any hyper-medium object participating in the relationship item.found.in should perhaps be constrained .
+operations such as [removal] on any hyper-medium object participating in the relationship item.found.in should perhaps be constrained .
+
+Deletion polymorphism in the gene for angiotensin-converting enzyme is a potent risk factor for myocardial infarction
+[removal] polymorphism in the gene for angiotensin-converting enzyme is a potent risk factor for myocardial infarction
+
+Mutations in several Pax genes lead to severe developmental abnormalities : ( 1 ) a mutation in the paired box of murine Pax-1 leads to the undulated phenotype which exhibits distortions of the vertebral column ; ( 2 ) a mutation in the Pax-6 gene leads to the semidominant Small eye phenotype in mouse and a mutation in the putative human homologue of this gene may be responsible for the aniridia disorder ; ( 3 ) mutations in the putative human homologue to Pax-3 ( HuP2 ) occasionally lead to hearing loss associated with Waardenburg 's syndrome , whereas in mouse a deletion in Pax-3 causes the splotch phenotype which is associated with spina bifida , exencephaly , a tail flexion defect and deficiencies in neural crest cell derivatives .
+mutations in several pax genes lead to severe developmental abnormalities : ( 1 ) a mutation in the paired box of murine pax-1 leads to the undulated phenotype which exhibits distortions of the vertebral column ; ( 2 ) a mutation in the pax-6 gene leads to the semidominant small eye phenotype in mouse and a mutation in the putative human homologue of this gene may be responsible for the aniridia disorder ; ( 3 ) mutations in the putative human homologue to pax-3 ( hup2 ) occasionally lead to hearing loss associated with waardenburg 's syndrome , whereas in mouse a [removal] in pax-3 causes the splotch phenotype which is associated with spina bifida , exencephaly , a tail flexion defect and deficiencies in neural crest cell derivatives .
+
+The deletion of the negative by Kirkup matched well the new more assertively public attitude of homosexuals in the 1960s and 1970s ; his means , the depiction of a homosexual relationship between a Roman centurion and the crucified body of Christ , depicted in the most physical sensual terms , was nothing if not polemical .
+the [removal] of the negative by kirkup matched well the new more assertively public attitude of homosexuals in the 1960s and 1970s ; his means , the depiction of a homosexual relationship between a roman centurion and the crucified body of christ , depicted in the most physical sensual terms , was nothing if not polemical .
+
+Failure to respond will result in deletion from their register .
+failure to respond will result in [removal] from their register .
+
+For example Neu 's ( 1980 ) analysis of final stop deletion suggests that some lexical items are affected by the process more than others .
+for example neu 's ( 1980 ) analysis of final stop [removal] suggests that some lexical items are affected by the process more than others .
+
+Thus , for example , inclusion of the frequently occurring item and , which shows high frequency deletion , skews the data considerably ; for this reason , Labov excluded and from his original study of final stop deletion ( Labov 1980 : xvi ) .
+thus , for example , inclusion of the frequently occurring item and , which shows high frequency [removal] , skews the data considerably ; for this reason , labov excluded and from his original study of final stop [removal] ( labov 1980 : xvi ) .
+
+Also reporting on patterns of final stop deletion , Fasold ( 1978 ) has remarked on the idiosyncratic behaviour of the item kept where [ t ] is almost always deleted .
+also reporting on patterns of final stop [removal] , fasold ( 1978 ) has remarked on the idiosyncratic behaviour of the item kept where [ t ] is almost always deleted .
+
+Since the normal past tense forms in , for example , Belfast vernacular are kep , slep , swep , deletion is categorical for many speakers .
+since the normal past tense forms in , for example , belfast vernacular are kep , slep , swep , [removal] is categorical for many speakers .
+
+Nor is the general difficulty confined to final stop deletion .
+nor is the general difficulty confined to final stop [removal] .
+
+Using a detailed study of final stop deletion to exemplify a more general principle , Guy suggests that 30 tokens per variable is a reasonable goal to aim for .
+using a detailed study of final stop [removal] to exemplify a more general principle , guy suggests that 30 tokens per variable is a reasonable goal to aim for .
+
+Guy ( 1980 ) has concluded from his study of final stop deletion that the individual follows the group norm very closely ; but since we know that scores for different linguistic variables are not distributed within or between groups in a comparable way , we can not conclude that all variables will behave in the same way as the syllable-final alveolar stop .
+guy ( 1980 ) has concluded from his study of final stop [removal] that the individual follows the group norm very closely ; but since we know that scores for different linguistic variables are not distributed within or between groups in a comparable way , we can not conclude that all variables will behave in the same way as the syllable-final alveolar stop .
+
+It was Sankoff 's paper ‘ Above and beyond phonology in variable rules ’ ( 1973 ; 1980b ) which first proposed extending the notion of the linguistic variable to syntax , demonstrating the methods and principles involved with three examples : variable placement of the future marker bai in Tok Pisin ; variable deletion of the complementizer que in Montreal French ; and variation in the use of French indefinite on .
+it was sankoff 's paper ‘ above and beyond phonology in variable rules ’ ( 1973 ; 1980b ) which first proposed extending the notion of the linguistic variable to syntax , demonstrating the methods and principles involved with three examples : variable placement of the future marker bai in tok pisin ; variable [removal] of the complementizer que in montreal french ; and variation in the use of french indefinite on .
+
+Interestingly , the results lead to a decisive rejection of a functionalist hypothesis ; deletion rates are affected very little by the presence or absence of disambiguating information in the surface string .
+interestingly , the results lead to a decisive rejection of a functionalist hypothesis ; [removal] rates are affected very little by the presence or absence of disambiguating information in the surface string .
+
+The factor which most powerfully predicts deletion is deletion of the first plural element in the string ; if a plural in the phrase is going to be realized by [ s ] , there is a strong tendency for it to be realized on this first element .
+the factor which most powerfully predicts [removal] is [removal] of the first plural element in the string ; if a plural in the phrase is going to be realized by [ s ] , there is a strong tendency for it to be realized on this first element .
+
+Also basing his work on media language , written as well as spoken , Bell ( 1985 ) studies in real time the spread of a process of determiner deletion in noun phrases which has become common in news reports , as demonstrated in 35 as opposed to 36 :
+also basing his work on media language , written as well as spoken , bell ( 1985 ) studies in real time the spread of a process of determiner [removal] in noun phrases which has become common in news reports , as demonstrated in 35 as opposed to 36 :
+
+Deletion of a home record may mean that , even though the home position is now free , a number of other records that originally randomized to that address are held as synonyms .
+[removal] of a home record may mean that , even though the home position is now free , a number of other records that originally randomized to that address are held as synonyms .
+
+To avoid these problems , addition and deletion algorithms will have to ensure that at least one home record remains in any bucket to which any records randomize .
+to avoid these problems , addition and [removal] algorithms will have to ensure that at least one home record remains in any bucket to which any records randomize .
+
+Deletion of records ;
+[removal] of records ;
+
+McDonell provided a useful analysis of what is involved in addition , deletion or modification of records , so far as the maintenance and use of associative key lists is concerned ; he defined an associative key list as ‘ a list for each indexed key which joins together all the main file records containing that key ’ .
+mcdonell provided a useful analysis of what is involved in addition , [removal] or modification of records , so far as the maintenance and use of associative key lists is concerned ; he defined an associative key list as ‘ a list for each indexed key which joins together all the main file records containing that key ’ .
+
+These also dictate the systematic deletion from publishers ' catalogues of slow-selling items .
+these also dictate the systematic [removal] from publishers ' catalogues of slow-selling items .
+
+Notice , however , that although we may have views on the social class distribution of [ ta ; ] deletion ( it can be readily observed to be less common in middle-class Belfast English ) , social class is at this stage an external category .
+notice , however , that although we may have views on the social class distribution of [ ta ; ] [removal] ( it can be readily observed to be less common in middle-class belfast english ) , social class is at this stage an external category .
+
+Figure 4.1 Deletion of medial [ ta ; ] in words of the type mother , together .
+figure 4.1 [removal] of medial [ ta ; ] in words of the type mother , together .
+
+On the deletion of clause 54 ( 4 ) , in-house benefits were to be taxed on the same basis as external benefits , i.e .
+on the [removal] of clause 54 ( 4 ) , in-house benefits were to be taxed on the same basis as external benefits , i.e .
+
+Mitochondrial genome expression in a mutant strain of D.subobscura , an animal model for large scale mtDNA deletion
+mitochondrial genome expression in a mutant strain of d.subobscura , an animal model for large scale mtdna [removal]
+
+These may be of several kinds : point mutations involving protein coding genes or tRNA ( 5–9 ) , or more substantial deletion ( 10–12 ) or duplication type mutations ( 13 ) , localized by most studies in a highly specific single-strand zone during replication ( 14–16 ) .
+these may be of several kinds : point mutations involving protein coding genes or trna ( 5–9 ) , or more substantial [removal] ( 10–12 ) or duplication type mutations ( 13 ) , localized by most studies in a highly specific single-strand zone during replication ( 14–16 ) .
+
+Transcripts of genes out the deletion .
+transcripts of genes out the [removal] .
+
+These results confirm that transcripts of genes not implicated in deletion attained identical steady-state levels in the two strains .
+these results confirm that transcripts of genes not implicated in [removal] attained identical steady-state levels in the two strains .
+
+According to the various measurements performed , 70 to 80 % of the mitochondrial genomes showed deletion involving more than 30 % of their coding fraction .
+according to the various measurements performed , 70 to 80 % of the mitochondrial genomes showed [removal] involving more than 30 % of their coding fraction .
+
+For genes not involved in deletion , equilibrium transcript concentrations were identical in the mutant and wild-type strains .
+for genes not involved in [removal] , equilibrium transcript concentrations were identical in the mutant and wild-type strains .
+
+Conversely , equilibrium transcript concentrations were affected for genes involved in deletion : there was a 45 to 65% decrease for genes coding for NADH-dehydrogenase subunits , and a 35% decrease for the cytochrome b gene .
+conversely , equilibrium transcript concentrations were affected for genes involved in [removal] : there was a 45 to 65% decrease for genes coding for nadh-dehydrogenase subunits , and a 35% decrease for the cytochrome b gene .
+
+The presence of a new 1350 n. transcript , identified in the mutant strain by probes in borderline deletion areas , indicated transcription of the deleted genomes .
+the presence of a new 1350 n. transcript , identified in the mutant strain by probes in borderline [removal] areas , indicated transcription of the deleted genomes .
+
+Hence , deletion clearly led to a modification in equilibrium transcript levels in the heteroplasmic strain for genes involved in deletion .
+hence , [removal] clearly led to a modification in equilibrium transcript levels in the heteroplasmic strain for genes involved in [removal] .
+
+The compensatory mechanisms , allowing the mutant strain to withstand deletion and restore balanced cellular energetic may implicated other metabolic pathways and other compartments than the mitochondrial alone .
+the compensatory mechanisms , allowing the mutant strain to withstand [removal] and restore balanced cellular energetic may implicated other metabolic pathways and other compartments than the mitochondrial alone .
+
+Whilst the increase in the mean estimate of the Kd values in general parallels the extent of the deletion of the α-subunit , it is most noticeable in the case of the gal promoter .
+whilst the increase in the mean estimate of the kd values in general parallels the extent of the [removal] of the α-subunit , it is most noticeable in the case of the gal promoter .
+
+The question is whether the court has power under section 82 of the Land Registration Act 1925 to order the register to be rectified by deletion of the entry of the building society 's registered charge in the charges register .
+the question is whether the court has power under section 82 of the land registration act 1925 to order the register to be rectified by [removal] of the entry of the building society 's registered charge in the charges register .
+
+With a few minor amendments ( such as the deletion of paragraph numbers and cross-references to the relevant numbered paragraphs in earlier chapters ) they are presented as they appeared in the final report .
+with a few minor amendments ( such as the [removal] of paragraph numbers and cross-references to the relevant numbered paragraphs in earlier chapters ) they are presented as they appeared in the final report .
+
+The linguistic transformation known as object deletion is used to ensure that instances of police aggression are rendered more palatable .
+the linguistic transformation known as object [removal] is used to ensure that instances of police aggression are rendered more palatable .
+
+Initially , however , the tenant should insist on deletion of the provision .
+initially , however , the tenant should insist on [removal] of the provision .
+
+Any deletion of this provision will normally be resisted vehemently by a landlord , particularly in a shopping centre , as it will not wish to have any infringement that may interfere with its development of neighbouring property .
+any [removal] of this provision will normally be resisted vehemently by a landlord , particularly in a shopping centre , as it will not wish to have any infringement that may interfere with its development of neighbouring property .
+
+The tenant should consider its deletion , particularly where the premises form part of a shopping centre and the other units have already been constructed or are about to be so .
+the tenant should consider its [removal] , particularly where the premises form part of a shopping centre and the other units have already been constructed or are about to be so .
+
+That is , whereas Lok is freed from quasi-metaphorical thought patterns and learns to use comparison , separating concepts and seeing them independently , the reader is shown the comparison first , then , with the deletion of like the peoples ' view is represented .
+that is , whereas lok is freed from quasi-metaphorical thought patterns and learns to use comparison , separating concepts and seeing them independently , the reader is shown the comparison first , then , with the [removal] of like the peoples ' view is represented .
+
+Sudden changes in funding may also result in the withdrawal of systems , the sudden deletion of information by creation date alone to create space , or uncontrolled over-retention as the result of expenditure on new memory capacity .
+sudden changes in funding may also result in the withdrawal of systems , the sudden [removal] of information by creation date alone to create space , or uncontrolled over-retention as the result of expenditure on new memory capacity .
+
+If there is no deletion mechanism , a system may be overwhelmed by the volume of messages travelling through it .
+if there is no [removal] mechanism , a system may be overwhelmed by the volume of messages travelling through it .
+
+It will try to leave as much of the restriction as is reasonable in force , but that will only be the result if what remains after deletion of the void provisions can stand alone as a coherent , meaningful agreement : all too often the several restraints are jumbled and effectively unseverable , so that the whole fails .
+it will try to leave as much of the restriction as is reasonable in force , but that will only be the result if what remains after [removal] of the void provisions can stand alone as a coherent , meaningful agreement : all too often the several restraints are jumbled and effectively unseverable , so that the whole fails .
+
+The assumption that transformations represent paraphrase relations has been undermined , for example , by consideration of cases in which the passive and deletion transformations illustrated in [ 4 ] and [ 7 ] do not preserve the same `` logical content `` : Many arrows did not hit the target The target was not hit by many arrows .
+the assumption that transformations represent paraphrase relations has been undermined , for example , by consideration of cases in which the passive and [removal] transformations illustrated in [ 4 ] and [ 7 ] do not preserve the same `` logical content `` : many arrows did not hit the target the target was not hit by many arrows .
+
+With the isolation of the gene responsible for Duchenne muscular dystrophy it became possible to track the defective gene in most pedigrees and to offer increasingly accurate prenatal diagnosis either by deletion analysis in many cases or by using linked markers .
+with the isolation of the gene responsible for duchenne muscular dystrophy it became possible to track the defective gene in most pedigrees and to offer increasingly accurate prenatal diagnosis either by [removal] analysis in many cases or by using linked markers .
+
+Even if it measures the use of redundancy up to ten words either side of the deletion , this is still not the same as measuring comprehension : as we saw in the Bailey and Harrison study , redundancy and comprehensibility can be very different aspects of a text .
+even if it measures the use of redundancy up to ten words either side of the [removal] , this is still not the same as measuring comprehension : as we saw in the bailey and harrison study , redundancy and comprehensibility can be very different aspects of a text .
+
+Write in the whole of the correct version of the word in pencil , either above the deletion , which is best , or in the margin .
+write in the whole of the correct version of the word in pencil , either above the [removal] , which is best , or in the margin .
+
+Much attention has lately been focused on the 5q deletion associated with myelodysplasia and acute myeloid leukaemia .
+much attention has lately been focused on the 5q [removal] associated with myelodysplasia and acute myeloid leukaemia .
+
+Van den Berghe and colleagues originally drew attention to the deletion of 5q in elderly female patients with macrocytic anaemia , normal or raised platelet counts , hypolobulated megakaryocytes , and a low risk of leukaemic transformation .
+van den berghe and colleagues originally drew attention to the [removal] of 5q in elderly female patients with macrocytic anaemia , normal or raised platelet counts , hypolobulated megakaryocytes , and a low risk of leukaemic transformation .
+
+This prevents unauthorised access or inadvertent deletion of the file .
+this prevents unauthorised access or inadvertent [removal] of the file .
+
+Module Version Deletion :
+module version [removal] :
+
+Makes available for deletion otherwise unreferenced development modules
+makes available for [removal] otherwise unreferenced development modules
+
+Hard Copy/Module Version Deletion
+hard copy/module version [removal]
+
+To determine the number of times any message may be printed before automatic deletion .
+to determine the number of times any message may be printed before automatic [removal] .
+
+Section 5 describes the functions of the Module Version Deletion facility
+section 5 describes the functions of the module version [removal] facility
+
+Module Version Deletion
+module version [removal]
+
+Module Version Deletion Rules
+module version [removal] rules
+
+Nomination for deletion takes place when the module version satisfies Rules 1 to 4 as follows : —
+nomination for [removal] takes place when the module version satisfies rules 1 to 4 as follows : —
+
+As stated , Rule 1 inhibits nomination of a circular network of packages ; therefore , to allow deletion of such networks , Rule 1 is relaxed where all members of a circular network would be nominated except for their mutual dependence .
+as stated , rule 1 inhibits nomination of a circular network of packages ; therefore , to allow [removal] of such networks , rule 1 is relaxed where all members of a circular network would be nominated except for their mutual dependence .
+
+Deletion takes place when the module both satisifes Rules 1 to 4 above and Rule 5 as follows : —
+[removal] takes place when the module both satisifes rules 1 to 4 above and rule 5 as follows : —
+
+The nomination latency is the time period within which the module manager may inhibit deletion of the specific module version by introducing a package into the database to explicitly select this version or by making the version preferred .
+the nomination latency is the time period within which the module manager may inhibit [removal] of the specific module version by introducing a package into the database to explicitly select this version or by making the version preferred .
+
+In order to satisfy Rule 4 , it may be necessary for modules to be brought online to be hard copied prior to deletion .
+in order to satisfy rule 4 , it may be necessary for modules to be brought online to be hard copied prior to [removal] .
+
+Deletion of Unused Module Names
+[removal] of unused module names
+
+Method of addition and deletion of data items
+method of addition and [removal] of data items
+
+Deletion .
+[removal] .
+
+The main areas , all closely related , in which biotechnology is being applied to plants are : Improvement of crop varieties Disease and pest resistance Nitrogen fixation Deletion of undesirable traits Tissue culture and cloning Production of compounds within plants Biodegradation of plant material
+the main areas , all closely related , in which biotechnology is being applied to plants are : improvement of crop varieties disease and pest resistance nitrogen fixation [removal] of undesirable traits tissue culture and cloning production of compounds within plants biodegradation of plant material
+
+An example is the deletion of an ice nucleating gene from a strain of bacterium which makes crops susceptible to frost damage at temperatures just below freezing point .
+an example is the [removal] of an ice nucleating gene from a strain of bacterium which makes crops susceptible to frost damage at temperatures just below freezing point .
+
+The clock pulses are also input to the pulse deletion circuit , which blocks some of the clock signals during acceleration and deceleration .
+the clock pulses are also input to the pulse [removal] circuit , which blocks some of the clock signals during acceleration and deceleration .
+
+6.4.3 Pulse deletion
+6.4.3 pulse [removal]
+
+The clock pulses are still input to the deletion circuit and therefore the process of deleting pulses can be repeated .
+the clock pulses are still input to the [removal] circuit and therefore the process of deleting pulses can be repeated .
+
+Faster operating speeds can be obtained with a higher clock frequency and more stages of pulse deletion .
+faster operating speeds can be obtained with a higher clock frequency and more stages of pulse [removal] .
+
+Codd 's research was directed at a very real problem , that is the deletion , insertion and update of data on these very large files .
+codd 's research was directed at a very real problem , that is the [removal] , insertion and update of data on these very large files .
+
+The record is accessed ( as previously described ) , changed or deleted ( or marked ‘ for deletion ’ ) .
+the record is accessed ( as previously described ) , changed or deleted ( or marked ‘ for [removal] ’ ) .
+
+Record insertion , deletion and update may involve high costs .
+record insertion , [removal] and update may involve high costs .
+
+Examples of this approach are provided by Srihari and Bozinovic ( 1982 ) and Ullmann ( 1977 ) who developed a probabilistic model of the substitution , deletion and insertion errors that were likely to occur which modified the output from the shape recognition module .
+examples of this approach are provided by srihari and bozinovic ( 1982 ) and ullmann ( 1977 ) who developed a probabilistic model of the substitution , [removal] and insertion errors that were likely to occur which modified the output from the shape recognition module .
+
+Will my right hon. Friend confirm that we in Britain will retain complete freedom to run our own monetary and economic policy , that we have transferred no significant powers from Westminster to the European Parliament , and that , in securing the deletion of the word ’ federal ’ , he has secured the deletion of the whole federal agenda ? Is my right hon. Friend aware that , in securing all his aims at Maastricht , he will have the gratitude and admiration of the entire nation ?
+will my right hon. friend confirm that we in britain will retain complete freedom to run our own monetary and economic policy , that we have transferred no significant powers from westminster to the european parliament , and that , in securing the [removal] of the word ’ federal ’ , he has secured the [removal] of the whole federal agenda ? is my right hon. friend aware that , in securing all his aims at maastricht , he will have the gratitude and admiration of the entire nation ?
+
+5 The result of deletion of the new technology agreement is that hte majority of staff will have an allowance of £763 per year replaced by a personal allowance of £468 per year .
+5 the result of [removal] of the new technology agreement is that hte majority of staff will have an allowance of £763 per year replaced by a personal allowance of £468 per year .
+
+3.5 In addition to this the Trade Union has very reluctantly accepted the principle of job cuts and by agreeing to accepting the deletion of New Technology Allowance for all new entrants have agreed to those staff suffering a wage cut .
+3.5 in addition to this the trade union has very reluctantly accepted the principle of job cuts and by agreeing to accepting the [removal] of new technology allowance for all new entrants have agreed to those staff suffering a wage cut .
+
+In addition to acoustic-phonetic effects , there are also phonological effects such as the deletion of in the phrase list some .
+in addition to acoustic-phonetic effects , there are also phonological effects such as the [removal] of in the phrase list some .
+
+Whereas in ordinary completion tests the words for deletion are selected subjectively ( consisting largely of structural words in certain tests and key content words in other tests ) , in cloze tests the words are deleted systematically .
+whereas in ordinary completion tests the words for [removal] are selected subjectively ( consisting largely of structural words in certain tests and key content words in other tests ) , in cloze tests the words are deleted systematically .
+
+The fifth , sixth and seventh words are the most widely favoured for deletion .
+the fifth , sixth and seventh words are the most widely favoured for [removal] .
+
+Any drill which requires changes in word order , whether optional or obligatory , which requires the addition or deletion of grammatical constituents such as not and which further exacts the alteration of grammatical pairs such as already and yet , can be called a transformational drill .
+any drill which requires changes in word order , whether optional or obligatory , which requires the addition or [removal] of grammatical constituents such as not and which further exacts the alteration of grammatical pairs such as already and yet , can be called a transformational drill .
+
+Review includes dramatizing ( acting/taking parts ) , and modifications by changing of style , replacement of vocabulary items , expansion of phrases and deletion of non-obligatory items .
+review includes dramatizing ( acting/taking parts ) , and modifications by changing of style , replacement of vocabulary items , expansion of phrases and [removal] of non-obligatory items .
+
+This distribution of p53 gene mutation between adenomas and carcinomas mirrors that of chromosome 17p deletion , believed to signal loss of a wild type p53 allele .
+this distribution of p53 gene mutation between adenomas and carcinomas mirrors that of chromosome 17p [removal] , believed to signal loss of a wild type p53 allele .
+
+Inactivation of one p53 allele by mutation , and the other by deletion , may be important for colorectal carcinogenesis in the same way that deletion of the Rb gene is necessary for the development of retinoblastoma .
+inactivation of one p53 allele by mutation , and the other by [removal] , may be important for colorectal carcinogenesis in the same way that [removal] of the rb gene is necessary for the development of retinoblastoma .
+
+Loss of tumour suppressor function requires inactivation of both alleles , usually by chromosomal deletion or point mutation , or both .
+loss of tumour suppressor function requires inactivation of both alleles , usually by chromosomal [removal] or point mutation , or both .
+
+Deletion of nm23 may be a critical event in the lymphatic and haematogenous dissemination of carcinomas .
+[removal] of nm23 may be a critical event in the lymphatic and haematogenous dissemination of carcinomas .
+
+Two large studies have shown genetic lesions , including chromosome 17p , 18q , and 1p deletion , to be prognostic indicators .
+two large studies have shown genetic lesions , including chromosome 17p , 18q , and 1p [removal] , to be prognostic indicators .
+
+In multivariate analysis , chromosome 17p deletion proved to be independent of Dukes 's stage or grade .
+in multivariate analysis , chromosome 17p [removal] proved to be independent of dukes 's stage or grade .
+
+Deletion of the gene in breast cancer is associated with reduced patient survival and increased risk of lymph node metastasis .
+[removal] of the gene in breast cancer is associated with reduced patient survival and increased risk of lymph node metastasis .
+
+Deletion of £15 excesses on certain Buildings claims .
+[removal] of £15 excesses on certain buildings claims .
+
+Deletion of £15 Excess on Buildings
+[removal] of £15 excess on buildings
+
+No law shall be enacted providing for the grant of a dissolution of marriage . The proposed change involved the deletion of this and its substitution by the following :
+no law shall be enacted providing for the grant of a dissolution of marriage . the proposed change involved the [removal] of this and its substitution by the following :
+
+The operator has wide control over model-type — wireframe , ball and stick or space-filling — addition or deletion of atoms , atomic radii , bond lengths and angles , the portion of the structure viewed , viewing angle etc .
+the operator has wide control over model-type — wireframe , ball and stick or space-filling — addition or [removal] of atoms , atomic radii , bond lengths and angles , the portion of the structure viewed , viewing angle etc .
+
+Spell correctly , in the course of their own writing , words of increasing complexity , including words with inflectional suffixes , eg -ed , -ing , where consonant doubling , eg running , or -e deletion are required , eg coming .
+spell correctly , in the course of their own writing , words of increasing complexity , including words with inflectional suffixes , eg -ed , -ing , where consonant doubling , eg running , or -e [removal] are required , eg coming .
+
+Other management functions would be authorised to cover the deletion or amendment of certain fields .
+other management functions would be authorised to cover the [removal] or amendment of certain fields .
+
+( Tasks 10 and 11 look at the selection and deletion of blocks of text . )
+( tasks 10 and 11 look at the selection and [removal] of blocks of text . )
+
+Text deletion
+text [removal]
+
+If you realise your deletion was a mistake before moving the cursor elsewhere , tap Ins for Insert to replace the text deleted .
+if you realise your [removal] was a mistake before moving the cursor elsewhere , tap ins for insert to replace the text deleted .
+
+Special deletion
+special [removal]
+
+Re-read about deletion on page 10 .
+re-read about [removal] on page 10 .
+
+Undo the deletion .
+undo the [removal] .
+
+Accidental deletion of a paragraph mark
+accidental [removal] of a paragraph mark
+
+Set tabs at 1.4″ and 3.4″ . Re-read Accidental deletion of a paragraph mark in Task 20
+set tabs at 1.4″ and 3.4″ . re-read accidental [removal] of a paragraph mark in task 20
+
+Here Serpell 's computer was programmed to assume ‘ the loss of freight revenue from the deletion of a link to be limited to the revenue directly attributed to the link .
+here serpell 's computer was programmed to assume ‘ the loss of freight revenue from the [removal] of a link to be limited to the revenue directly attributed to the link .
+
+Suffice to say , however , that there has been noise deletion ( pertaining to the surface noise from both lacquer and tape masters ) and there has been adjustment of level by way of compensation .
+suffice to say , however , that there has been noise [removal] ( pertaining to the surface noise from both lacquer and tape masters ) and there has been adjustment of level by way of compensation .
+
+You can consider the data to be of undetermined reliability if specific factors-such as short time frames , the deletion of original computer files , and the lack of access to needed documents-are present .
+you can consider the data to be of undetermined reliability if specific factors-such as short time frames , the [removal] of original computer files , and the lack of access to needed documents-are present .
+
+Include such factors as short time frames , the deletion of original computer files , and the lack of access to needed documents .
+include such factors as short time frames , the [removal] of original computer files , and the lack of access to needed documents .
+
+This change is due to the deletion from the rule of the regulation of stern drive and inboard engines , which are mainly manufactured by small entities .
+this change is due to the [removal] from the rule of the regulation of stern drive and inboard engines , which are mainly manufactured by small entities .
+
+These steps include the deletion of the requirement in the Notice of Proposed Rulemaking that a broadcast station utilize an icon for the identification of core programming .
+these steps include the [removal] of the requirement in the notice of proposed rulemaking that a broadcast station utilize an icon for the identification of core programming .
+
+Sisodia and colleagues [ 39 ] demonstrated that arrest of APP endocytosis from the plasma membrane by deletion of its NPXY clathrin-coated vesicle targeting sequence [ 40,41 ] can dramatically stimulate sAPP α shedding , presumably by extending the half-life of co-localized α-secretase and APP on the plasma membrane .
+sisodia and colleagues [ 39 ] demonstrated that arrest of app endocytosis from the plasma membrane by [removal] of its npxy clathrin-coated vesicle targeting sequence [ 40,41 ] can dramatically stimulate sapp α shedding , presumably by extending the half-life of co-localized α-secretase and app on the plasma membrane .
+
+Targeted deletion of APP has not revealed a striking phenotype [ 54 ] , presumably because of functional redundancy supplied by APP-like proteins [ 55 ] .
+targeted [removal] of app has not revealed a striking phenotype [ 54 ] , presumably because of functional redundancy supplied by app-like proteins [ 55 ] .
+
+For example , Walsh has recently reported that deletion of a gene called Nde1 produces mice with very small brains .
+for example , walsh has recently reported that [removal] of a gene called nde1 produces mice with very small brains .
+
+These recombination events can also give rise to the deletion or inversion of intervening sequences .
+these recombination events can also give rise to the [removal] or inversion of intervening sequences .
+
+Deletion of the prostacyclin receptor in mice does not cause spontaneous thrombosis , but rather enhances the response to thrombotic stimuli [ 9 ] .
+[removal] of the prostacyclin receptor in mice does not cause spontaneous thrombosis , but rather enhances the response to thrombotic stimuli [ 9 ] .
+
+Chemokine Receptor Genotyping In order to analyze the chemokine receptor ( CCR ) 5Δ32 deletion polymorphism , the region spanning the 32-nt deletion was amplified by PCR , and the two alleles were separated by gel electrophoresis [ 15 ] .
+chemokine receptor genotyping in order to analyze the chemokine receptor ( ccr ) 5δ32 [removal] polymorphism , the region spanning the 32-nt [removal] was amplified by pcr , and the two alleles were separated by gel electrophoresis [ 15 ] .
+
+In New1 , in contrast to a deletion of the N-rich domain , deletion of the repeat did not affect aggregation of the protein or formation of the prion , but abrogated inheritance of the prion .
+in new1 , in contrast to a [removal] of the n-rich domain , [removal] of the repeat did not affect aggregation of the protein or formation of the prion , but abrogated inheritance of the prion .
+
+Point mutations in the α and β cytoplasmic tails that are near the membrane or deletion of either region result in constitutive activation of the receptor ( O'Toole et al .
+point mutations in the α and β cytoplasmic tails that are near the membrane or [removal] of either region result in constitutive activation of the receptor ( o'toole et al .
+
+For example , deletion of aIIb cytoplasmic tail completely removes the clasp and permanently activates the receptor ( O'Toole et al .
+for example , [removal] of aiib cytoplasmic tail completely removes the clasp and permanently activates the receptor ( o'toole et al .
+
+A common theme is substantial gene loss , or genome streamlining , which is thought to reflect an underlying deletion bias in bacterial genomes combined with reduced strength or efficacy of selection to maintain genes in the host cellular environment .
+a common theme is substantial gene loss , or genome streamlining , which is thought to reflect an underlying [removal] bias in bacterial genomes combined with reduced strength or efficacy of selection to maintain genes in the host cellular environment .
+
+The following primers were used to generate the deletion ( del ) L747–E749 ; A750P mutant : forward 5′- TAAAATTCCCGTCGCTATCAAGGAGCCAACATCTCCGAAAGCCAACAAGG-3′ and reverse 5′- CCTTGTTGGCTTTCGGAGATGTTGGCTCCTTGATAGCGACGGGAATTTTA-3′ .
+the following primers were used to generate the [removal] ( del ) l747–e749 ; a750p mutant : forward 5′- taaaattcccgtcgctatcaaggagccaacatctccgaaagccaacaagg-3′ and reverse 5′- ccttgttggctttcggagatgttggctccttgatagcgacgggaatttta-3′ .
+
+All three specimens from patient 2 , including the original lung tumor and the two metastatic samples from bone and lung , showed an exon 19 deletion involving elimination of 11 nucleotides ( 2238–2248 ) and insertion of two nucleotides , G and C ( Figure S2B , all panels ; Table 1 ) .
+all three specimens from patient 2 , including the original lung tumor and the two metastatic samples from bone and lung , showed an exon 19 [removal] involving elimination of 11 nucleotides ( 2238–2248 ) and insertion of two nucleotides , g and c ( figure s2b , all panels ; table 1 ) .
+
+Both of the available tumor samples from patient 3 contained a deletion of 15 nucleotides ( 2236–2250 ) in exon 19 ( Table 1 ; data not shown ) , resulting in elimination of five amino acids ( del E746–A750 ) .
+both of the available tumor samples from patient 3 contained a [removal] of 15 nucleotides ( 2236–2250 ) in exon 19 ( table 1 ; data not shown ) , resulting in elimination of five amino acids ( del e746–a750 ) .
+
+This specific deletion has been previously reported [ 3 ] .
+this specific [removal] has been previously reported [ 3 ] .
+
+The relative sizes of the 2369 T mutant peaks seen in these latter two samples appeared to correlate with the relative size of the corresponding peaks of the exon 19 deletion ( Figure S2B ) .
+the relative sizes of the 2369 t mutant peaks seen in these latter two samples appeared to correlate with the relative size of the corresponding peaks of the exon 19 [removal] ( figure s2b ) .
+
+Interestingly , the SNP at nucleotide 2361 ( A or G ) was detected in specimens from patient 2 before but not after treatment with erlotinib , suggesting that one EGFR allele underwent amplification or deletion during the course of treatment ( Figure S2B ) .
+interestingly , the snp at nucleotide 2361 ( a or g ) was detected in specimens from patient 2 before but not after treatment with erlotinib , suggesting that one egfr allele underwent amplification or [removal] during the course of treatment ( figure s2b ) .
+
+A tumor-rich pre-treatment specimen did not demonstrate EGFR mutations other than the del E746–A750 exon 19 deletion ; specifically , in exon 20 , no secondary changes were detected ( Figure 2C , upper panels ; Table 1 ) .
+a tumor-rich pre-treatment specimen did not demonstrate egfr mutations other than the del e746–a750 exon 19 [removal] ; specifically , in exon 20 , no secondary changes were detected ( figure 2c , upper panels ; table 1 ) .
+
+As reported , H3255 contained an L858R mutation [ 19 ] and H1650 contained an exon 19 deletion [ 18 ] .
+as reported , h3255 contained an l858r mutation [ 19 ] and h1650 contained an exon 19 [removal] [ 18 ] .
+
+These results suggest that the T790M mutation may impair the ability of gefitinib or erlotinib to inhibit EGFR tyrosine kinase activity , even in EGFR mutants ( i.e. , L858R or an exon 19 deletion ) that are clinically associated with drug sensitivity .
+these results suggest that the t790m mutation may impair the ability of gefitinib or erlotinib to inhibit egfr tyrosine kinase activity , even in egfr mutants ( i.e. , l858r or an exon 19 [removal] ) that are clinically associated with drug sensitivity .
+
+As he sees it , all of letterplay revolves around three simple operations by which one word can be transformed into another -- insertion , deletion , and rearrangement of letters .
+as he sees it , all of letterplay revolves around three simple operations by which one word can be transformed into another -- insertion , [removal] , and rearrangement of letters .
+
+The simplest mechanism for accounting for such a pronunciation is by adding a phonological rule for the deletion of [ t ] under certain circumstances .
+the simplest mechanism for accounting for such a pronunciation is by adding a phonological rule for the [removal] of [ t ] under certain circumstances .
+
+Notice , however , that the rule for the deletion of [ t ] must follow the rule for forming the plural .
+notice , however , that the rule for the [removal] of [ t ] must follow the rule for forming the plural .
+
+Otherwise , if [ t ] deletion preceded plural formation , then [ post ] would become [ pos ] and the plural would be [ pos\ ? \s ] .
+otherwise , if [ t ] [removal] preceded plural formation , then [ post ] would become [ pos ] and the plural would be [ pos\ ? \s ] .
+
+It does n't fit the Slurvian , rule of consonant deletion .
+it does n't fit the slurvian , rule of consonant [removal] .
+
+Attempts at updating it have been largely unsatisfactory , for they are marred not only by poor choices for addenda but mainly by the deletion of colorful , interesting , quaint , and charming older entries to make room for the new .
+attempts at updating it have been largely unsatisfactory , for they are marred not only by poor choices for addenda but mainly by the [removal] of colorful , interesting , quaint , and charming older entries to make room for the new .
+

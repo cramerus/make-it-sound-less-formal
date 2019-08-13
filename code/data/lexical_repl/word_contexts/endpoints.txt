@@ -1,0 +1,192 @@
+Indeed , the spiral Af , with the two endpoints connected by a straight line possesses only one inscribed square .
+indeed , the spiral af , with the two [ends] connected by a straight line possesses only one inscribed square .
+
+Kangaroos and horses arrived at different endpoints in `` animal space `` , probably because of some accidental difference in their starting points .
+kangaroos and horses arrived at different [ends] in `` animal space `` , probably because of some accidental difference in their starting points .
+
+How should we marry assessment of quality of life with assessment of conventional trial endpoints to reach a sound treatment decision ?
+how should we marry assessment of quality of life with assessment of conventional trial [ends] to reach a sound treatment decision ?
+
+In advanced breast cancer , chemotherapy has been shown to improve both quality of life and conventional endpoints , and in such circumstances treatment can readily be advised .
+in advanced breast cancer , chemotherapy has been shown to improve both quality of life and conventional [ends] , and in such circumstances treatment can readily be advised .
+
+We used the number of deaths at 3 , 6 , 9 , 12 , and 18 months as the endpoints because we were unable to obtain all the individual data .
+we used the number of deaths at 3 , 6 , 9 , 12 , and 18 months as the [ends] because we were unable to obtain all the individual data .
+
+We used the number of deaths at 3 , 6 , 9 , 12 , and 18 months as the endpoints , because information on individual patients was not available .
+we used the number of deaths at 3 , 6 , 9 , 12 , and 18 months as the [ends] , because information on individual patients was not available .
+
+Our study is different in that the numbers are larger , the entry criteria and the endpoints are strictly defined , and many more indices of oesophageal function have been examined .
+our study is different in that the numbers are larger , the entry criteria and the [ends] are strictly defined , and many more indices of oesophageal function have been examined .
+
+We must be careful when interpreting the results of studies , and in our own design of screening procedures , that we are clear about the endpoints we are measuring .
+we must be careful when interpreting the results of studies , and in our own design of screening procedures , that we are clear about the [ends] we are measuring .
+
+Clinicians in the ED are interested in screening for several alcohol endpoints .
+clinicians in the ed are interested in screening for several alcohol [ends] .
+
+Intra- and inter-laboratory precision are described by the mean , standard deviation , and relative standard deviation ( percent coefficient of variation , or CV ) of the calculated endpoints from the replicated tests .
+intra- and inter-laboratory precision are described by the mean , standard deviation , and relative standard deviation ( percent coefficient of variation , or cv ) of the calculated [ends] from the replicated tests .
+
+Toxicity endpoints from five or six tests are adequate for establishing the control charts .
+toxicity [ends] from five or six tests are adequate for establishing the control charts .
+
+In this technique , a running plot is maintained for the toxicity values ( Xi ) from successive tests with a given reference toxicant ( Figure 1 ) , and endpoints ( LC50s ) are examined to determine if they are within prescribed limits .
+in this technique , a running plot is maintained for the toxicity values ( xi ) from successive tests with a given reference toxicant ( figure 1 ) , and [ends] ( lc50s ) are examined to determine if they are within prescribed limits .
+
+In cases where the test data are used in the Linear Interpolation Method , precision can be estimated by empirical confidence intervals derived by using the ICPIN Method ( see Section 9 , Chronic Toxicity Test Endpoints and Data Analysis ) .
+in cases where the test data are used in the linear interpolation method , precision can be estimated by empirical confidence intervals derived by using the icpin method ( see section 9 , chronic toxicity test [ends] and data analysis ) .
+
+However , in cases where the results are reported in terms of the No-Observed-Effect-Concentration ( NOEC ) and Lowest-Observed-Effect-Concentration ( LOEC ) ( see Section 9 , Chronic Toxicity Test Endpoints and Data Analysis ) , precision can only be described by listing the NOEC-LOEC interval for each test .
+however , in cases where the results are reported in terms of the no-observed-effect-concentration ( noec ) and lowest-observed-effect-concentration ( loec ) ( see section 9 , chronic toxicity test [ends] and data analysis ) , precision can only be described by listing the noec-loec interval for each test .
+
+Toxicity endpoints from five or six tests are adequate for establishing the control charts .
+toxicity [ends] from five or six tests are adequate for establishing the control charts .
+
+Successive toxicity endpoints ( NOECs , IC25s , LC50s , etc . )
+successive toxicity [ends] ( noecs , ic25s , lc50s , etc . )
+
+For endpoints that are point estimates ( LC50s and IC25s ) , the cumulative mean ( X¯ ) and upper and lower control limits ( ± 2S ) are re-calculated with each successive test result .
+for [ends] that are point estimates ( lc50s and ic25s ) , the cumulative mean ( x¯ ) and upper and lower control limits ( ± 2s ) are re-calculated with each successive test result .
+
+Endpoints from hypothesis tests ( NOEC , NOAEC ) from each test are plotted directly on the control chart .
+[ends] from hypothesis tests ( noec , noaec ) from each test are plotted directly on the control chart .
+
+In the case of endpoints that are point estimates ( LC50s and IC25s ) , at the 0.05 probability level , one in 20 tests would be expected to fall outside of the control limits by chance alone .
+in the case of [ends] that are point estimates ( lc50s and ic25s ) , at the 0.05 probability level , one in 20 tests would be expected to fall outside of the control limits by chance alone .
+
+Performance should improve with experience , and the control limits for endpoints that are point estimates should gradually narrow .
+performance should improve with experience , and the control limits for [ends] that are point estimates should gradually narrow .
+
+SECTION 9 CHRONIC TOXICITY TEST ENDPOINTS AND DATA ANALYSIS 9.1 ENDPOINTS 9.1.1 The objective of chronic aquatic toxicity tests with effluents and pure compounds is to estimate the highest `` safe '' or `` no-effect concentration '' of these substances .
+section 9 chronic toxicity test [ends] and data analysis 9.1 [ends] 9.1.1 the objective of chronic aquatic toxicity tests with effluents and pure compounds is to estimate the highest `` safe '' or `` no-effect concentration '' of these substances .
+
+The terms currently used to define the endpoints employed in the rapid , chronic and sub-chronic toxicity tests have been derived from the terms previously used for full life-cycle tests .
+the terms currently used to define the [ends] employed in the rapid , chronic and sub-chronic toxicity tests have been derived from the terms previously used for full life-cycle tests .
+
+As shorter chronic tests were developed , it became common practice to apply the same terminology to the endpoints .
+as shorter chronic tests were developed , it became common practice to apply the same terminology to the [ends] .
+
+However , the scope of these comparisons was very limited , and sufficient information is not yet available to establish an overall relationship between these two types of endpoints , especially when derived from effluent toxicity test data .
+however , the scope of these comparisons was very limited , and sufficient information is not yet available to establish an overall relationship between these two types of [ends] , especially when derived from effluent toxicity test data .
+
+The results of the test are given in terms of two endpoints , the No-Observed-Effect Concentration ( NOEC ) and the Lowest-Observed-Effect Concentration ( LOEC ) .
+the results of the test are given in terms of two [ends] , the no-observed-effect concentration ( noec ) and the lowest-observed-effect concentration ( loec ) .
+
+It is not possible to place confidence limits on the NOEC and LOEC derived from a given test , and it is difficult to quantify the precision of the NOEC-LOEC endpoints between tests .
+it is not possible to place confidence limits on the noec and loec derived from a given test , and it is difficult to quantify the precision of the noec-loec [ends] between tests .
+
+VARIABILITY CRITERIA ( UPPER AND LOWER PMSD BOUNDS ) FOR SUBLETHAL HYPOTHESIS TESTING ENDPOINTS SUBMITTED UNDER NPDES PERMITS .
+variability criteria ( upper and lower pmsd bounds ) for sublethal hypothesis testing [ends] submitted under npdes permits .
+
+SECTION 9 CHRONIC TOXICITY TEST ENDPOINTS AND DATA ANALYSIS 9.1 ENDPOINTS 9.1.1 The objective of chronic aquatic toxicity tests with effluents and pure compounds is to estimate the highest `` safe '' or `` no-effect concentration '' of these substances .
+section 9 chronic toxicity test [ends] and data analysis 9.1 [ends] 9.1.1 the objective of chronic aquatic toxicity tests with effluents and pure compounds is to estimate the highest `` safe '' or `` no-effect concentration '' of these substances .
+
+The terms currently used to define the endpoints employed in the rapid , chronic and sub-chronic toxicity tests have been derived from the terms previously used for full life-cycle tests .
+the terms currently used to define the [ends] employed in the rapid , chronic and sub-chronic toxicity tests have been derived from the terms previously used for full life-cycle tests .
+
+As shorter chronic tests were developed , it became common practice to apply the same terminology to the endpoints .
+as shorter chronic tests were developed , it became common practice to apply the same terminology to the [ends] .
+
+However , the scope of these comparisons was very limited , and sufficient information is not yet available to establish an overall relationship between these two types of endpoints , especially when derived from effluent toxicity test data .
+however , the scope of these comparisons was very limited , and sufficient information is not yet available to establish an overall relationship between these two types of [ends] , especially when derived from effluent toxicity test data .
+
+The results of the test are given in terms of two endpoints , the No-Observed- Effect Concentration ( NOEC ) and the Lowest-Observed-Effect Concentration ( LOEC ) .
+the results of the test are given in terms of two [ends] , the no-observed- effect concentration ( noec ) and the lowest-observed-effect concentration ( loec ) .
+
+It is not possible to place confidence limits on the NOEC and LOEC derived from a given test , and it is difficult to quantify the precision of the NOEC-LOEC endpoints between tests .
+it is not possible to place confidence limits on the noec and loec derived from a given test , and it is difficult to quantify the precision of the noec-loec [ends] between tests .
+
+VARIABILITY CRITERIA ( UPPER AND LOWER PMSD BOUNDS ) FOR SUBLETHAL HYPOTHESIS TESTING ENDPOINTS SUBMITTED UNDER NPDES PERMITS .
+variability criteria ( upper and lower pmsd bounds ) for sublethal hypothesis testing [ends] submitted under npdes permits .
+
+The endpoints that have been considered in tests to determine the adverse effects of toxicants include death and survival , decreased reproduction and growth , locomotor activity , gill ventilation rate , heart rate , blood chemistry , histopathology , enzyme activity , olfactory function , and terata .
+the [ends] that have been considered in tests to determine the adverse effects of toxicants include death and survival , decreased reproduction and growth , locomotor activity , gill ventilation rate , heart rate , blood chemistry , histopathology , enzyme activity , olfactory function , and terata .
+
+Data can also be used to predict potential acute and chronic toxicity in the receiving water , based on the LC50 , NOEC , IC50 or IC25 ( see Section 9 , Chronic Toxicity Endpoints and Data Analysis ) and appropriate dilution , application , and persistence factors .
+data can also be used to predict potential acute and chronic toxicity in the receiving water , based on the lc50 , noec , ic50 or ic25 ( see section 9 , chronic toxicity [ends] and data analysis ) and appropriate dilution , application , and persistence factors .
+
+The endpoints that have been considered in tests to determine the adverse effects of toxicants include death and survival , decreased reproduction and growth , locomotor activity , gill ventilation rate , heart rate , blood chemistry , histopathology , enzyme activity , olfactory function , and terata .
+the [ends] that have been considered in tests to determine the adverse effects of toxicants include death and survival , decreased reproduction and growth , locomotor activity , gill ventilation rate , heart rate , blood chemistry , histopathology , enzyme activity , olfactory function , and terata .
+
+In cases where the test data are used in the Linear Interpolation Method , precision can be estimated by empirical confidence intervals derived by using the ICPIN Method ( see Section 9 , Chronic Toxicity Test Endpoints and Data Analysis ) .
+in cases where the test data are used in the linear interpolation method , precision can be estimated by empirical confidence intervals derived by using the icpin method ( see section 9 , chronic toxicity test [ends] and data analysis ) .
+
+However , in cases where the results are reported in terms of the No-Observed-Effect Concentration ( NOEC ) and Lowest-Observed-Effect Concentration ( LOEC ) ( see Section 9 , Chronic Toxicity Test Endpoints and Data Analysis ) precision can only be described by listing the NOEC-LOEC interval for each test .
+however , in cases where the results are reported in terms of the no-observed-effect concentration ( noec ) and lowest-observed-effect concentration ( loec ) ( see section 9 , chronic toxicity test [ends] and data analysis ) precision can only be described by listing the noec-loec interval for each test .
+
+Toxicity endpoints from five or six tests are adequate for establishing the control charts .
+toxicity [ends] from five or six tests are adequate for establishing the control charts .
+
+Successive toxicity endpoints ( NOECs , IC25s , LC50s , etc . )
+successive toxicity [ends] ( noecs , ic25s , lc50s , etc . )
+
+Endpoints from hypothesis tests ( NOEC , NOAEC ) from each test are plotted directly on the control chart .
+[ends] from hypothesis tests ( noec , noaec ) from each test are plotted directly on the control chart .
+
+In the case of endpoints that are point estimates ( LC50s and IC25s ) , at the P0.05 probability level , one in 20 tests would be expected to fall outside of the control limits by chance alone .
+in the case of [ends] that are point estimates ( lc50s and ic25s ) , at the p0.05 probability level , one in 20 tests would be expected to fall outside of the control limits by chance alone .
+
+Performance should improve with experience , and the control limits for endpoints that are point estimates should gradually narrow .
+performance should improve with experience , and the control limits for [ends] that are point estimates should gradually narrow .
+
+Our analysis also looked at several environmental endpoints , including the benefits associated with visibility improvements , ozone damage to agriculture , and changes in acidification in lakes and streams in the East .
+our analysis also looked at several environmental [ends] , including the benefits associated with visibility improvements , ozone damage to agriculture , and changes in acidification in lakes and streams in the east .
+
+Moderate or Worse Asthma Status is not included in Primary Estimate due to concerns of double-counting other asthma endpoints .
+moderate or worse asthma status is not included in primary estimate due to concerns of double-counting other asthma [ends] .
+
+Exhibit 6 provides a list of the health effect endpoints we quantified as part of our analysis of the Clear Skies Act , as well as references to the studies that serve as the basis for the C-R functions .
+exhibit 6 provides a list of the health effect [ends] we quantified as part of our analysis of the clear skies act , as well as references to the studies that serve as the basis for the c-r functions .
+
+As with emissions and air quality estimates , our estimates of the effect of ambient pollution levels on all of these endpoints represent the best science and analytical tools available .
+as with emissions and air quality estimates , our estimates of the effect of ambient pollution levels on all of these [ends] represent the best science and analytical tools available .
+
+Detailed information on the selection and application of C-R functions for other endpoints in Exhibit 4 is available in the Heavy-Duty Engine/Diesel Fuel RIA ( U.S. EPA , 2000b ) .
+detailed information on the selection and application of c-r functions for other [ends] in exhibit 4 is available in the heavy-duty engine/diesel fuel ria ( u.s. epa , 2000b ) .
+
+Non-overlapping endpoints Although the benefits associated with each individual health endpoint may be analyzed separately , care must be exercised in selecting health endpoints to include in the overall benefits analysis because of the possibility of double counting of benefits .
+non-overlapping [ends] although the benefits associated with each individual health endpoint may be analyzed separately , care must be exercised in selecting health [ends] to include in the overall benefits analysis because of the possibility of double counting of benefits .
+
+Our examination of the original studies used in this analysis finds that the health endpoints that are potentially affected by the GAM issues include : reduced hospital admissions in both the Base and Alternative Estimates ; reduced lower respiratory symptoms in the both the Base and Alternative Estimates ; and reduced premature mortality due to short-term PM exposures in the Alternative Estimate .
+our examination of the original studies used in this analysis finds that the health [ends] that are potentially affected by the gam issues include : reduced hospital admissions in both the base and alternative estimates ; reduced lower respiratory symptoms in the both the base and alternative estimates ; and reduced premature mortality due to short-term pm exposures in the alternative estimate .
+
+For these two endpoints , the Alternative Estimate valuation differs from the Base Estimate values .
+for these two [ends] , the alternative estimate valuation differs from the base estimate values .
+
+The mortality and chronic bronchitis health endpoints are the most influential in our estimation of monetized benefits , because they account for over 95 percent of the total estimated monetized benefits of the Clear Skies Act .
+the mortality and chronic bronchitis health [ends] are the most influential in our estimation of monetized benefits , because they account for over 95 percent of the total estimated monetized benefits of the clear skies act .
+
+The adjustment to the unit valuations of these endpoints for growth in real income in 2020 is achieved using an adjustment factor of 1.089 .
+the adjustment to the unit valuations of these [ends] for growth in real income in 2020 is achieved using an adjustment factor of 1.089 .
+
+These studies were experimental studies intended to examine new methodologies for eliciting values for morbidity endpoints .
+these studies were experimental studies intended to examine new methodologies for eliciting values for morbidity [ends] .
+
+Valuation of Changes in Visibility Estimating benefits for visibility is a more difficult and less precise exercise than estimating health benefits because the endpoints are not directly or indirectly valued in markets .
+valuation of changes in visibility estimating benefits for visibility is a more difficult and less precise exercise than estimating health benefits because the [ends] are not directly or indirectly valued in markets .
+
+The CV method values endpoints by using carefully structured surveys to ask a sample of people what amount of compensation is equivalent to a given change in environmental quality .
+the cv method values [ends] by using carefully structured surveys to ask a sample of people what amount of compensation is equivalent to a given change in environmental quality .
+
+Agricultural benefits differ from other health and welfare endpoints in the length of the assumed ozone season .
+agricultural benefits differ from other health and welfare [ends] in the length of the assumed ozone season .
+
+The adjustment to the unit valuations of these endpoints for growth in real income in 2010 is achieved using an adjustment factor of 1.038 .
+the adjustment to the unit valuations of these [ends] for growth in real income in 2010 is achieved using an adjustment factor of 1.038 .
+
+In selecting health endpoints , we generally focus on endpoints where a statistically significant relationship has been observed , which by definition assures a reasonably 44 tight confidence interval around the best estimate of the mean concentration-response relationship .
+in selecting health [ends] , we generally focus on [ends] where a statistically significant relationship has been observed , which by definition assures a reasonably 44 tight confidence interval around the best estimate of the mean concentration-response relationship .
+
+These effects are left unquantified for a variety of reasons , but mostly because of the complexity of modeling these effects and the major uncertainties in reliably quantifying the incremental effects of atmospheric emissions reductions on ecological endpoints .
+these effects are left unquantified for a variety of reasons , but mostly because of the complexity of modeling these effects and the major uncertainties in reliably quantifying the incremental effects of atmospheric emissions reductions on ecological [ends] .
+
+Oftentimes , we 're measuring intermediate , lesser things , markers , predictors—we hope —of these clinical endpoints , but they may or may not be accurate. ” The FDA , said the scientist , requires just two positive studies to grant approval to a new drug , but there is no limitation on how many negative studies can be done before one or two positive studies are produced .
+oftentimes , we 're measuring intermediate , lesser things , markers , predictors—we hope —of these clinical [ends] , but they may or may not be accurate. ” the fda , said the scientist , requires just two positive studies to grant approval to a new drug , but there is no limitation on how many negative studies can be done before one or two positive studies are produced .
+
+Therapy with metformin appears to decrease the risk of diabetes-related endpoints , including a reduction in cardiovascular events independent of glycemic control .
+therapy with metformin appears to decrease the risk of diabetes-related [ends] , including a reduction in cardiovascular events independent of glycemic control .
+
+Furthermore , EPA guidelines for a general developmental toxicity screening test typically examine only crude toxicological endpoints such as death , body weight , or organ dysfunction .
+furthermore , epa guidelines for a general developmental toxicity screening test typically examine only crude toxicological [ends] such as death , body weight , or organ dysfunction .
+

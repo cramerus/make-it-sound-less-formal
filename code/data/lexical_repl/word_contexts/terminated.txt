@@ -1,0 +1,945 @@
+This dissatisfaction led to Howsam's request that the video not be terminated before the end of the game .
+this dissatisfaction led to howsam's request that the video not be [ended] before the end of the game .
+
+in the case of a partnership or corporation , the existence of which has been terminated and on behalf of which an award is made , payment shall be made , except as provided in paragraphs ( 3 ) and ( 4 ) , to the person or persons found by the Comptroller General of the United States to be entitled thereto ; ;
+in the case of a partnership or corporation , the existence of which has been [ended] and on behalf of which an award is made , payment shall be made , except as provided in paragraphs ( 3 ) and ( 4 ) , to the person or persons found by the comptroller general of the united states to be entitled thereto ; ;
+
+Text reading is terminated when a pre-determined number of forms have been stored in the text-form list .
+text reading is [ended] when a pre-determined number of forms have been stored in the text-form list .
+
+The inner ( anode ) sphere is pierced , elongated into a cup , and terminated by the phosphor screen .
+the inner ( anode ) sphere is pierced , elongated into a cup , and [ended] by the phosphor screen .
+
+But that 's going to be withdrawn , and the lease terminated , because the council says it needs to cut costs by using the building for it 's own staff .
+but that 's going to be withdrawn , and the lease [ended] , because the council says it needs to cut costs by using the building for it 's own staff .
+
+The Brewers Society code which is a voluntary arrangement says tenants should be paid compensation if their tenancy is terminated .
+the brewers society code which is a voluntary arrangement says tenants should be paid compensation if their tenancy is [ended] .
+
+Safeall Security started work at the Silverhill plant on September 6 — just four days after their contract with the City Council was terminated .
+safeall security started work at the silverhill plant on september 6 — just four days after their contract with the city council was [ended] .
+
+On the basis of the report , the council 's director of client services , Mervyn Elder , recommended that Safeall 's contract be terminated .
+on the basis of the report , the council 's director of client services , mervyn elder , recommended that safeall 's contract be [ended] .
+
+The ‘ Act ’ allows pregnancy to be terminated before the 28th week and has helped many women avoid inevitable problems .
+the ‘ act ’ allows pregnancy to be [ended] before the 28th week and has helped many women avoid inevitable problems .
+
+Residents ' outcry and opposition from the cricket club delayed progress and the rugby club terminated negotiations with Argyll in September , 1988 .
+residents ' outcry and opposition from the cricket club delayed progress and the rugby club [ended] negotiations with argyll in september , 1988 .
+
+He 's built like Arnold Swartzenegger , Chris farmer , the body builder who terminated an armed raid .
+he 's built like arnold swartzenegger , chris farmer , the body builder who [ended] an armed raid .
+
+The statement added that McGlinchey 's contract was immediately terminated once they learned who he was .
+the statement added that mcglinchey 's contract was immediately [ended] once they learned who he was .
+
+The Crown Prince could recall how , the previous year , when Hindenburg and Ludendorff had stood seemingly on the very brink of a Russian collapse , Falkenhayn had terminated the immensely successful Gorlice offensive .
+the crown prince could recall how , the previous year , when hindenburg and ludendorff had stood seemingly on the very brink of a russian collapse , falkenhayn had [ended] the immensely successful gorlice offensive .
+
+9.2 Variation of the attenuation constant α and phase shift β with the parameter for a correctly terminated section of a purely reactive ladder filter of the type shown in figure 9.1 .
+9.2 variation of the attenuation constant α and phase shift β with the parameter for a correctly [ended] section of a purely reactive ladder filter of the type shown in figure 9.1 .
+
+9.6 ( a ) T-section of a constant-k , band-pass , ladder filter and ( b ) its attenuation constant α and phase shift β per section as a function of the pulsatance ο when correctly terminated and , .
+9.6 ( a ) t-section of a constant-k , band-pass , ladder filter and ( b ) its attenuation constant α and phase shift β per section as a function of the pulsatance ο when correctly [ended] and , .
+
+When correctly terminated , its quantitative response is governed by the parameter u , which from equations ( 9.46 ) and ( 9.48 ) is Once more u can not be positive at any frequency and there is no range of frequency that corresponds to inequality ( 9.18 ) so that equation ( 9.17 ) is inapplicable .
+when correctly [ended] , its quantitative response is governed by the parameter u , which from equations ( 9.46 ) and ( 9.48 ) is once more u can not be positive at any frequency and there is no range of frequency that corresponds to inequality ( 9.18 ) so that equation ( 9.17 ) is inapplicable .
+
+Figure 9.6 ( b ) shows the attenuation constant α and phase shift β per section , according to the theoretical expressions just deduced , for a correctly terminated , constant-k , band-pass , ladder filter in which and .
+figure 9.6 ( b ) shows the attenuation constant α and phase shift β per section , according to the theoretical expressions just deduced , for a correctly [ended] , constant-k , band-pass , ladder filter in which and .
+
+Such a correctly terminated low-pass lattice filter constitutes an extremely good delay line , the time delay per section being constant and equal to at pulsatances well below .
+such a correctly [ended] low-pass lattice filter constitutes an extremely good delay line , the time delay per section being constant and equal to at pulsatances well below .
+
+Figure 9.10 shows the behaviour of the attenuation constant of a correctly terminated , low-pass , m-derived , filter section in which m = 0.3 .
+figure 9.10 shows the behaviour of the attenuation constant of a correctly [ended] , low-pass , m-derived , filter section in which m = 0.3 .
+
+When this particular half-section is terminated in the characteristic impedance of the prototype , its input impedance is which reduces to on making use of equation ( 9.1 ) .
+when this particular half-section is [ended] in the characteristic impedance of the prototype , its input impedance is which reduces to on making use of equation ( 9.1 ) .
+
+Thus such a section placed in front of any number of correctly terminated constant-k or m-derived T-sections presents an almost constant input resistance of over 85 % of the pass band .
+thus such a section placed in front of any number of correctly [ended] constant-k or m-derived t-sections presents an almost constant input resistance of over 85 % of the pass band .
+
+Its input impedance when terminated in the impedance given by equation ( 9.66 ) is On using equation ( 9.1 ) again , this relation reduces to Thus the network of figure 9.11 ( b ) terminated in the impedance given by equation ( 9.66 ) presents impedance at its input terminals , precisely the required termination for constant-k or m-derived T-sections .
+its input impedance when [ended] in the impedance given by equation ( 9.66 ) is on using equation ( 9.1 ) again , this relation reduces to thus the network of figure 9.11 ( b ) [ended] in the impedance given by equation ( 9.66 ) presents impedance at its input terminals , precisely the required termination for constant-k or m-derived t-sections .
+
+An example of a composite low-pass filter terminated at its input and output with suitable m-derived half-sections is shown in figure 9.13 .
+an example of a composite low-pass filter [ended] at its input and output with suitable m-derived half-sections is shown in figure 9.13 .
+
+However , any asymmetric section also has two image impedances and such that , if one pair of terminals is terminated in and the input impedance at the other pair is , then , if that other pair is terminated in , the input impedance at the first pair is .
+however , any asymmetric section also has two image impedances and such that , if one pair of terminals is [ended] in and the input impedance at the other pair is , then , if that other pair is [ended] in , the input impedance at the first pair is .
+
+Equation ( 9.89 ) shows that the reflection coefficient of a lossless line is or using equation ( 9.90 ) This result reveals that when the line is terminated in the characteristic impedance there is no reflection .
+equation ( 9.89 ) shows that the reflection coefficient of a lossless line is or using equation ( 9.90 ) this result reveals that when the line is [ended] in the characteristic impedance there is no reflection .
+
+Outputs are terminated in a row of p.c.b .
+outputs are [ended] in a row of p.c.b .
+
+The George Square building was owned by the university which terminated the lease in order to use the property for a student hostel .
+the george square building was owned by the university which [ended] the lease in order to use the property for a student hostel .
+
+Baines ' playing career was terminated by arthritis in the neck .
+baines ' playing career was [ended] by arthritis in the neck .
+
+The words could be stored contiguously in an array , so each element of the array would in effect be just a character , and each word would have to be terminated with a dummy character , for example a null character .
+the words could be stored contiguously in an array , so each element of the array would in effect be just a character , and each word would have to be [ended] with a dummy character , for example a null character .
+
+Therefore the search can be terminated before the complete candidate string is generated from the graph of data ( see section 2.4 and figure 2.8 ) .
+therefore the search can be [ended] before the complete candidate string is generated from the graph of data ( see section 2.4 and figure 2.8 ) .
+
+If the conversation did n't quickly progress to the bottom line , it was swiftly terminated .
+if the conversation did n't quickly progress to the bottom line , it was swiftly [ended] .
+
+He was given notice that when his employment at Hendon terminated , he could be re-employed at Ruislip as a tester .
+he was given notice that when his employment at hendon [ended] , he could be re-employed at ruislip as a tester .
+
+Two weeks before his employment was due to be terminated , he was offered alternative employment some 34 miles from his home .
+two weeks before his employment was due to be [ended] , he was offered alternative employment some 34 miles from his home .
+
+‘ Have you terminated the quarry ? ’
+‘ have you [ended] the quarry ? ’
+
+In a number of instances , the Crown 's formal legal title over the dominions has been terminated .
+in a number of instances , the crown 's formal legal title over the dominions has been [ended] .
+
+It needed to be terminated , and soon .
+it needed to be [ended] , and soon .
+
+Other women ceased to exist for Edouard ; he gently terminated his affair with Clara Delluc , and Isobel , knowing this woman had meant more to him than any of the others , asked if she might meet her ; she did , and the two women became friends .
+other women ceased to exist for edouard ; he gently [ended] his affair with clara delluc , and isobel , knowing this woman had meant more to him than any of the others , asked if she might meet her ; she did , and the two women became friends .
+
+Early in 1916 complaints had been received about the conduct of the coaching , and the suggestion was made that Crawford 's contract be terminated .
+early in 1916 complaints had been received about the conduct of the coaching , and the suggestion was made that crawford 's contract be [ended] .
+
+The annual report noted that ‘ owing to the war it was impossible to obtain funds to pay Mr Crawford and it was also difficult to get colts to coach , and the contract was terminated with deep regret on June 1 , 1916 .
+the annual report noted that ‘ owing to the war it was impossible to obtain funds to pay mr crawford and it was also difficult to get colts to coach , and the contract was [ended] with deep regret on june 1 , 1916 .
+
+‘ This interview is becoming tedious , is terminated .
+‘ this interview is becoming tedious , is [ended] .
+
+Eekelaar ( 1971 ) , for example , concentrating primarily on the needs of one-parent families and viewing step-families as just another form of nuclear family , confidently asserts that ‘ whether a marriage has been terminated by death or divorce , the social and personal disruption is best healed by successful remarriage ’ .
+eekelaar ( 1971 ) , for example , concentrating primarily on the needs of one-parent families and viewing step-families as just another form of nuclear family , confidently asserts that ‘ whether a marriage has been [ended] by death or divorce , the social and personal disruption is best healed by successful remarriage ’ .
+
+The court activity is then terminated and after two or three months spent busily drafting the report the commissioner and his assessors will present their report to the Secretary of State who in turn will order it to be published .
+the court activity is then [ended] and after two or three months spent busily drafting the report the commissioner and his assessors will present their report to the secretary of state who in turn will order it to be published .
+
+‘ You just got terminated , son , ’ he said .
+‘ you just got [ended] , son , ’ he said .
+
+Alex Raneleigh 's job was also terminated .
+alex raneleigh 's job was also [ended] .
+
+Its central location probably terminated its influence well short of the eastern extremity of Sussex , where Rye was almost certainly its peer in size and superior in wealth .
+its central location probably [ended] its influence well short of the eastern extremity of sussex , where rye was almost certainly its peer in size and superior in wealth .
+
+In fact it might well have been that such developments generally attracted more labour than could be fully employed , which departed once the enterprise was terminated , leaving behind a sleepy farming community not unlike the fifteen undeveloped villages of Babergh hundred ( Table 2.18 ) .
+in fact it might well have been that such developments generally attracted more labour than could be fully employed , which departed once the enterprise was [ended] , leaving behind a sleepy farming community not unlike the fifteen undeveloped villages of babergh hundred ( table 2.18 ) .
+
+The girl had suffered from tuberculosis of the lungs , but it was agreed that although that would ‘ probably at no very distant period have terminated fatally ’ the immediate cause of death was in the stomach .
+the girl had suffered from tuberculosis of the lungs , but it was agreed that although that would ‘ probably at no very distant period have [ended] fatally ’ the immediate cause of death was in the stomach .
+
+The call was then terminated .
+the call was then [ended] .
+
+Vashinov sat back , his viewpoint terminated .
+vashinov sat back , his viewpoint [ended] .
+
+Normally , but again this varies , the scheme is terminated when the policy holder reaches 75 .
+normally , but again this varies , the scheme is [ended] when the policy holder reaches 75 .
+
+The accountant ‘ deals with the business , but not the personality , of the client ’ and ‘ a wilful activity necessitates legal services which are initiated , and can be terminated , at the will of the client ; but the necessity of contacting a doctor emerges out of circumstances which are beyond human control ’ ( p.27 ) .
+the accountant ‘ deals with the business , but not the personality , of the client ’ and ‘ a wilful activity necessitates legal services which are initiated , and can be [ended] , at the will of the client ; but the necessity of contacting a doctor emerges out of circumstances which are beyond human control ’ ( p.27 ) .
+
+Although he had terminated his PhD course and left active research he nonetheless kept abreast of developments in chemistry .
+although he had [ended] his phd course and left active research he nonetheless kept abreast of developments in chemistry .
+
+Eight years have elapsed since Middlesbrough terminated Allison 's last post in League football , since when he has dabbled in non-League management with Fisher , and coached Danes , Swedes and Scots .
+eight years have elapsed since middlesbrough [ended] allison 's last post in league football , since when he has dabbled in non-league management with fisher , and coached danes , swedes and scots .
+
+‘ Just what do you mean , the London to Glasgow train terminated at Crewe ?
+‘ just what do you mean , the london to glasgow train [ended] at crewe ?
+
+TOUGH-guy Arnold Schwarzenegger has been terminated .
+tough-guy arnold schwarzenegger has been [ended] .
+
+The new practice will apply to gains arising from an accident insurance policy that affords protection against the risk of dying only if death is as a result of an accident , has no investment content , and does not acquire a surrender value ( other than one equal to the proportion of the premium paid which is refundable if the policy is terminated early or in other circumstances ) .
+the new practice will apply to gains arising from an accident insurance policy that affords protection against the risk of dying only if death is as a result of an accident , has no investment content , and does not acquire a surrender value ( other than one equal to the proportion of the premium paid which is refundable if the policy is [ended] early or in other circumstances ) .
+
+And these are terminated , not by deliberation and interpretation , but by a relatively sudden and unstructured event like the gestalt switch .
+and these are [ended] , not by deliberation and interpretation , but by a relatively sudden and unstructured event like the gestalt switch .
+
+The line terminated at the ‘ Grapes ’ public house in Benhill Street , Sutton , at right angles to the High Street and some little distance from the town centre .
+the line [ended] at the ‘ grapes ’ public house in benhill street , sutton , at right angles to the high street and some little distance from the town centre .
+
+In the meantime , as predicted , Croydon Corporation terminated the lease and from 1 June , the service provided by their cars was cut back to Selby Road on the South Norwood route .
+in the meantime , as predicted , croydon corporation [ended] the lease and from 1 june , the service provided by their cars was cut back to selby road on the south norwood route .
+
+Now that trolleybuses were established on the Crystal Palace route , the regulator 's sentry box at the Robin Hood was no longer required and the lease of the site was terminated on 24 May 1937 .
+now that trolleybuses were established on the crystal palace route , the regulator 's sentry box at the robin hood was no longer required and the lease of the site was [ended] on 24 may 1937 .
+
+tram route 6 , which had been cut back to Tooting Broadway on 6 December 1933 , was re-extended to Mitcham on 30 May 1937 , but as the Cricket Green branch had already been lifted , it terminated at the Fair Green .
+tram route 6 , which had been cut back to tooting broadway on 6 december 1933 , was re-extended to mitcham on 30 may 1937 , but as the cricket green branch had already been lifted , it [ended] at the fair green .
+
+Cars from London terminated at Thornton Heath Pond and all other traffic was diverted .
+cars from london [ended] at thornton heath pond and all other traffic was diverted .
+
+At first this bus route ran a few yards further than the trolleybuses , which had run round the Fair Green , and terminated on a small patch of prepared ground alongside the pond at the beginning of Mitcham Common .
+at first this bus route ran a few yards further than the trolleybuses , which had run round the fair green , and [ended] on a small patch of prepared ground alongside the pond at the beginning of mitcham common .
+
+In the case , the Dutch local authority terminated its funding to the Dr Sophie Redmond Foundation , which was principally concerned with providing assistance to drug addicts , and transferred the funding along with the building in which the Foundation worked , to the Sigma Foundation .
+in the case , the dutch local authority [ended] its funding to the dr sophie redmond foundation , which was principally concerned with providing assistance to drug addicts , and transferred the funding along with the building in which the foundation worked , to the sigma foundation .
+
+In the world as a whole , about ten per cent of all pregnancies are terminated .
+in the world as a whole , about ten per cent of all pregnancies are [ended] .
+
+And this week it was reported his job as consultant with a Swiss finance company was being terminated .
+and this week it was reported his job as consultant with a swiss finance company was being [ended] .
+
+For a week he suffered the plaster which went up to his knee and terminated in a lump on his instep like someone walking through packed snow .
+for a week he suffered the plaster which went up to his knee and [ended] in a lump on his instep like someone walking through packed snow .
+
+So far , this ’ — he pointed to the newspaper — ‘ is the only evidence we 'd found of such preparations , but if there are others they will be swiftly terminated by this Society and its agents .
+so far , this ’ — he pointed to the newspaper — ‘ is the only evidence we 'd found of such preparations , but if there are others they will be swiftly [ended] by this society and its agents .
+
+David Graeme of Orchill , when describing the contest for the collector of the cess for Perthshire in 1738 , which terminated in an election lasting two days , saw his party 's victory as one by which ‘ some peoples management of this shire is interrupted ’ .
+david graeme of orchill , when describing the contest for the collector of the cess for perthshire in 1738 , which [ended] in an election lasting two days , saw his party 's victory as one by which ‘ some peoples management of this shire is interrupted ’ .
+
+In December 1958 the free trade area negotiations were abruptly terminated by France .
+in december 1958 the free trade area negotiations were abruptly [ended] by france .
+
+The Cross is silver and consists of a cross flory terminated in the horizontal and base bars with flaming bombs and in the upper bar with a Tudor rose .
+the cross is silver and consists of a cross flory [ended] in the horizontal and base bars with flaming bombs and in the upper bar with a tudor rose .
+
+The firms engaged in the renovation scheme were called to a meeting with officials at Stormont and their contracts terminated on 11th and 12th September as part of retaliatory moves against the Provisionals .
+the firms engaged in the renovation scheme were called to a meeting with officials at stormont and their contracts [ended] on 11th and 12th september as part of retaliatory moves against the provisionals .
+
+On 12th June 1977 , twenty-one months after the Maynard contracts were terminated , Ian Paisley announced publicly that he had information about additional irregularities in Northern Ireland Housing Executive contracts which he would reveal in due course .
+on 12th june 1977 , twenty-one months after the maynard contracts were [ended] , ian paisley announced publicly that he had information about additional irregularities in northern ireland housing executive contracts which he would reveal in due course .
+
+6.1 This Agreement shall take effect on the date of signature of this Agreement and shall continue for a period of three years and from year to year thereafter until or unless terminated by either party giving to the other not less than six months ' prior written notice , subject always to prior termination as hereinafter specified .
+6.1 this agreement shall take effect on the date of signature of this agreement and shall continue for a period of three years and from year to year thereafter until or unless [ended] by either party giving to the other not less than six months ' prior written notice , subject always to prior termination as hereinafter specified .
+
+6.2 Notwithstanding any provisions herein contained this Agreement may be terminated forthwith by either party by notice in writing from the party not at fault if any of the following events shall occur , ie :
+6.2 notwithstanding any provisions herein contained this agreement may be [ended] forthwith by either party by notice in writing from the party not at fault if any of the following events shall occur , ie :
+
+The license and the right to use this Program is for an indefinite time until terminated .
+the license and the right to use this program is for an indefinite time until [ended] .
+
+8.1 In the event that the Secretary of State shall reject the Proposal either generally or as respects the proposed funding or participation of any proposed Party in the Project or if the Grant Offer Letter shall not have been issued and accepted by the Parties within six months of the date of execution hereof , then upon such rejection or the expiration of such six month period the Project shall , unless otherwise agreed , be deemed abandoned , the Proposal shall be withdrawn and any rights hereunder shall be deemed to have been terminated and each Party shall be entitled to require each other Party forthwith to deliver up and return to it all Technical Information and all other information supplied by it in connection with the Proposal together with all copies thereof in any form in the possession of such other Parties or any of its Related companies .
+8.1 in the event that the secretary of state shall reject the proposal either generally or as respects the proposed funding or participation of any proposed party in the project or if the grant offer letter shall not have been issued and accepted by the parties within six months of the date of execution hereof , then upon such rejection or the expiration of such six month period the project shall , unless otherwise agreed , be deemed abandoned , the proposal shall be withdrawn and any rights hereunder shall be deemed to have been [ended] and each party shall be entitled to require each other party forthwith to deliver up and return to it all technical information and all other information supplied by it in connection with the proposal together with all copies thereof in any form in the possession of such other parties or any of its related companies .
+
+15.2 If a Party defaults in its obligation so as to jeopardise the objectives of the Project , and if the defaulting Party fails to cure its default within 60 days of a written request from the other Parties ( the Project Manager ) so to do , then the defaulting Party 's right to continue participating in the Project shall ( subject to the prior obtaining of any necessary consents from the Secretary of State ) be terminated .
+15.2 if a party defaults in its obligation so as to jeopardise the objectives of the project , and if the defaulting party fails to cure its default within 60 days of a written request from the other parties ( the project manager ) so to do , then the defaulting party 's right to continue participating in the project shall ( subject to the prior obtaining of any necessary consents from the secretary of state ) be [ended] .
+
+15.3 In the event that the participation of the Party in default in the Project is terminated
+15.3 in the event that the participation of the party in default in the project is [ended]
+
+Trains were either diverted from Worcester to New Street via Bromsgrove , or terminated at Stourbridge Junction .
+trains were either diverted from worcester to new street via bromsgrove , or [ended] at stourbridge junction .
+
+During this time , only one scheduled train was disrupted ; its journey being terminated at Deeside Loop .
+during this time , only one scheduled train was disrupted ; its journey being [ended] at deeside loop .
+
+Here twenty tracks terminated at radial quays .
+here twenty tracks [ended] at radial quays .
+
+From this vantage point , the heads of both lochs are seen to be terminated by a group of mountains that seem to bar further progress eastwards .
+from this vantage point , the heads of both lochs are seen to be [ended] by a group of mountains that seem to bar further progress eastwards .
+
+This emphasised that after military government was terminated the civil Governor would return to function as sole authority until December 1948 .
+this emphasised that after military government was [ended] the civil governor would return to function as sole authority until december 1948 .
+
+The bus terminated in the chaos of Midan el-Tahrir , Liberation Square .
+the bus [ended] in the chaos of midan el-tahrir , liberation square .
+
+In 1966 the applicant was appointed as a lecturer to the university by a letter stating , inter alia , that his appointment might be terminated by either party giving three months ' notice in writing .
+in 1966 the applicant was appointed as a lecturer to the university by a letter stating , inter alia , that his appointment might be [ended] by either party giving three months ' notice in writing .
+
+In 1988 the university purportedly terminated the applicant 's contract of employment not for good cause but on the ground of redundancy , giving him three months ' written notice .
+in 1988 the university purportedly [ended] the applicant 's contract of employment not for good cause but on the ground of redundancy , giving him three months ' written notice .
+
+‘ The appointment may be terminated by either party on giving three months ' notice in writing expiring at the end of a term or of the long vacation .
+‘ the appointment may be [ended] by either party on giving three months ' notice in writing expiring at the end of a term or of the long vacation .
+
+By letter dated 30 June 1988 his appointment was terminated on 2 October 1988 .
+by letter dated 30 june 1988 his appointment was [ended] on 2 october 1988 .
+
+… The appointments may be terminated on either side by three months ' notice in writing expiring at the end of a term or of the long vacation .
+… the appointments may be [ended] on either side by three months ' notice in writing expiring at the end of a term or of the long vacation .
+
+‘ The appointment may be terminated by either party on giving three months ' notice in writing expiring at the end of a term or of the long vacation .
+‘ the appointment may be [ended] by either party on giving three months ' notice in writing expiring at the end of a term or of the long vacation .
+
+The process is then terminated only by reaching a spatial domain where success is achieved , or by reaching the local domain in which the relationship was originally defined without success .
+the process is then [ended] only by reaching a spatial domain where success is achieved , or by reaching the local domain in which the relationship was originally defined without success .
+
+The check is terminated whenever the bounding approach either proves that the specified condition can not occur , or establishes that the condition can Occur at the level of original definition .
+the check is [ended] whenever the bounding approach either proves that the specified condition can not occur , or establishes that the condition can occur at the level of original definition .
+
+Both features resembled their names to a baffling degree but , despite this , Abu was moved to expound upon them with such fervent body language that we nearly plunged into the ravine and terminated our lives at the very lip of the sacred symbol of where we had begun it .
+both features resembled their names to a baffling degree but , despite this , abu was moved to expound upon them with such fervent body language that we nearly plunged into the ravine and [ended] our lives at the very lip of the sacred symbol of where we had begun it .
+
+When they looked closer they saw that he was whipping , not a fallen beast , but a spindly-legged Annamese ; both carts , they could see , contained refuse and had shafts front and back that terminated in cane , big wooden halters that were locked around the necks of four sweating Annamese .
+when they looked closer they saw that he was whipping , not a fallen beast , but a spindly-legged annamese ; both carts , they could see , contained refuse and had shafts front and back that [ended] in cane , big wooden halters that were locked around the necks of four sweating annamese .
+
+The Terminator is terminated — by a fellow machine , properly subordinated to human control — while Sarah , already pregnant by Reese with John Connor , survives .
+the terminator is [ended] — by a fellow machine , properly subordinated to human control — while sarah , already pregnant by reese with john connor , survives .
+
+Liz 's first marriage had lasted all of ten months : Alix 's had lasted slightly longer , and had been terminated not by divorce but by death .
+liz 's first marriage had lasted all of ten months : alix 's had lasted slightly longer , and had been [ended] not by divorce but by death .
+
+Material obtained from terminated fetuses will allow cytogenetic and molecular characterization of the relationships between the fetus and its extraembryonic tissues , contributing to an understanding of events preceding various clinically recognized conditions .
+material obtained from [ended] fetuses will allow cytogenetic and molecular characterization of the relationships between the fetus and its extraembryonic tissues , contributing to an understanding of events preceding various clinically recognized conditions .
+
+At the same the management of eye movements leaves room for the possibility of accesses which can and often do develop into what Goffmann describes as focussed encounters ; episodes which are themselves introduced and terminated by rituals of greeting and farewell .
+at the same the management of eye movements leaves room for the possibility of accesses which can and often do develop into what goffmann describes as focussed encounters ; episodes which are themselves introduced and [ended] by rituals of greeting and farewell .
+
+This mobility probably helped to ‘ legitimise ’ and stabilise the hierarchical structure of social relations , and to promote the ideology of individual career advancement , but it by no means terminated the struggle for collective advancement .
+this mobility probably helped to ‘ legitimise ’ and stabilise the hierarchical structure of social relations , and to promote the ideology of individual career advancement , but it by no means [ended] the struggle for collective advancement .
+
+Unless a consensus can be developed about priorities , health care may become a political football , with programmes being terminated by incoming administrations merely because they were introduced by an opposing party .
+unless a consensus can be developed about priorities , health care may become a political football , with programmes being [ended] by incoming administrations merely because they were introduced by an opposing party .
+
+Although the formal process of schooling began in 1911 and terminated in 1929 , the critical phase was between 1917 and 1927 .
+although the formal process of schooling began in 1911 and [ended] in 1929 , the critical phase was between 1917 and 1927 .
+
+We agree that success of medical genetics can not be measured by the number of terminated pregnancies , any more than the success of surgery can be measured by the number of lower limbs amputated in patients with vascular stenosis .
+we agree that success of medical genetics can not be measured by the number of [ended] pregnancies , any more than the success of surgery can be measured by the number of lower limbs amputated in patients with vascular stenosis .
+
+More than one underwent a major breakdown after his relationship with Minton was abruptly terminated .
+more than one underwent a major breakdown after his relationship with minton was abruptly [ended] .
+
+In the summer of 1948 Minton terminated his association with Central School of Art after only two terms .
+in the summer of 1948 minton [ended] his association with central school of art after only two terms .
+
+Without research into the merits of the claims , it is impossible to say with authority whether most claims terminated in this way had no hope of success or whether applicants are forced to withdraw by the fear of costs .
+without research into the merits of the claims , it is impossible to say with authority whether most claims [ended] in this way had no hope of success or whether applicants are forced to withdraw by the fear of costs .
+
+Some of the structures simply ended , hanging in space ; others terminated in smaller versions of the main station , like a cluster of eggs carried on the leg of an insect ; still others , following their skewed paths , met and became united with each other , producing strange hybrids .
+some of the structures simply ended , hanging in space ; others [ended] in smaller versions of the main station , like a cluster of eggs carried on the leg of an insect ; still others , following their skewed paths , met and became united with each other , producing strange hybrids .
+
+Relations between the two companies broke down in December 1975 , when Virgin 's lawyers terminated the contract , with the Clarkes claiming that Virgin owed them money .
+relations between the two companies broke down in december 1975 , when virgin 's lawyers [ended] the contract , with the clarkes claiming that virgin owed them money .
+
+In September , Virgin and Fields finally agreed that his contract should be terminated , and a sum of £125,000 was agreed in compensation .
+in september , virgin and fields finally agreed that his contract should be [ended] , and a sum of £125,000 was agreed in compensation .
+
+In the course of the arguments before us it was suggested that a construction of section 8 of the Act of 1969 which denies a 16- or 17-year-old girl an absolute right to refuse medical treatment , but leaves it open to her parents to consent to such treatment , could in theory lead to a case where a pregnant 16-year-old refuses an abortion , but her parents consent to her pregnancy being terminated .
+in the course of the arguments before us it was suggested that a construction of section 8 of the act of 1969 which denies a 16- or 17-year-old girl an absolute right to refuse medical treatment , but leaves it open to her parents to consent to such treatment , could in theory lead to a case where a pregnant 16-year-old refuses an abortion , but her parents consent to her pregnancy being [ended] .
+
+Once its position as such authorised representative was first suspended , and then terminated , Winchester was unable to conduct any investment business .
+once its position as such authorised representative was first suspended , and then [ended] , winchester was unable to conduct any investment business .
+
+By a respondent 's notice dated 25 January 1992 the defendant sought that the judgment be affirmed on the additional ground that she was a residential occupier within the meaning of section 27 of the Act of 1988 because her right to remain in occupation was controlled by the Rent Act 1977 so that she could not be evicted except by enforcement of the possession order by a bailiff executing a warrant for possession , whether or not her statutory tenancy had been terminated by the possession order .
+by a respondent 's notice dated 25 january 1992 the defendant sought that the judgment be affirmed on the additional ground that she was a residential occupier within the meaning of section 27 of the act of 1988 because her right to remain in occupation was controlled by the rent act 1977 so that she could not be evicted except by enforcement of the possession order by a bailiff executing a warrant for possession , whether or not her statutory tenancy had been [ended] by the possession order .
+
+My Lords , by section 40 of the Finance Act 1985 Parliament terminated as from 5 April 1986 the system of annual voluntary arrangements which had since 1894 regulated the payment by building societies to the Inland Revenue of sums representing income tax on interest and dividends due to depositors and investors .
+my lords , by section 40 of the finance act 1985 parliament [ended] as from 5 april 1986 the system of annual voluntary arrangements which had since 1894 regulated the payment by building societies to the inland revenue of sums representing income tax on interest and dividends due to depositors and investors .
+
+The appointment of the interim receiver terminates when either the petition is dismissed or a bankruptcy order is made , and can also be terminated by the court on the application of the interim receiver , the official receiver ( if not the interim receiver ) , the debtor or any creditor ( r 6.57 ) .
+the appointment of the interim receiver terminates when either the petition is dismissed or a bankruptcy order is made , and can also be [ended] by the court on the application of the interim receiver , the official receiver ( if not the interim receiver ) , the debtor or any creditor ( r 6.57 ) .
+
+The handle would have measured about 5in in length and terminated in a point .
+the handle would have measured about 5in in length and [ended] in a point .
+
+( 5.5 ) If a non-terminated process is put in parallel with a terminated one , then only the non-terminated one can proceed .
+( 5.5 ) if a non-terminated process is put in parallel with a [ended] one , then only the non-terminated one can proceed .
+
+It can perform any action other than a communication with the terminated process ( which clearly can not agree to any communication ) .
+it can perform any action other than a communication with the [ended] process ( which clearly can not agree to any communication ) .
+
+In this context an assignment may be considered `` terminated `` , because it can not affect or be affected by the other process , and is free to terminate at any time .
+in this context an assignment may be considered `` [ended] `` , because it can not affect or be affected by the other process , and is free to terminate at any time .
+
+There are four essentially different things a process can do on its first step : ( i ) it diverges ; ( ii ) it communicates with its environment ( and goes on to its second step ) ; ( iii ) it stops because , even though it has not terminated , it can not agree with its environment on any communication ; ( iv ) it terminates in some state .
+there are four essentially different things a process can do on its first step : ( i ) it diverges ; ( ii ) it communicates with its environment ( and goes on to its second step ) ; ( iii ) it stops because , even though it has not [ended] , it can not agree with its environment on any communication ; ( iv ) it terminates in some state .
+
+( This would be in sequence with another simple process for managing the final values of Note that no can start up until has terminated : it is this that makes the transformation so general , but it also makes the resulting parallel program useless as it stands .
+( this would be in sequence with another simple process for managing the final values of note that no can start up until has [ended] : it is this that makes the transformation so general , but it also makes the resulting parallel program useless as it stands .
+
+Power to decide how and when the government shall be terminated .
+power to decide how and when the government shall be [ended] .
+
+‘ Then you will act upon my warrant and have the boy terminated ?
+‘ then you will act upon my warrant and have the boy [ended] ?
+
+The time taken for them to enter the dark box is noted , and if they have not done so by the end of a fixed time , say one minute , the experiment is terminated .
+the time taken for them to enter the dark box is noted , and if they have not done so by the end of a fixed time , say one minute , the experiment is [ended] .
+
+‘ In light of the current financial situation , all employment contracts have been terminated . ’
+‘ in light of the current financial situation , all employment contracts have been [ended] . ’
+
+The police chief fears that his appointment could be terminated if he carries out policies that impinge directly on the interests of the mayor 's political supporters : electoral considerations and impartial policing thus make awkward bedfellows .
+the police chief fears that his appointment could be [ended] if he carries out policies that impinge directly on the interests of the mayor 's political supporters : electoral considerations and impartial policing thus make awkward bedfellows .
+
+The government in return regretted that its offer had already been terminated and could not now be revived .
+the government in return regretted that its offer had already been [ended] and could not now be revived .
+
+And terminated , and its place is taken .
+and [ended] , and its place is taken .
+
+The new law states that pregnancies ca n't be terminated after 24 weeks unless the mother 's life is at risk or there 's a substantial chance the baby will be seriously handicapped .
+the new law states that pregnancies ca n't be [ended] after 24 weeks unless the mother 's life is at risk or there 's a substantial chance the baby will be seriously handicapped .
+
+Actually the taxi/bus/train marathon was Turin to Morgex , where the Pre St Didier rapido terminated without apology .
+actually the taxi/bus/train marathon was turin to morgex , where the pre st didier rapido [ended] without apology .
+
+An economic boom developed in the spring of 1919 , but this only lasted a year and when the Bank Rate was hoisted to 7 per cent in April 1920 , the short-lived social reform programme was terminated .
+an economic boom developed in the spring of 1919 , but this only lasted a year and when the bank rate was hoisted to 7 per cent in april 1920 , the short-lived social reform programme was [ended] .
+
+During the First World War a number of Ministries set up regional offices and the newly created Ministry of Health set up nine regions — an experiment to be rudely terminated in 1921 as an economy measure .
+during the first world war a number of ministries set up regional offices and the newly created ministry of health set up nine regions — an experiment to be rudely [ended] in 1921 as an economy measure .
+
+‘ She was terminated .
+‘ she was [ended] .
+
+In 1867 his post as session clerk of the Canongate kirk was terminated .
+in 1867 his post as session clerk of the canongate kirk was [ended] .
+
+Schlick 's murder in 1936 terminated Waismann 's employment and his opportunities for supporting himself by private teaching .
+schlick 's murder in 1936 [ended] waismann 's employment and his opportunities for supporting himself by private teaching .
+
+This promising start to a career was , however , to be abruptly terminated , for after eleven years in practice Playfair died at the age of thirty-nine .
+this promising start to a career was , however , to be abruptly [ended] , for after eleven years in practice playfair died at the age of thirty-nine .
+
+Sadler 's post of chemist seems to have been terminated in 1809 without compensation , leaving him in severe financial straits , but these were relieved by a subscription among his friends in Oxford .
+sadler 's post of chemist seems to have been [ended] in 1809 without compensation , leaving him in severe financial straits , but these were relieved by a subscription among his friends in oxford .
+
+Storr 's agreement with Rundell 's terminated on 18 February 1819 , by which time he had already found suitable workshops in Harrison Street , Gray 's Inn Road , where he set up once more as an independent manufacturer .
+storr 's agreement with rundell 's [ended] on 18 february 1819 , by which time he had already found suitable workshops in harrison street , gray 's inn road , where he set up once more as an independent manufacturer .
+
+Thus , for example , contracts of employment are not terminated unless the receiver does something which is inconsistent with the continuation of the contract , for example a sale of the company 's business .
+thus , for example , contracts of employment are not [ended] unless the receiver does something which is inconsistent with the continuation of the contract , for example a sale of the company 's business .
+
+Theatrical performances were brought within the ambit of the criminal laws relating to racial hatred by the Theatres Act 1968 , which terminated the Lord Chamberlain 's role as the official censor .
+theatrical performances were brought within the ambit of the criminal laws relating to racial hatred by the theatres act 1968 , which [ended] the lord chamberlain 's role as the official censor .
+
+The terrace , in turn , is terminated to the north by a steeper slope representing that part of the Chalk dipslope exhumed from beneath Tertiary beds .
+the terrace , in turn , is [ended] to the north by a steeper slope representing that part of the chalk dipslope exhumed from beneath tertiary beds .
+
+It is terminated by an Arch , through which is seen other Arches with close Arbors , and a row of Trees to the end of the View .
+it is [ended] by an arch , through which is seen other arches with close arbors , and a row of trees to the end of the view .
+
+Campaign to reinstate members who resigned or were terminated during the recession.E
+campaign to reinstate members who resigned or were [ended] during the recession.e
+
+Once employment has terminated the employee may still damage his former employer 's business by : ( a ) competing with his former employer ; ( b ) canvassing or soliciting his former employer 's business connections ; ( c ) using or disclosing his former employer 's business secrets ; or ( d ) enticing his former colleagues away from his former employer to his new employer or business .
+once employment has [ended] the employee may still damage his former employer 's business by : ( a ) competing with his former employer ; ( b ) canvassing or soliciting his former employer 's business connections ; ( c ) using or disclosing his former employer 's business secrets ; or ( d ) enticing his former colleagues away from his former employer to his new employer or business .
+
+Calls , whether in respect of futures and options funds or any other product , must be terminated immediately if the investor makes it clear that he does not wish the call to continue .
+calls , whether in respect of futures and options funds or any other product , must be [ended] immediately if the investor makes it clear that he does not wish the call to continue .
+
+The child may apply to the court for his solicitor 's appointment to be terminated .
+the child may apply to the court for his solicitor 's appointment to be [ended] .
+
+If an error was detected in a program after this line had been executed , the message " Oh No ! " would be printed and the program terminated .
+if an error was detected in a program after this line had been executed , the message " oh no ! " would be printed and the program [ended] .
+
+The debate about `` physical `` and `` moral `` methods of obstructing fascism was largely terminated by the outbreak of the Spanish civil war in the middle of 1936 .
+the debate about `` physical `` and `` moral `` methods of obstructing fascism was largely [ended] by the outbreak of the spanish civil war in the middle of 1936 .
+
+Abruptly he terminated the conversation and put the phone down , not moving his eyes from her face .
+abruptly he [ended] the conversation and put the phone down , not moving his eyes from her face .
+
+reporting accountants should owe a duty to the Law Society to report directly where their instructions have been terminated by solicitors whose reports would otherwise have been qualified ; or generally to report on ‘ suspicious circumstances ’ ;
+reporting accountants should owe a duty to the law society to report directly where their instructions have been [ended] by solicitors whose reports would otherwise have been qualified ; or generally to report on ‘ suspicious circumstances ’ ;
+
+‘ Be ready at two ! ’ he instructed — and terminated her call .
+‘ be ready at two ! ’ he instructed — and [ended] her call .
+
+‘ Personnel applied to Ardis for a reference — which they freely gave without mentioning anywhere that they had terminated your employment with them .
+‘ personnel applied to ardis for a reference — which they freely gave without mentioning anywhere that they had [ended] your employment with them .
+
+( However , it must be said that even here , the seller would probably not want the contract to be terminated too quickly or easily by the buyer , as the seller has more to lose by being denied the chance to perform and get full payment for the supply of his goods . )
+( however , it must be said that even here , the seller would probably not want the contract to be [ended] too quickly or easily by the buyer , as the seller has more to lose by being denied the chance to perform and get full payment for the supply of his goods . )
+
+This Agreement commences on [ ] and will continue for a fixed period of three years and thereafter will continue from year to year unless terminated by at least sixty days ' written notice by either party to the other , such notice to expire on any anniversary date of the commencement of this Agreement falling after the expiry of the fixed period aforesaid .
+this agreement commences on [ ] and will continue for a fixed period of three years and thereafter will continue from year to year unless [ended] by at least sixty days ' written notice by either party to the other , such notice to expire on any anniversary date of the commencement of this agreement falling after the expiry of the fixed period aforesaid .
+
+7.1 This Agreement may be terminated by either party immediately upon the happening of either of the following events :
+7.1 this agreement may be [ended] by either party immediately upon the happening of either of the following events :
+
+If consent is needed any purported transfer by the vendor may be a repudiatory breach of that contract by the vendor exposing the vendor to a claim for damages from its customer and possibly a claim by the purchaser against the vendor if the customer treats the contract as terminated particularly if the vendor warranted that no consents were needed .
+if consent is needed any purported transfer by the vendor may be a repudiatory breach of that contract by the vendor exposing the vendor to a claim for damages from its customer and possibly a claim by the purchaser against the vendor if the customer treats the contract as [ended] particularly if the vendor warranted that no consents were needed .
+
+Clean-up contracts will be more stringently managed and terminated if they fail to produce results .
+clean-up contracts will be more stringently managed and [ended] if they fail to produce results .
+
+The all-pervasive rationalism of our own century , infiltrating our whole culture and philosophy , has reduced man to an animal , condemned to a meaningless existence terminated by death .
+the all-pervasive rationalism of our own century , infiltrating our whole culture and philosophy , has reduced man to an animal , condemned to a meaningless existence [ended] by death .
+
+In the sacrifice , life was terminated .
+in the sacrifice , life was [ended] .
+
+Costa Rica did not want the treaty terminated or suspended : it wanted performance of its rights of consultation .
+costa rica did not want the treaty [ended] or suspended : it wanted performance of its rights of consultation .
+
+These clauses may be construed as ‘ no amendment or termination ’ clauses , for otherwise they have little substance ; all treaty provisions are binding unless terminated .
+these clauses may be construed as ‘ no amendment or termination ’ clauses , for otherwise they have little substance ; all treaty provisions are binding unless [ended] .
+
+By the time Chiang fell upon his Chinese communist rivals and destroyed the Canton commune in the spring of 1927 , and thus terminated the League 's existence also , it has been estimated that something like 200 ‘ graduates ’ of Ho 's Canton course had returned to Vietnam and although many of them were arrested , it was a significant infusion to be added to what might be called the natural sources of discontent .
+by the time chiang fell upon his chinese communist rivals and destroyed the canton commune in the spring of 1927 , and thus [ended] the league 's existence also , it has been estimated that something like 200 ‘ graduates ’ of ho 's canton course had returned to vietnam and although many of them were arrested , it was a significant infusion to be added to what might be called the natural sources of discontent .
+
+All cover under this Plan will be terminated in the event of non-payment of premium or cancellation of the Master Policy .
+all cover under this plan will be [ended] in the event of non-payment of premium or cancellation of the master policy .
+
+The point of law was never decided , since leading counsel for Mrs Whitehouse withdrew the prosecution and the Attorney General then terminated the case by invoking the nolle prosequi procedure , leaving each side claiming victory .
+the point of law was never decided , since leading counsel for mrs whitehouse withdrew the prosecution and the attorney general then [ended] the case by invoking the nolle prosequi procedure , leaving each side claiming victory .
+
+Frustration is where a contract is terminated by an event which has arisen through no fault of either contracting party .
+frustration is where a contract is [ended] by an event which has arisen through no fault of either contracting party .
+
+The study was terminated when exogenous surfactant was introduced because this influenced our respiratory outcome measures .
+the study was [ended] when exogenous surfactant was introduced because this influenced our respiratory outcome measures .
+
+Russia was to stop numbering the years on the calendar from the creation of the world , the élite were to adopt Western dress , to refine their manners , to refrain from belching , spitting , and picking their noses in public , and the traditional seclusion of noble women was to be abruptly terminated .
+russia was to stop numbering the years on the calendar from the creation of the world , the élite were to adopt western dress , to refine their manners , to refrain from belching , spitting , and picking their noses in public , and the traditional seclusion of noble women was to be abruptly [ended] .
+
+Indeed , one property developer Bexbuild Developments , had been listed by Prior Harwin a year after its market-making agreement with the licensed dealer had been terminated .
+indeed , one property developer bexbuild developments , had been listed by prior harwin a year after its market-making agreement with the licensed dealer had been [ended] .
+
+In an experimental facility without breeding animals the health status can be restored if healthy animals are issued into a clean fumigated or disinfected room , and the infected room is gradually emptied as experiments are terminated .
+in an experimental facility without breeding animals the health status can be restored if healthy animals are issued into a clean fumigated or disinfected room , and the infected room is gradually emptied as experiments are [ended] .
+
+The Navy Department considered in 1943 that Korea was bereft of leadership and feared Korea could fall into a vacuum similar to that which would exist in Poland and the Balkans when the European War terminated .
+the navy department considered in 1943 that korea was bereft of leadership and feared korea could fall into a vacuum similar to that which would exist in poland and the balkans when the european war [ended] .
+
+In 1986 , only 4 per cent of conceptions to married women aged 20–4 were legally terminated compared to 43 per cent to married women aged over 40 .
+in 1986 , only 4 per cent of conceptions to married women aged 20–4 were legally [ended] compared to 43 per cent to married women aged over 40 .
+
+In 1987 , 31 per cent of conceptions outside marriage in the North-West were terminated by legal abortion , compared with 45 per cent in the South-East .
+in 1987 , 31 per cent of conceptions outside marriage in the north-west were [ended] by legal abortion , compared with 45 per cent in the south-east .
+
+Flogging for adult male offenders was abolished in 1861 , and after a large amount of public controversy , public hangings were terminated in 1868 .
+flogging for adult male offenders was abolished in 1861 , and after a large amount of public controversy , public hangings were [ended] in 1868 .
+
+In November Waterstones had declared that it had terminated the concession , giving six months ' notice .
+in november waterstones had declared that it had [ended] the concession , giving six months ' notice .
+
+The practice has been terminated whereby the staff of the Accounts Section served in the Library on secondment from the Scottish Office .
+the practice has been [ended] whereby the staff of the accounts section served in the library on secondment from the scottish office .
+
+claim for loss of redundancy payment which would have been received if employment had not been terminated because of accident , held to be ‘ naturally and directly ’ arising from the wrong .
+claim for loss of redundancy payment which would have been received if employment had not been [ended] because of accident , held to be ‘ naturally and directly ’ arising from the wrong .
+
+Unemployment means a period commencing after the effective date of insurance during which the Insured Borrower is out of work as a result of redundancy as defined in the Employment Protection ( Consolidation ) Act 1978 or any amendment thereto , dismissal where the contract under which the Insured Borrower is employed is terminated by the employer , or the financial insolvency of the business of the Insured Borrower 's employer or the business of the Insured Borrower' .
+unemployment means a period commencing after the effective date of insurance during which the insured borrower is out of work as a result of redundancy as defined in the employment protection ( consolidation ) act 1978 or any amendment thereto , dismissal where the contract under which the insured borrower is employed is [ended] by the employer , or the financial insolvency of the business of the insured borrower 's employer or the business of the insured borrower' .
+
+in respect of employed persons , out of work as a result of redundancy as defined in the Employment Protection ( Consolidated ) Act 1978 , as amended , dismissal where the contract under which the Insured Customer is employed is terminated by the Employer , or the declared bankruptcy or liquidation of the business of the Insured Customer 's employer .
+in respect of employed persons , out of work as a result of redundancy as defined in the employment protection ( consolidated ) act 1978 , as amended , dismissal where the contract under which the insured customer is employed is [ended] by the employer , or the declared bankruptcy or liquidation of the business of the insured customer 's employer .
+
+In the event of an insurance company which is a party to the Agreement withdrawing therefrom or ceasing to transact business , it will under the terms of the Agreement , notify individual bank branches/organisations branches from whom they hold notices of interest where that insurance cover has been terminated .
+in the event of an insurance company which is a party to the agreement withdrawing therefrom or ceasing to transact business , it will under the terms of the agreement , notify individual bank branches/organisations branches from whom they hold notices of interest where that insurance cover has been [ended] .
+
+If your work and attendance during the probationary period ( which may under certain circumstance be extended ) are not satisfactory , your appointment will normally be terminated .
+if your work and attendance during the probationary period ( which may under certain circumstance be extended ) are not satisfactory , your appointment will normally be [ended] .
+
+Your appointment may be terminated at any time during the probationary period in the case of misconduct or if your service is unsatisfactory and it is clear that you will not be able to reach the required standard before the end of the probationary period .
+your appointment may be [ended] at any time during the probationary period in the case of misconduct or if your service is unsatisfactory and it is clear that you will not be able to reach the required standard before the end of the probationary period .
+
+This appointment may be terminated prior to by you or by the Board and in any such case you will be entitled to receive and required to give notice in writing as described in the schedule .
+this appointment may be [ended] prior to by you or by the board and in any such case you will be entitled to receive and required to give notice in writing as described in the schedule .
+
+Much of what we see today dates from their time : massive curtain walls , defended on the south and east by four flanking towers , two round and two square ; within , a large rectangular courtyard enclosure , terminated at its west end by the might circular donjon surrounded by its own moat , and on the east side a great hall and chapel .
+much of what we see today dates from their time : massive curtain walls , defended on the south and east by four flanking towers , two round and two square ; within , a large rectangular courtyard enclosure , [ended] at its west end by the might circular donjon surrounded by its own moat , and on the east side a great hall and chapel .
+
+Part of the original great tower or donjon survives , but much of what can be seen today dates from the 14th and 15th centuries : massive curtain walls , defended on the south and east by four flanking towers ; within , a large rectangular courtyard enclosure , terminated at its west end by the mighty circular donjon surrounded by its own moat and , on the east side , a great hall and chapel .
+part of the original great tower or donjon survives , but much of what can be seen today dates from the 14th and 15th centuries : massive curtain walls , defended on the south and east by four flanking towers ; within , a large rectangular courtyard enclosure , [ended] at its west end by the mighty circular donjon surrounded by its own moat and , on the east side , a great hall and chapel .
+
+When our life systems are terminated we will again return to the Prime Mover .
+when our life systems are [ended] we will again return to the prime mover .
+
+The signals indicated that one of the shapechangers had been terminated .
+the signals indicated that one of the shapechangers had been [ended] .
+
+He should have been terminated .
+he should have been [ended] .
+
+Even with his body almost destroyed he had to continue until his life-functions were terminated or his mission was carried out .
+even with his body almost destroyed he had to continue until his life-functions were [ended] or his mission was carried out .
+
+Patients were recruited in Sheffield and Belfast from the 1 February 1984 and in Glasgow from the 1 January 1985 until recruitment was terminated in all centres on 30 September 1989 .
+patients were recruited in sheffield and belfast from the 1 february 1984 and in glasgow from the 1 january 1985 until recruitment was [ended] in all centres on 30 september 1989 .
+
+Terminated at the plinth and were never mentioned again .
+[ended] at the plinth and were never mentioned again .
+
+If there is any file access failure while the list is being produced , the program execution is terminated with a similar message .
+if there is any file access failure while the list is being produced , the program execution is [ended] with a similar message .
+
+Failure to create this file or failure to subsequently write to this file , will cause the user program to be terminated with an appropriate error message , for example :
+failure to create this file or failure to subsequently write to this file , will cause the user program to be [ended] with an appropriate error message , for example :
+
+It was also announced that all telecommunications , banking and other public services on the island would be terminated .
+it was also announced that all telecommunications , banking and other public services on the island would be [ended] .
+
+The Republic of Iceland was formed in June 1944 , when the convention linking the island with the Kingdom of Denmark was terminated .
+the republic of iceland was formed in june 1944 , when the convention linking the island with the kingdom of denmark was [ended] .
+
+After Mladenov 's election , the National Assembly terminated its powers , an act unprecedented in Bulgarian history .
+after mladenov 's election , the national assembly [ended] its powers , an act unprecedented in bulgarian history .
+
+Armenia 's nuclear power station was closed in February 1989 because of earthquake fears , while construction of nuclear plants in Krasnodar and the Crimea had been terminated for the same reason , after popular protests and construction of several reactors of the Chernobyl type had also been halted .
+armenia 's nuclear power station was closed in february 1989 because of earthquake fears , while construction of nuclear plants in krasnodar and the crimea had been [ended] for the same reason , after popular protests and construction of several reactors of the chernobyl type had also been halted .
+
+The dictatorship of Lennox Sebe was terminated in the early hours of March 4 by a bloodless coup led by the chief of military intelligence , Brig .
+the dictatorship of lennox sebe was [ended] in the early hours of march 4 by a bloodless coup led by the chief of military intelligence , brig .
+
+The `` marriage `` was then terminated by formal divorce .
+the `` marriage `` was then [ended] by formal divorce .
+
+For example , assume that a child is a rehabilitated person within the meaning of the Act : in other words , he has been subject to a supervision requirement and that requirement has been terminated or a year has elapsed since the date of the hearing that imposed the supervision requirement , whichever is the longer , and he has committed no further offences during the rehabilitation period ; or he has appeared before a children 's hearing which has decided not to impose a supervision requirement on him and six months has elapsed during which time he has committed no further offences .
+for example , assume that a child is a rehabilitated person within the meaning of the act : in other words , he has been subject to a supervision requirement and that requirement has been [ended] or a year has elapsed since the date of the hearing that imposed the supervision requirement , whichever is the longer , and he has committed no further offences during the rehabilitation period ; or he has appeared before a children 's hearing which has decided not to impose a supervision requirement on him and six months has elapsed during which time he has committed no further offences .
+
+If a child has been made the subject of a supervision requirement following a referral to a children 's hearing on an offence ground , and that supervision requirement has been terminated and the child reappears before another children 's hearing , the main factors that the later hearing will need to consider to perform their statutory functions are why the child appeared before a children 's hearing , the reasons for that hearing 's disposal and , most particularly , the child 's response to the disposal ; in short , a children 's hearing would want to know the very things section 4 appears to prevent it ascertaining .
+if a child has been made the subject of a supervision requirement following a referral to a children 's hearing on an offence ground , and that supervision requirement has been [ended] and the child reappears before another children 's hearing , the main factors that the later hearing will need to consider to perform their statutory functions are why the child appeared before a children 's hearing , the reasons for that hearing 's disposal and , most particularly , the child 's response to the disposal ; in short , a children 's hearing would want to know the very things section 4 appears to prevent it ascertaining .
+
+In that lovely euphemism , frequently employed at such times , the theatre has announced that his contract is to be terminated ‘ … by mutual consent ’ .
+in that lovely euphemism , frequently employed at such times , the theatre has announced that his contract is to be [ended] ‘ … by mutual consent ’ .
+
+Goodman 's honeymoon with Haynes terminated with the launch of It and the American 's plan to pull out of the theatre and set up his Arts Lab in Covent Garden .
+goodman 's honeymoon with haynes [ended] with the launch of it and the american 's plan to pull out of the theatre and set up his arts lab in covent garden .
+
+Recording was then terminated by using Tools , Macros , End Record .
+recording was then [ended] by using tools , macros , end record .
+
+It must be terminated .
+it must be [ended] .
+
+Before provision for terminated operations , profit before tax showed an increase of 6.3 % on the previous year , from £30.2 million to £32.1 million .
+before provision for [ended] operations , profit before tax showed an increase of 6.3 % on the previous year , from £30.2 million to £32.1 million .
+
+Earnings per share were 13.3p compared with 11.5p ( before provision for operation to be terminated ) in the previous year , an increase of 16 % .
+earnings per share were 13.3p compared with 11.5p ( before provision for operation to be [ended] ) in the previous year , an increase of 16 % .
+
+In distinction , the eastern arm in England is shorter and , after the earlier Norman work , terminated more often in a square rather than an apsidal end .
+in distinction , the eastern arm in england is shorter and , after the earlier norman work , [ended] more often in a square rather than an apsidal end .
+
+All babies terminated unless validated .
+all babies [ended] unless validated .
+
+Eddie had been dead ten long years , a life so abruptly terminated that she had never come to terms with it .
+eddie had been dead ten long years , a life so abruptly [ended] that she had never come to terms with it .
+
+Because there is no escaping the fact that we have , with full consciousness , terminated life .
+because there is no escaping the fact that we have , with full consciousness , [ended] life .
+
+However , the vandalism to the signalling system in the Birmingham area terminated all trains from the Cambrian and Chester/Shrewsbury areas at Wolverhampton for some weeks from Christmas .
+however , the vandalism to the signalling system in the birmingham area [ended] all trains from the cambrian and chester/shrewsbury areas at wolverhampton for some weeks from christmas .
+
+Fronting the road was a long wall bisected by a low archway , and terminated by a structure like a squat tower , surmounted by the usual pointed roof .
+fronting the road was a long wall bisected by a low archway , and [ended] by a structure like a squat tower , surmounted by the usual pointed roof .
+
+However Bridge restrictions at Dovey Junction were reinforced and the train terminated at Machynlleth .
+however bridge restrictions at dovey junction were reinforced and the train [ended] at machynlleth .
+
+Although the Kerry Railway terminated at Kerry , there was a Tramway from there on which began as private lines laid on a narrow gauge of 1 ' 11 ½ ’ ( popularly known as the ‘ 2ft gauge ’ ) .
+although the kerry railway [ended] at kerry , there was a tramway from there on which began as private lines laid on a narrow gauge of 1 ' 11 ½ ’ ( popularly known as the ‘ 2ft gauge ’ ) .
+
+If these were inappropriate then bewilderment and anxiety occurred and the interaction tended to be terminated after a few limited responses leaving a residual sense of uncertainty , displeasure and frustration .
+if these were inappropriate then bewilderment and anxiety occurred and the interaction tended to be [ended] after a few limited responses leaving a residual sense of uncertainty , displeasure and frustration .
+
+In general , political propaganda was already difficult in this ‘ phoney ’ war period , and a number of full-time agents found their appointments terminated , though some special ‘ war grants ’ were paid by the central party organisation .
+in general , political propaganda was already difficult in this ‘ phoney ’ war period , and a number of full-time agents found their appointments [ended] , though some special ‘ war grants ’ were paid by the central party organisation .
+
+Wimpey pulled out of Egypt in 1956 and in 1959 a revolution in Iraq terminated operations in Baghdad .
+wimpey pulled out of egypt in 1956 and in 1959 a revolution in iraq [ended] operations in baghdad .
+
+" … Negotiations on accession to the European Union on the basis of the treaty now agreed can start as soon as the Community has terminated its negotiations on own resources and related issues in 1992 .
+" … negotiations on accession to the european union on the basis of the treaty now agreed can start as soon as the community has [ended] its negotiations on own resources and related issues in 1992 .
+
+After the coup martial law was imposed ( and lifted in May ) , the country 's Constitution was terminated and the National Assembly and the Cabinet were dissolved .
+after the coup martial law was imposed ( and lifted in may ) , the country 's constitution was [ended] and the national assembly and the cabinet were dissolved .
+
+Northumbria 's last Scandinavian king , Eric Bloodaxe , was not expelled until 954 , and only three years later Eadwig 's brother Edgar formed it and Mercia into a separate kingdom , a division terminated by Eadwig 's early death in 959 .
+northumbria 's last scandinavian king , eric bloodaxe , was not expelled until 954 , and only three years later eadwig 's brother edgar formed it and mercia into a separate kingdom , a division [ended] by eadwig 's early death in 959 .
+
+However , there can be little doubt that , in most countries , conditions of early childhood morbidity and mortality would be improved if childbearing were deferred until after age 20 and terminated by age 35 .
+however , there can be little doubt that , in most countries , conditions of early childhood morbidity and mortality would be improved if childbearing were deferred until after age 20 and [ended] by age 35 .
+
+The study was therefore terminated at this stage .
+the study was therefore [ended] at this stage .
+
+Thre is only weak staining in the enterocytes after the instillation was terminated , indicating an intracellular clearance .
+thre is only weak staining in the enterocytes after the instillation was [ended] , indicating an intracellular clearance .
+
+The staining for PT-gliadin decreases after the instillation is terminated and this might be explaiend by enzymatic digestion and/or transcytosis .
+the staining for pt-gliadin decreases after the instillation is [ended] and this might be explaiend by enzymatic digestion and/or transcytosis .
+
+The intracellular staining is intense during the instillation , when compared with normal controls , and still distinct 20 minutes after the instillation is terminated .
+the intracellular staining is intense during the instillation , when compared with normal controls , and still distinct 20 minutes after the instillation is [ended] .
+
+The lateral membrane/intercellular space staining , however , has vanished after the instillation is terminated .
+the lateral membrane/intercellular space staining , however , has vanished after the instillation is [ended] .
+
+Mr. Baldock , Mr. Davis , Mr. O'Neill and Mr. Yea have contracts of service with the Company which can be terminated by not more than three years ' notice .
+mr. baldock , mr. davis , mr. o'neill and mr. yea have contracts of service with the company which can be [ended] by not more than three years ' notice .
+
+Talk of the theatre was normally avoided in front of Bo-Bo because no one liked to suffer the avalanche of tears that flowed when memories of her prematurely terminated career overwhelmed the onetime actress .
+talk of the theatre was normally avoided in front of bo-bo because no one liked to suffer the avalanche of tears that flowed when memories of her prematurely [ended] career overwhelmed the onetime actress .
+
+The Canadian Minister of Fisheries terminated the trials , and banned further drift-net fishing in Canadian waters .
+the canadian minister of fisheries [ended] the trials , and banned further drift-net fishing in canadian waters .
+
+Under New Zealand 's Marine Mammals Protection Act , the possession of marine mammals without a permit is a serious offence , and the drift-net trials were promptly terminated .
+under new zealand 's marine mammals protection act , the possession of marine mammals without a permit is a serious offence , and the drift-net trials were promptly [ended] .
+
+By 1968 , both eugenics journals had closed down and in 1989 the Eugenics Society was terminated .
+by 1968 , both eugenics journals had closed down and in 1989 the eugenics society was [ended] .
+
+e . Is there any other way my holiday may be terminated ?
+e . is there any other way my holiday may be [ended] ?
+
+The evening terminated with the members singing ‘ For he 's a jolly good fellow ’ to Micky Watson in appreciation of the considerable work he had done for the Club .
+the evening [ended] with the members singing ‘ for he 's a jolly good fellow ’ to micky watson in appreciation of the considerable work he had done for the club .
+
+Although the Club was for Brakspear 's an outlet for their products without many responsibility of property up-keep , their generosity was far in excess of what might be expected on strictly commercial terms and doubtless when their relationship and arrangements were terminated in 1983 , the Club 's former President , John Chalcraft , also the Brewery 's retired Managing Director , must have felt some regret .
+although the club was for brakspear 's an outlet for their products without many responsibility of property up-keep , their generosity was far in excess of what might be expected on strictly commercial terms and doubtless when their relationship and arrangements were [ended] in 1983 , the club 's former president , john chalcraft , also the brewery 's retired managing director , must have felt some regret .
+
+Unfortunately , owing to changes in Ethiopian political life , the studies he began , together with those of the Dunbars , had to be terminated early , thus leaving many questions inconclusively answered .
+unfortunately , owing to changes in ethiopian political life , the studies he began , together with those of the dunbars , had to be [ended] early , thus leaving many questions inconclusively answered .
+
+At the same time we also removed two enormous chimneybreasts , which terminated in a shared 5m-high , six-pot stack .
+at the same time we also removed two enormous chimneybreasts , which [ended] in a shared 5m-high , six-pot stack .
+
+We will debit amounts withdrawn by use of your Card to whichever of your accounts you select except for any withdrawals made after either ( i ) your right to use your Card has been terminated under Condition 8 or ( ii ) we have received your notification of the loss or theft of your Card under Condition 4 ( provided you are not in breach of these Conditions ) .
+we will debit amounts withdrawn by use of your card to whichever of your accounts you select except for any withdrawals made after either ( i ) your right to use your card has been [ended] under condition 8 or ( ii ) we have received your notification of the loss or theft of your card under condition 4 ( provided you are not in breach of these conditions ) .
+
+Clerical , Medical and General Life Assurance Society does not guarantee that the amount to be paid if the contract is terminated at one of the durations specified will be as high as the amount indicated .
+clerical , medical and general life assurance society does not guarantee that the amount to be paid if the contract is [ended] at one of the durations specified will be as high as the amount indicated .
+
+Assuming that the contract is not terminated before the end of the contract period and the rate at which charges or expenses will be made in respect of the contract continues unchanged during that period , the deductions to be made in respect of those charges or expenses may be expected to reduce the investment return by an amount approximately equal to that reduction in yield figure .
+assuming that the contract is not [ended] before the end of the contract period and the rate at which charges or expenses will be made in respect of the contract continues unchanged during that period , the deductions to be made in respect of those charges or expenses may be expected to reduce the investment return by an amount approximately equal to that reduction in yield figure .
+
+Alternatively the policy may be terminated and any surrender value taken .
+alternatively the policy may be [ended] and any surrender value taken .
+
+Clerical Medical and General Life Assurance Society does not guarantee that the amount to be paid if the contract is terminated at one of the durations specified will be as high as the amount indicated .
+clerical medical and general life assurance society does not guarantee that the amount to be paid if the contract is [ended] at one of the durations specified will be as high as the amount indicated .
+
+Alternatively , the policy may be terminated and any surrender value taken .
+alternatively , the policy may be [ended] and any surrender value taken .
+
+Assuming that the contract is not terminated before the end of the contract period and the rate at which charges or expenses will be made in respect of the contract continues unchanged during that period , the deductions to be made in respect of those charges or expenses may be expected to reduce the investment return by an amount approximately equal to that reduction in yield figure .
+assuming that the contract is not [ended] before the end of the contract period and the rate at which charges or expenses will be made in respect of the contract continues unchanged during that period , the deductions to be made in respect of those charges or expenses may be expected to reduce the investment return by an amount approximately equal to that reduction in yield figure .
+
+In this way the original window apertures ‘ read ’ satisfactorily as the high level ‘ extension ’ of lower , squatter openings , rather in the manner that , in the internal view of a cathedral nave , the triforium openings of the nave arcade are vertically extended and handsomely terminated by the high-level clerestory windows .
+in this way the original window apertures ‘ read ’ satisfactorily as the high level ‘ extension ’ of lower , squatter openings , rather in the manner that , in the internal view of a cathedral nave , the triforium openings of the nave arcade are vertically extended and handsomely [ended] by the high-level clerestory windows .
+
+Before conversion , the building had a simple plan with a nave and aisles of six bays terminated by a shallow semi-octagonal apse at the east end .
+before conversion , the building had a simple plan with a nave and aisles of six bays [ended] by a shallow semi-octagonal apse at the east end .
+
+The best colour seems to happen after a warm , still Indian summer , terminated by a short , sharp frost .
+the best colour seems to happen after a warm , still indian summer , [ended] by a short , sharp frost .
+
+As one reflection of this , telephone calls about matters like this were occasionally terminated by the slamming down of the receiver , followed by the defiant expletives of ‘ old bag ’ , ‘ old cow ’ , or ‘ bastard ’ , which Manning 's ethnography shows is a common closing remark among disgruntled policemen ( 1977 , p. xiv ) .
+as one reflection of this , telephone calls about matters like this were occasionally [ended] by the slamming down of the receiver , followed by the defiant expletives of ‘ old bag ’ , ‘ old cow ’ , or ‘ bastard ’ , which manning 's ethnography shows is a common closing remark among disgruntled policemen ( 1977 , p. xiv ) .
+
+In every major city , the tracks terminated in a station .
+in every major city , the tracks [ended] in a station .
+
+In them he included his diary entries of the days from Nasser 's announcement to his own resignation on 6 November when the ill-fated invasion was ignominiously terminated by a ceasefire .
+in them he included his diary entries of the days from nasser 's announcement to his own resignation on 6 november when the ill-fated invasion was ignominiously [ended] by a ceasefire .
+
+What they did not profess to understand was how it could be terminated .
+what they did not profess to understand was how it could be [ended] .
+
+The issues are obviously different for parents who relinquish a baby from those whose rights are later terminated by law and the child placed for adoption .
+the issues are obviously different for parents who relinquish a baby from those whose rights are later [ended] by law and the child placed for adoption .
+
+Of unmarried women who became pregnant , the proportion who married the father before the baby was born fell from 40 % in 1970 to 11 % in 1988 , whereas the proportion of pregnancies terminated by abortion rose from 24 % to 37 % .
+of unmarried women who became pregnant , the proportion who married the father before the baby was born fell from 40 % in 1970 to 11 % in 1988 , whereas the proportion of pregnancies [ended] by abortion rose from 24 % to 37 % .
+
+The supply deal could be terminated at three months ' notice .
+the supply deal could be [ended] at three months ' notice .
+
+3220km and 36000 telegraph poles later it terminated at Adelaide .
+3220km and 36000 telegraph poles later it [ended] at adelaide .
+
+This arrangement was terminated as it apparently consumed too much valuable wood .
+this arrangement was [ended] as it apparently consumed too much valuable wood .
+
+The fears that the work could escalate into ‘ genetic engineering ’ , by which all but completely healthy babies would be terminated and parents could virtually plan the child they want are futuristic but increasingly real .
+the fears that the work could escalate into ‘ genetic engineering ’ , by which all but completely healthy babies would be [ended] and parents could virtually plan the child they want are futuristic but increasingly real .
+
+The problem is that it is not just life expectancy that determines whether the child has this ‘ right to live ’ ; often handicaps such as Down 's Syndrome which is one of the primary forms of mental handicap identified by tests , are considered such a burden both to the child and the family that the pregnancy will be terminated .
+the problem is that it is not just life expectancy that determines whether the child has this ‘ right to live ’ ; often handicaps such as down 's syndrome which is one of the primary forms of mental handicap identified by tests , are considered such a burden both to the child and the family that the pregnancy will be [ended] .
+
+In order to communicate with military headquarters in Moscow Russian engineers had simply diverted some of the multicore trunk circuits from the main Vienna exchange so that they terminated in the Imperial Hotel .
+in order to communicate with military headquarters in moscow russian engineers had simply diverted some of the multicore trunk circuits from the main vienna exchange so that they [ended] in the imperial hotel .
+
+We know that Dr Carrington ultimately asked to be allowed to die . What do you think persuaded Dr Carrington to ask that treatment be terminated ?
+we know that dr carrington ultimately asked to be allowed to die . what do you think persuaded dr carrington to ask that treatment be [ended] ?
+
+Its significance , in terms of the legal consequences which would follow , can be assessed , however , only by drawing a crucial distinction between the situation where the patient requests that further support be terminated , and that where the ventilator is turned off without the consent of the patient .
+its significance , in terms of the legal consequences which would follow , can be assessed , however , only by drawing a crucial distinction between the situation where the patient requests that further support be [ended] , and that where the ventilator is turned off without the consent of the patient .
+
+Ambrose , with the wind at his back at the southern end from which he had terminated England 's dogged resistance on the last afternoon of the 1990 Test , also had four wickets on the day , completing the latest West Indian triumph at Kensington by having David Richardson caught at the wicket and bowling Allan Donald with successive balls 20 minutes from lunch .
+ambrose , with the wind at his back at the southern end from which he had [ended] england 's dogged resistance on the last afternoon of the 1990 test , also had four wickets on the day , completing the latest west indian triumph at kensington by having david richardson caught at the wicket and bowling allan donald with successive balls 20 minutes from lunch .
+
+He had also taken piano lessons for three years , when a pupil of Hutcheson Grammar School for Boys , and had abruptly terminated his musical venture , though it had cost Mum a small fortune .
+he had also taken piano lessons for three years , when a pupil of hutcheson grammar school for boys , and had abruptly [ended] his musical venture , though it had cost mum a small fortune .
+
+At home the outbreak of hostilities was marked by the ferry service being terminated at 8.00pm , two hours early .
+at home the outbreak of hostilities was marked by the ferry service being [ended] at 8.00pm , two hours early .
+
+The original Promenade line terminated at the gates of Claremont Park at Cocker Street , but it was important for the tramway to serve the developing northern end of the town and link up with the new Blackpool and Fleetwood Tramroad at the Gynn , opened in 1898 .
+the original promenade line [ended] at the gates of claremont park at cocker street , but it was important for the tramway to serve the developing northern end of the town and link up with the new blackpool and fleetwood tramroad at the gynn , opened in 1898 .
+
+The route in Company days terminated at Bold Street , where there was a small depot housing four cars ; but the construction of the Ferry loop line in 1925 disconnected the depot , which was leased until demolished in 1973 .
+the route in company days [ended] at bold street , where there was a small depot housing four cars ; but the construction of the ferry loop line in 1925 disconnected the depot , which was leased until demolished in 1973 .
+
+Unfortunately the 1926 Illuminations had to be terminated prematurely because of a miners ' strike , although they were reinstated for one night on October 2 for the opening of New South Promenade by Lord Derby .
+unfortunately the 1926 illuminations had to be [ended] prematurely because of a miners ' strike , although they were reinstated for one night on october 2 for the opening of new south promenade by lord derby .
+
+Nevertheless the philosophy of animal welfare by its very nature permits utilising other animals for human purposes , even if this means ( as it always does ) that most of these animals will experience pain , frustration and other harms , and even if it means , as it almost always does , that these animals will have their life terminated prematurely .
+nevertheless the philosophy of animal welfare by its very nature permits utilising other animals for human purposes , even if this means ( as it always does ) that most of these animals will experience pain , frustration and other harms , and even if it means , as it almost always does , that these animals will have their life [ended] prematurely .
+
+They do not apply if your employment is terminated during the term or if you are constructively dismissed .
+they do not apply if your employment is [ended] during the term or if you are constructively dismissed .
+
+where your contract is terminated by notice , whether given by yourself or by your employer , the date on which that notice expires ;
+where your contract is [ended] by notice , whether given by yourself or by your employer , the date on which that notice expires ;
+
+where the contract is not terminated by notice , the date on which its termination takes effect ;
+where the contract is not [ended] by notice , the date on which its termination takes effect ;
+
+The relevant date for calculating your pay is normally the date on which your job would have terminated had proper notice been given under the Consolidation Act , whether or not such notice was in fact given .
+the relevant date for calculating your pay is normally the date on which your job would have [ended] had proper notice been given under the consolidation act , whether or not such notice was in fact given .
+
+Neither of these units were encountered in Newmill-l , which presumably terminated above the volcanics ; the absence of the Magnesian Limestone and Permian salt is attributed to faulting .
+neither of these units were encountered in newmill-l , which presumably [ended] above the volcanics ; the absence of the magnesian limestone and permian salt is attributed to faulting .
+
+’ The Board made it clear that ‘ if a School Board is resolved upon , the arrangement by which the Company now pay rates upon their cottage property will be terminated , and that the rates will have to be paid by the tenants themselves : On the other hand , if the Board is not decided upon , the Company will combine with the remaining £4,000 of assessment in the Parish with a view of providing a small Infant School at Old Bradwell .
+’ the board made it clear that ‘ if a school board is resolved upon , the arrangement by which the company now pay rates upon their cottage property will be [ended] , and that the rates will have to be paid by the tenants themselves : on the other hand , if the board is not decided upon , the company will combine with the remaining £4,000 of assessment in the parish with a view of providing a small infant school at old bradwell .
+
+Areas including social security and protection of social rights of the workers and protection of workers when their contract has been terminated , are left to be decided by a unanimous vote .
+areas including social security and protection of social rights of the workers and protection of workers when their contract has been [ended] , are left to be decided by a unanimous vote .
+
+By this definition , marriage is an arrangement that should be terminated once it no longer meets the needs of one or other of the partners .
+by this definition , marriage is an arrangement that should be [ended] once it no longer meets the needs of one or other of the partners .
+
+From the left bank of the canal , the green fields of Gloucestershire swept up in a gentle rise for half a mile , there to be a terminated by a line of stately elms .
+from the left bank of the canal , the green fields of gloucestershire swept up in a gentle rise for half a mile , there to be a [ended] by a line of stately elms .
+
+This strip of land was terminated by the estuary .
+this strip of land was [ended] by the estuary .
+
+This picturesque beauty however , was terminated by the walls and sluice gates of the old mill .
+this picturesque beauty however , was [ended] by the walls and sluice gates of the old mill .
+
+Keeping the noisy engine as muted as possible , Yanto negotiated the dirt path until it terminated suddenly at the base of the sea wall .
+keeping the noisy engine as muted as possible , yanto negotiated the dirt path until it [ended] suddenly at the base of the sea wall .
+
+Six months before her overdose Liz terminated the relationship with her boyfriend of two years ' standing after she discovered he had been going out with another girl .
+six months before her overdose liz [ended] the relationship with her boyfriend of two years ' standing after she discovered he had been going out with another girl .
+
+Treatment was terminated and open access to the therapist by telephone offered in case they were unable to cope with future crises .
+treatment was [ended] and open access to the therapist by telephone offered in case they were unable to cope with future crises .
+
+Treatment was terminated and the general practitioner advised that the hypnotic could now be stopped .
+treatment was [ended] and the general practitioner advised that the hypnotic could now be stopped .
+
+The parents did not want to attend any more sessions and treatment was therefore terminated .
+the parents did not want to attend any more sessions and treatment was therefore [ended] .
+
+He may feel that his doctor has prematurely terminated his assessment of his problems , thereby increasing his sense of helplessness and discouraging further discussion with the doctor .
+he may feel that his doctor has prematurely [ended] his assessment of his problems , thereby increasing his sense of helplessness and discouraging further discussion with the doctor .
+
+In research and development programs , this might consist of data for the year concerning the number of new projects initiated , the number continued from the prior year , the number completed and the number terminated .
+in research and development programs , this might consist of data for the year concerning the number of new projects initiated , the number continued from the prior year , the number completed and the number [ended] .
+
+Because of the difficulty of measuring such results for research and development programs in financial , economic , or quantitative terms , outcome data for such programs are expected to consist typically of a narrative discussion of the major results achieved by the program during the year , along the following lines : -Basic Research - an identification of any major new discoveries that were made during the year ; -Applied Research - an identification of any major new applications that were developed during the year ; or -Development - the progress of major developmental projects including the results with respect to projects completed or otherwise terminated during the year and the status of projects that will continue .
+because of the difficulty of measuring such results for research and development programs in financial , economic , or quantitative terms , outcome data for such programs are expected to consist typically of a narrative discussion of the major results achieved by the program during the year , along the following lines : -basic research - an identification of any major new discoveries that were made during the year ; -applied research - an identification of any major new applications that were developed during the year ; or -development - the progress of major developmental projects including the results with respect to projects completed or otherwise [ended] during the year and the status of projects that will continue .
+
+In the absence of an audit report , auditors should also write a memorandum for the record that summarizes the results of the work to the date of termination and explains why the audit was terminated .
+in the absence of an audit report , auditors should also write a memorandum for the record that summarizes the results of the work to the date of termination and explains why the audit was [ended] .
+
+In some cases , members were formally asked to terminate their participation , a member 's access was terminated , or a member 's organization was asked to replace its representative .
+in some cases , members were formally asked to terminate their participation , a member 's access was [ended] , or a member 's organization was asked to replace its representative .
+
+In these instances , GAO will notify the agency-designated central liaison or point of contact that the engagement has been terminated without a written product .
+in these instances , gao will notify the agency-designated central liaison or point of contact that the engagement has been [ended] without a written product .
+
+The redeterminations are expected to result in 135,000 children having benefits terminated as a result of these changes in the law .
+the redeterminations are expected to result in 135,000 children having benefits [ended] as a result of these changes in the law .
+
+In some programs , board membership terminated only with the member 's death .
+in some programs , board membership [ended] only with the member 's death .
+
+Further , the visa is terminated at any time the H-2A worker 's employment relationship ends , whether through voluntary departure or involuntary termination .
+further , the visa is [ended] at any time the h-2a worker 's employment relationship ends , whether through voluntary departure or involuntary termination .
+
+If the H-2A alien is terminated early in the season , the worker runs the risk of ending in debt as result .
+if the h-2a alien is [ended] early in the season , the worker runs the risk of ending in debt as result .
+
+In one reported incident , a Colorado grower prematurely terminated his H-2A workers by driving them to New Mexico and depositing them on the Mexican side of the border .
+in one reported incident , a colorado grower prematurely [ended] his h-2a workers by driving them to new mexico and depositing them on the mexican side of the border .
+
+Terminations often happen abruptly , and employers immediately put terminated workers on a bus home .
+terminations often happen abruptly , and employers immediately put [ended] workers on a bus home .
+
+Workers terminated under these circumstances will contact legal services from the bus station while in the process of being deported .
+workers [ended] under these circumstances will contact legal services from the bus station while in the process of being deported .
+
+Workers compensation benefits may also be improperly terminated after the worker has left the country , requiring the worker to retain legal assistance to reinstate them .
+workers compensation benefits may also be improperly [ended] after the worker has left the country , requiring the worker to retain legal assistance to reinstate them .
+
+Auctions , Reserve Section 417 is existing Section 416 , modified to remove direct sales of allowances ( which have already been terminated by rule ) and to terminate the private sales of allowances through the annual sulfur dioxide allowance auction .
+auctions , reserve section 417 is existing section 416 , modified to remove direct sales of allowances ( which have already been [ended] by rule ) and to terminate the private sales of allowances through the annual sulfur dioxide allowance auction .
+
+Then , in October 1999 , Sharif was deposed by General Pervez Musharraf , and the plan was terminated .
+then , in october 1999 , sharif was deposed by general pervez musharraf , and the plan was [ended] .
+
+Records indicate that 531 were deported , 162 were released on bond , 24 received some kind of immigration benefits , 12 had their proceedings terminated , and 8-one of whom was Moussaoui-were remanded to the custody of the U.S .
+records indicate that 531 were deported , 162 were released on bond , 24 received some kind of immigration benefits , 12 had their proceedings [ended] , and 8-one of whom was moussaoui-were remanded to the custody of the u.s .
+
+He terminated Shehhi 's apartment lease , telling the landlord that Shehhi had returned to the UAE for family reasons , and used a power of attorney to pay bills from Shehhi 's bank account .
+he [ended] shehhi 's apartment lease , telling the landlord that shehhi had returned to the uae for family reasons , and used a power of attorney to pay bills from shehhi 's bank account .
+
+N90 [ New York Terminal Radar Approach ] controller stated 'at approximately 9:00 a.m. , I observed an unknown aircraft south of the Newark , New Jersey Airport , northeast bound and descending out of twelve thousand nine hundred feet in a rapid rate of descent , the radar target terminated at the World Trade Center . ' ''
+n90 [ new york terminal radar approach ] controller stated 'at approximately 9:00 a.m. , i observed an unknown aircraft south of the newark , new jersey airport , northeast bound and descending out of twelve thousand nine hundred feet in a rapid rate of descent , the radar target [ended] at the world trade center . ' ''
+
+Several passengers had terminated phone calls with loved ones in order to join the revolt .
+several passengers had [ended] phone calls with loved ones in order to join the revolt .
+
+The controllers observed the plane in a rapid descent ; the radar data terminated over Lower Manhattan .
+the controllers observed the plane in a rapid descent ; the radar data [ended] over lower manhattan .
+
+Cells were washed twice in PBS and then incubated with Sulfo-NHS-LC-Biotin for 30 min at 4 o C. Biotinylation reactions were terminated by one wash in Tris followed by two washes in PBS .
+cells were washed twice in pbs and then incubated with sulfo-nhs-lc-biotin for 30 min at 4 o c. biotinylation reactions were [ended] by one wash in tris followed by two washes in pbs .
+
+The protagonist , Steven Phillips ( Brooks ) , is a middle-aged screenwriter whose three-picture deal is terminated by a callow executive ( Mark Feuerstein ) who tells him he no longer has his `` edge . ''
+the protagonist , steven phillips ( brooks ) , is a middle-aged screenwriter whose three-picture deal is [ended] by a callow executive ( mark feuerstein ) who tells him he no longer has his `` edge . ''
+
+The dairy industry is the only commodity group to have its support terminated by the most recent Farm Bill .
+the dairy industry is the only commodity group to have its support [ended] by the most recent farm bill .
+
+The memoir takes us from the time the author was hired as a staff writer in the early '60s up to 1994 , when he was `` terminated '' by the loathed Tina Brown in her vandalization of his cherished magazine .
+the memoir takes us from the time the author was hired as a staff writer in the early '60s up to 1994 , when he was `` [ended] '' by the loathed tina brown in her vandalization of his cherished magazine .
+
+We know little about Chambers ' years of homosexual activity , which terminated , he assured the FBI , with his break from the party .
+we know little about chambers ' years of homosexual activity , which [ended] , he assured the fbi , with his break from the party .
+
+Burger King terminated its Hudson Foods supply contract not for safety concerns but for PR reasons .
+burger king [ended] its hudson foods supply contract not for safety concerns but for pr reasons .
+
+Cameron resigned under fire from the American Psychological Association and was later formally terminated from membership following complaints about his research methods .
+cameron resigned under fire from the american psychological association and was later formally [ended] from membership following complaints about his research methods .
+
+Since I always thought that form of address was reserved for divorced women , I 'm a bit put out to have my new marriage so abruptly terminated , at least as it relates to correspondence .
+since i always thought that form of address was reserved for divorced women , i 'm a bit put out to have my new marriage so abruptly [ended] , at least as it relates to correspondence .
+
+In 1992 , the court ruled that a federal judge 's jurisdiction can be terminated before the schools have achieved full compliance with a desegregation order .
+in 1992 , the court ruled that a federal judge 's jurisdiction can be [ended] before the schools have achieved full compliance with a desegregation order .
+
+Sprewell 's team , Golden State , canceled the remainder of his four-year , $ 32-million contract , and Converse terminated his shoe-endorsement deal .
+sprewell 's team , golden state , canceled the remainder of his four-year , $ 32-million contract , and converse [ended] his shoe-endorsement deal .
+
+The Washington Post leads with the report that in a speech yesterday , President Clinton held open the possibility that he will order U.S. troops to remain in Bosnia in some peacekeeping capacity even after the current NATO mission of which they are a part is terminated next year .
+the washington post leads with the report that in a speech yesterday , president clinton held open the possibility that he will order u.s. troops to remain in bosnia in some peacekeeping capacity even after the current nato mission of which they are a part is [ended] next year .
+
+Beginning when the Competition was terminated , we established the VERBATIM Award , for the Pursuit of Scholarship in Lexicography .
+beginning when the competition was [ended] , we established the verbatim award , for the pursuit of scholarship in lexicography .
+

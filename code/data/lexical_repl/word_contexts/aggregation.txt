@@ -1,0 +1,525 @@
+Several times it came near breaking , and there were in fact some lovely peals of thunder from Jerry Mulligan's big band , which is about as fine an aggregation as has come along in the jazz business since John Hammond found Count Basie working in a Kansas City trap .
+several times it came near breaking , and there were in fact some lovely peals of thunder from jerry mulligan's big band , which is about as fine an [combination] as has come along in the jazz business since john hammond found count basie working in a kansas city trap .
+
+Any cross-sectional type of analysis can also be made with a longitudinal study but , in addition , the aggregation of changes in individuals can be looked at .
+any cross-sectional type of analysis can also be made with a longitudinal study but , in addition , the [combination] of changes in individuals can be looked at .
+
+The problems of aggregation
+the problems of [combination]
+
+Problems arise in aggregation largely because of the difficulty of finding an appropriate unit of measurement .
+problems arise in [combination] largely because of the difficulty of finding an appropriate unit of measurement .
+
+Earth not only grew by aggregation from a cloud of particles , but by collisions with other cosmic matter .
+earth not only grew by [combination] from a cloud of particles , but by collisions with other cosmic matter .
+
+‘ Capes ’ deems the present aggregation of talent at Northampton as the best-balanced in his 11 years there .
+‘ capes ’ deems the present [combination] of talent at northampton as the best-balanced in his 11 years there .
+
+The analysis did not allow for other components in the familial aggregation .
+the analysis did not allow for other components in the familial [combination] .
+
+Familial aggregation may be due to shared genes as well as to shared environments — for example common customs , dietary habits , or exposures to viruses , toxins , or chemicals .
+familial [combination] may be due to shared genes as well as to shared environments — for example common customs , dietary habits , or exposures to viruses , toxins , or chemicals .
+
+Through such aggregation , logical documents can be defined which are a synthesis of what may be many diverse physical documents .
+through such [combination] , logical documents can be defined which are a synthesis of what may be many diverse physical documents .
+
+An aggregation hierarchy to indicate potential groupings of data through ‘ isPartOf ’ relation-ships .
+an [combination] hierarchy to indicate potential groupings of data through ‘ ispartof ’ relation-ships .
+
+The aggregation hierarchy has as its root a highly abstract object node which has some similarity to a node in hyper-text terminology comprising a chunk of data for presentation to the user .
+the [combination] hierarchy has as its root a highly abstract object node which has some similarity to a node in hyper-text terminology comprising a chunk of data for presentation to the user .
+
+in hyper-text systems , nodes are static structures at run-time whereas in our approach , a node can be dynamically generated at any time from any of the underlying text objects by aggregation .
+in hyper-text systems , nodes are static structures at run-time whereas in our approach , a node can be dynamically generated at any time from any of the underlying text objects by [combination] .
+
+the aggregation of node in our approach is always made in the context of symbolic identifiers ( see Figure 2 ) rather than record or card numbers .
+the [combination] of node in our approach is always made in the context of symbolic identifiers ( see figure 2 ) rather than record or card numbers .
+
+In our implementation , aggregation was achieved at run-time through masking out components of the primary key and assembling , using the Protocols language , the series of text objects meeting the criteria implied by the user 's current request .
+in our implementation , [combination] was achieved at run-time through masking out components of the primary key and assembling , using the protocols language , the series of text objects meeting the criteria implied by the user 's current request .
+
+Reasonable performance was achieved in this task but the aggregation is being achieved by external operations on the objects rather than by the more conceptual approach of aggregation abstraction : new object classes with aggregation methods are defined to represent the various unit sizes .
+reasonable performance was achieved in this task but the [combination] is being achieved by external operations on the objects rather than by the more conceptual approach of [combination] abstraction : new object classes with [combination] methods are defined to represent the various unit sizes .
+
+The definition of abstract data types as in Postgres [ 19 ] to represent the various aggregation possibilities may give problems with closure : the return of a multi-valued set produces an unnormalized relation .
+the definition of abstract data types as in postgres [ 19 ] to represent the various [combination] possibilities may give problems with closure : the return of a multi-valued set produces an unnormalized relation .
+
+This would have modelled well the inheritance abstractions but aggregation is achieved by external operations on objects as in our current implementation .
+this would have modelled well the inheritance abstractions but [combination] is achieved by external operations on objects as in our current implementation .
+
+Clumping of cones of the same type is apparent , but is this more than the chance aggregation that arises in any random distribution ?
+clumping of cones of the same type is apparent , but is this more than the chance [combination] that arises in any random distribution ?
+
+Garner 's work is important with respect to the second criticism of this deprivation index ; the level of aggregation .
+garner 's work is important with respect to the second criticism of this deprivation index ; the level of [combination] .
+
+Therefore they need only be made at a higher level of aggregation and should highlight potential peaks and troughs .
+therefore they need only be made at a higher level of [combination] and should highlight potential peaks and troughs .
+
+The medieval period sometimes attracts people who are looking for some general structure for the undergraduate curriculum which goes beyond a mere aggregation of subjects ( see , for example , MacCabe 's 1982 , proposals for a ‘ modern trivium ’ ) .
+the medieval period sometimes attracts people who are looking for some general structure for the undergraduate curriculum which goes beyond a mere [combination] of subjects ( see , for example , maccabe 's 1982 , proposals for a ‘ modern trivium ’ ) .
+
+Our relationship had formed itself by an aggregation of layers .
+our relationship had formed itself by an [combination] of layers .
+
+It is almost impossible to separate the breeding aggregations of early spring from the preceding winter aggregation as the one blends imperceptibly into the other .
+it is almost impossible to separate the breeding aggregations of early spring from the preceding winter [combination] as the one blends imperceptibly into the other .
+
+Adults may remain -5 months without feeding or notably moving in their winter aggregation site .
+adults may remain -5 months without feeding or notably moving in their winter [combination] site .
+
+These deficiencies in data are potentially remediable with improved data collection and aggregation ( including record linkage ) .
+these deficiencies in data are potentially remediable with improved data collection and [combination] ( including record linkage ) .
+
+The last is of interest to parents who wish to know where their child stands in relation to others of about the same age and also , at various levels of aggregation , to teachers , heads , LEAs , the Government and the wider community .
+the last is of interest to parents who wish to know where their child stands in relation to others of about the same age and also , at various levels of [combination] , to teachers , heads , leas , the government and the wider community .
+
+This simplification is achieved through the aggregation of attainment target assessments into profile components , and into results on each subject .
+this simplification is achieved through the [combination] of attainment target assessments into profile components , and into results on each subject .
+
+The four districts ' boundaries do correspond roughly with an aggregation of employment exchange areas and this allows for the construction of employment time-series from Census of Employment data .
+the four districts ' boundaries do correspond roughly with an [combination] of employment exchange areas and this allows for the construction of employment time-series from census of employment data .
+
+Animals may avoid being eaten by active flight , as do moths escaping from bats ; by camouflage , which requires behavioural adaptations to fit in with the visual markings ; by warning coloration , to teach predators to avoid sickening prey ; by mimicry of successfully warning-coloured species ; or by aggregation in groups , such as the schools of fish .
+animals may avoid being eaten by active flight , as do moths escaping from bats ; by camouflage , which requires behavioural adaptations to fit in with the visual markings ; by warning coloration , to teach predators to avoid sickening prey ; by mimicry of successfully warning-coloured species ; or by [combination] in groups , such as the schools of fish .
+
+and it implies that any institution which serves as a channel for the articulation and aggregation of group interest in centre-periphery relations has a certain amount of autonomy , however limited that may be .
+and it implies that any institution which serves as a channel for the articulation and [combination] of group interest in centre-periphery relations has a certain amount of autonomy , however limited that may be .
+
+The journalistic and political inference was that children in primary classrooms are not working nearly hard enough ; generally this was based on an aggregation of the percentages for ‘ routine ’ , ‘ awaiting attention ’ and ‘ distracted ’ to produce the claim that 40 per cent of time was ‘ wasted ’ .
+the journalistic and political inference was that children in primary classrooms are not working nearly hard enough ; generally this was based on an [combination] of the percentages for ‘ routine ’ , ‘ awaiting attention ’ and ‘ distracted ’ to produce the claim that 40 per cent of time was ‘ wasted ’ .
+
+Quite apart from questions of sample size and representativeness , this particular aggregation is wholly inappropriate .
+quite apart from questions of sample size and representativeness , this particular [combination] is wholly inappropriate .
+
+The more legitimate aggregation is of the ‘ working ’ and ‘ routine ’ categories , since both are necessary aspects of the learning task .
+the more legitimate [combination] is of the ‘ working ’ and ‘ routine ’ categories , since both are necessary aspects of the learning task .
+
+First , parties facilitate the aggregation of the large number of group and sectional interests that arise and thus present the electorate with a clarified choice of issues ; second , they organize and mobilize the electorate ; third , they recruit leaders and provide governments ; and fourth , they initiate and oversee the implementation of government policy .
+first , parties facilitate the [combination] of the large number of group and sectional interests that arise and thus present the electorate with a clarified choice of issues ; second , they organize and mobilize the electorate ; third , they recruit leaders and provide governments ; and fourth , they initiate and oversee the implementation of government policy .
+
+The aggregation of interests is necessary due to the large variety and often mutually incompatible nature of the sectional interests that develop in modern industrialized societies .
+the [combination] of interests is necessary due to the large variety and often mutually incompatible nature of the sectional interests that develop in modern industrialized societies .
+
+That a large and heterogeneous society like the United States has maintained just two parties for almost its entire history suggests that the job of aggregation has been performed admirably , but it must be remembered that in the United States these interests are really only aggregated once every four years , just long enough for the parties to select their presidential candidates and fight for their election .
+that a large and heterogeneous society like the united states has maintained just two parties for almost its entire history suggests that the job of [combination] has been performed admirably , but it must be remembered that in the united states these interests are really only aggregated once every four years , just long enough for the parties to select their presidential candidates and fight for their election .
+
+However , liberal democracy requires a party — an aggregation of interests — to win the support of a mass electorate at frequent intervals .
+however , liberal democracy requires a party — an [combination] of interests — to win the support of a mass electorate at frequent intervals .
+
+This would mean that if an organization was seen as a series of funds , then the financial report for the organization would be an aggregation of the financial reports of the constituent funds .
+this would mean that if an organization was seen as a series of funds , then the financial report for the organization would be an [combination] of the financial reports of the constituent funds .
+
+Therefore , under the commander theory , the financial report of the organization is an aggregation of all the stewardship and performance reports for each responsibility centre .
+therefore , under the commander theory , the financial report of the organization is an [combination] of all the stewardship and performance reports for each responsibility centre .
+
+But its flexibility depends upon the levels of aggregation adopted and the willingness to provide different views of the same information .
+but its flexibility depends upon the levels of [combination] adopted and the willingness to provide different views of the same information .
+
+level of aggregation , and
+level of [combination] , and
+
+Traditionally , local authorities have produced weighty financial reports but over recent years many have adopted much higher levels of aggregation with the consequent reduction in report size .
+traditionally , local authorities have produced weighty financial reports but over recent years many have adopted much higher levels of [combination] with the consequent reduction in report size .
+
+The British Government 's accounts adopt very high levels of aggregation .
+the british government 's accounts adopt very high levels of [combination] .
+
+As with the consolidation of the accounts of a group of companies , this does not only involve aggregation : there is also the elimination of any inter-fund balances to preclude double-counting .
+as with the consolidation of the accounts of a group of companies , this does not only involve [combination] : there is also the elimination of any inter-fund balances to preclude double-counting .
+
+At such a high level of aggregation , for an annual period , and reported some months after the financial year , it is not easy to see how most customers would change their behaviour because of them .
+at such a high level of [combination] , for an annual period , and reported some months after the financial year , it is not easy to see how most customers would change their behaviour because of them .
+
+Surrealist allegory , in Breton 's words , would be based on ‘ the bringing together of two more or less distant realities ’ , these realities forming ‘ an aggregation based on elective affinities ’ ( Kuspit 1983 , p. 58 ) .
+surrealist allegory , in breton 's words , would be based on ‘ the bringing together of two more or less distant realities ’ , these realities forming ‘ an [combination] based on elective affinities ’ ( kuspit 1983 , p. 58 ) .
+
+Surrealist allegory would be based on , in Breton 's words , ‘ the bringing together of two more or less distant realities ’ , these realities forming ‘ an aggregation based on elective affinities ’ ( Kuspit 1983 , p.58 ) .
+surrealist allegory would be based on , in breton 's words , ‘ the bringing together of two more or less distant realities ’ , these realities forming ‘ an [combination] based on elective affinities ’ ( kuspit 1983 , p.58 ) .
+
+This establishment of subduction zones results in a change from continental dispersal to continental aggregation which eventually leads to the reassembly of a large land mass .
+this establishment of subduction zones results in a change from continental dispersal to continental [combination] which eventually leads to the reassembly of a large land mass .
+
+However , the classical writers tended to transfer the same principles of adjustment from the microeconomic to the macroeconomic plane , though their applicability at this level of aggregation is altogether more problematical , as Keynes was to point out .
+however , the classical writers tended to transfer the same principles of adjustment from the microeconomic to the macroeconomic plane , though their applicability at this level of [combination] is altogether more problematical , as keynes was to point out .
+
+The company collects cans in bulk from seven `` aggregation centres `` spread across the country , where merchants receive `` factory gate `` prices without incurring the costs of delivery all the way to Warrington .
+the company collects cans in bulk from seven `` [combination] centres `` spread across the country , where merchants receive `` factory gate `` prices without incurring the costs of delivery all the way to warrington .
+
+The company facilitated the aggregation of vast sums of capital from numerous small investors and this together with changes in technology and organizational techniques led to a vast expansion in the size of the firm and a reduction in the number of firms operating in any particular industry .
+the company facilitated the [combination] of vast sums of capital from numerous small investors and this together with changes in technology and organizational techniques led to a vast expansion in the size of the firm and a reduction in the number of firms operating in any particular industry .
+
+AimTrak is an ideal management information and reconciliation system for group companies , as it allows for the aggregation of funds from different member companies and provides a consolidated group figure , thus minimising individual bank charges .
+aimtrak is an ideal management information and reconciliation system for group companies , as it allows for the [combination] of funds from different member companies and provides a consolidated group figure , thus minimising individual bank charges .
+
+The new proposals for managing chronic disease and preventing coronary heart disease in the general practitioner 's contract 's revisions of health promotion payments will also require recording , aggregation , and communication of morbidity data .
+the new proposals for managing chronic disease and preventing coronary heart disease in the general practitioner 's contract 's revisions of health promotion payments will also require recording , [combination] , and communication of morbidity data .
+
+The system does not permit the aggregation of bundles from different units of work ( i.e .
+the system does not permit the [combination] of bundles from different units of work ( i.e .
+
+These included the effects on the pass rate of different pass marks , and of different aggregation procedures .
+these included the effects on the pass rate of different pass marks , and of different [combination] procedures .
+
+3.3 Aggregation of embryos and isolated cells
+3.3 [combination] of embryos and isolated cells
+
+The aggregation of these moves had more profound effects than , arguably , anyone at the time fully envisaged .
+the [combination] of these moves had more profound effects than , arguably , anyone at the time fully envisaged .
+
+The administration became the channel of political communication and interest aggregation in the absence of parties and politicians .
+the administration became the channel of political communication and interest [combination] in the absence of parties and politicians .
+
+Evidence for aspirin as sole adjunctivetherapy to thrombolysis Aspirin , if given in oral or intravenous doses of at least 2 mg/kg ( 162.5 mg in a typical man ) , produces a rapid clinical antithrombotic effect due to immediate and near-total inhibition of thromboxane function and platelet aggregation .
+evidence for aspirin as sole adjunctivetherapy to thrombolysis aspirin , if given in oral or intravenous doses of at least 2 mg/kg ( 162.5 mg in a typical man ) , produces a rapid clinical antithrombotic effect due to immediate and near-total inhibition of thromboxane function and platelet [combination] .
+
+The basis for supposing that there are hereditary factors in the aetiology of peptic ulcer disease is provided by studies showing aggregation of peptic ulcers in the families of affected individuals to a greater extent than that found in the general population .
+the basis for supposing that there are hereditary factors in the aetiology of peptic ulcer disease is provided by studies showing [combination] of peptic ulcers in the families of affected individuals to a greater extent than that found in the general population .
+
+Nevertheless , the differences in fit from what would be expected of multifactorial inheritance are small and the pattern of familial aggregation indicative of a recessive influence ( with affected sibling pairs predominating over parent-offspring pairs ) could have occurred for other reasons , as discussed below .
+nevertheless , the differences in fit from what would be expected of multifactorial inheritance are small and the pattern of familial [combination] indicative of a recessive influence ( with affected sibling pairs predominating over parent-offspring pairs ) could have occurred for other reasons , as discussed below .
+
+It has been argued that a better measure of familial aggregation is the ratio of prevalence among relatives to that in the general population , but this ratio alone is also of limited value since , for a given heritability , it varies inversely with population prevalence .
+it has been argued that a better measure of familial [combination] is the ratio of prevalence among relatives to that in the general population , but this ratio alone is also of limited value since , for a given heritability , it varies inversely with population prevalence .
+
+Rational genetic interpretation of familial aggregation requires both the absolute value of the population prevalence and the numbers of affected and unaffected relatives of probands .
+rational genetic interpretation of familial [combination] requires both the absolute value of the population prevalence and the numbers of affected and unaffected relatives of probands .
+
+It has been shown that somatostatin ha sno effect on haemostasis , and particularly on platelet aggregation , with clinical doses of 250 and 500 µg/h in non-diabetic subjects ; only with a higher dose ( 750 µg/h ) were circulating platelet aggregates detected .
+it has been shown that somatostatin ha sno effect on haemostasis , and particularly on platelet [combination] , with clinical doses of 250 and 500 µg/h in non-diabetic subjects ; only with a higher dose ( 750 µg/h ) were circulating platelet aggregates detected .
+
+Nevertheless , eating disorders do show a familial aggregation .
+nevertheless , eating disorders do show a familial [combination] .
+
+First , the ‘ aggregation ’ principle meant that on marriage the husband and wife were treated as a single tax unit , with any income earned by the wife being added to that of the husband for tax purposes .
+first , the ‘ [combination] ’ principle meant that on marriage the husband and wife were treated as a single tax unit , with any income earned by the wife being added to that of the husband for tax purposes .
+
+It clearly can not be an arbitrary aggregation of versions of modules since it is likely that they would not form a consistent set .
+it clearly can not be an arbitrary [combination] of versions of modules since it is likely that they would not form a consistent set .
+
+The social person first moves out of his original position ( role ) ( " the rite of separation " ) ; he then exists for a time in a liminal condition , a threshold of time and space which is outside the ordinary world of secular affairs and is treated as in some way " sacred " ( Van Gennep 's " rite de marge " ) ; finally he moves back into secular society in his new position ( role ) ( " the rite of aggregation " ) .
+the social person first moves out of his original position ( role ) ( " the rite of separation " ) ; he then exists for a time in a liminal condition , a threshold of time and space which is outside the ordinary world of secular affairs and is treated as in some way " sacred " ( van gennep 's " rite de marge " ) ; finally he moves back into secular society in his new position ( role ) ( " the rite of [combination] " ) .
+
+In my Sinhalese wedding example , phases 1–5 constitute the rite of separation ; phases 6 -15 the `` rite de marge `` ; 16–20 the rite of aggregation .
+in my sinhalese wedding example , phases 1–5 constitute the rite of separation ; phases 6 -15 the `` rite de marge `` ; 16–20 the rite of [combination] .
+
+The file will contain cultural , economic , political and social data from various national sources for the period between the 1960s and 1985 for 18 countries at a level of aggregation equivalent to Eurostat Level 3 , for example , the Departement in France , the county and Metropolitan Borough in Britain , the Fylke in Norway , the Provincia in Italy , and so on .
+the file will contain cultural , economic , political and social data from various national sources for the period between the 1960s and 1985 for 18 countries at a level of [combination] equivalent to eurostat level 3 , for example , the departement in france , the county and metropolitan borough in britain , the fylke in norway , the provincia in italy , and so on .
+
+While such large molar masses are now taken for granted , it was difficult in 1920 to believe and accept that these values were real and not just caused by the aggregation of much smaller molecules .
+while such large molar masses are now taken for granted , it was difficult in 1920 to believe and accept that these values were real and not just caused by the [combination] of much smaller molecules .
+
+Aggregation results in mixed or compound Poisson distributions which can not be fitted by standard methods .
+[combination] results in mixed or compound poisson distributions which can not be fitted by standard methods .
+
+In fitting statistical models to study relationships , it is important to take account of such hierarchies , both for technical reasons but also because influential factors can be present at any or all levels of aggregation .
+in fitting statistical models to study relationships , it is important to take account of such hierarchies , both for technical reasons but also because influential factors can be present at any or all levels of [combination] .
+
+The measure takes the lifetime approach to its logical conclusion ; at the other extreme , the empirical studies are based on aggregation over generations but m this case taking current income , not lifetime income .
+the measure takes the lifetime approach to its logical conclusion ; at the other extreme , the empirical studies are based on [combination] over generations but m this case taking current income , not lifetime income .
+
+To this juncture , we have discussed the aggregation of individual preferences directly into a public decision .
+to this juncture , we have discussed the [combination] of individual preferences directly into a public decision .
+
+Modification of the fluids through washing thus not only changes the salt concentrations , but may also induce separation or aggregation of the particles , so that subsequent size analysis may not indicate the natural interrelationship between the particles during deposition or achieved since .
+modification of the fluids through washing thus not only changes the salt concentrations , but may also induce separation or [combination] of the particles , so that subsequent size analysis may not indicate the natural interrelationship between the particles during deposition or achieved since .
+
+During the drying process particle aggregation may occur and it is most important that sieve residues should be checked , using a hand lens where necessary , to detect the presence of aggregates which form clusters considerably larger than the original single component grains .
+during the drying process particle [combination] may occur and it is most important that sieve residues should be checked , using a hand lens where necessary , to detect the presence of aggregates which form clusters considerably larger than the original single component grains .
+
+Qualification represents the aggregation of whatever properties the speaker feels are needed to identify sufficiently what he wishes to talk about , and so it is entirely to be expected that , on occasion , more than one adjectival property should appear .
+qualification represents the [combination] of whatever properties the speaker feels are needed to identify sufficiently what he wishes to talk about , and so it is entirely to be expected that , on occasion , more than one adjectival property should appear .
+
+The only way forward was to develop the tools of empirical research , measurement scales to facilitate the description , aggregation and comparison of data ; to provide good , solidly based findings on the lines just sketched .
+the only way forward was to develop the tools of empirical research , measurement scales to facilitate the description , [combination] and comparison of data ; to provide good , solidly based findings on the lines just sketched .
+
+Other researchers like Bickerton and Bailey work within a `` dynamic paradigm `` where it is assumed that `` the individual is homogeneous and that variability results from the aggregation of internally consistent lects which are different from each other with respect to one or more linguistic features `` ( Romaine 1982 : 11 ) .
+other researchers like bickerton and bailey work within a `` dynamic paradigm `` where it is assumed that `` the individual is homogeneous and that variability results from the [combination] of internally consistent lects which are different from each other with respect to one or more linguistic features `` ( romaine 1982 : 11 ) .
+
+If , as we believe , the main source of mucosal reactive oxygen species in inflammation is the neutrophil , then leukotriene synthesis inhibitors could prevent aggregation of neutrophils in the mucosa , thus decreasing reactive oxygen species and tissue injury .
+if , as we believe , the main source of mucosal reactive oxygen species in inflammation is the neutrophil , then leukotriene synthesis inhibitors could prevent [combination] of neutrophils in the mucosa , thus decreasing reactive oxygen species and tissue injury .
+
+Of the various neutrophil functions — namely adherence , aggregation , orientation , locomotion , and chemotaxis — few are better defined and understood than the sequence of events when the neurtophil comes into contact with a chemoattractant .
+of the various neutrophil functions — namely adherence , [combination] , orientation , locomotion , and chemotaxis — few are better defined and understood than the sequence of events when the neurtophil comes into contact with a chemoattractant .
+
+It has been shown that experimental anoxia and a metabolic uncoupler , 2,4-dinitrophenol , cause structural changes in gap junctions , characterised by a tighter hexagonal aggregation of the gap junctional particles in the stomach and other tissues .
+it has been shown that experimental anoxia and a metabolic uncoupler , 2,4-dinitrophenol , cause structural changes in gap junctions , characterised by a tighter hexagonal [combination] of the gap junctional particles in the stomach and other tissues .
+
+Platelet activating factor is a low molecular weight phospholipid exhibiting potent biological effects including the platelet and neutrophil aggregation , systemic hypotension , pulmonary hypertension , and capillary leakage leading to haemorrhagic damage in the gastrointestinal tract .
+platelet activating factor is a low molecular weight phospholipid exhibiting potent biological effects including the platelet and neutrophil [combination] , systemic hypotension , pulmonary hypertension , and capillary leakage leading to haemorrhagic damage in the gastrointestinal tract .
+
+For further characterisation of the platelet aggregation molecules , platelet activating factor extracted from biopsy specimens from patients with Crohn 's disease was pooled , dried and eluted on high performance liquid chromatography .
+for further characterisation of the platelet [combination] molecules , platelet activating factor extracted from biopsy specimens from patients with crohn 's disease was pooled , dried and eluted on high performance liquid chromatography .
+
+An explanation has been given for aggregation in the dark in terms of a simple behavioural response .
+an explanation has been given for [combination] in the dark in terms of a simple behavioural response .
+
+Although it was beneficial both to optimal planning and the creation of much-needed accommodation to maximise the number of rooms that could be sited internally , the aggregation of these spaces was still inadequate to ‘ fill up ’ the middle of the broad interior , and in the flour-mill section of the building the residual central space was devoted to a full-height internal courtyard or ‘ atrium ’ which rises through seven storeys to terminate in a glass-roofed conservatory .
+although it was beneficial both to optimal planning and the creation of much-needed accommodation to maximise the number of rooms that could be sited internally , the [combination] of these spaces was still inadequate to ‘ fill up ’ the middle of the broad interior , and in the flour-mill section of the building the residual central space was devoted to a full-height internal courtyard or ‘ atrium ’ which rises through seven storeys to terminate in a glass-roofed conservatory .
+
+‘ Coherent body of matter of indefinite shape or dense aggregation of objects , or assembly of people ’
+‘ coherent body of matter of indefinite shape or dense [combination] of objects , or assembly of people ’
+
+To do this successfully the choreographer must be able to select from the ‘ aggregation of objects ’ only those which are appropriate to the ballet in hand .
+to do this successfully the choreographer must be able to select from the ‘ [combination] of objects ’ only those which are appropriate to the ballet in hand .
+
+These include increased platelet aggregation and blood viscosity and decreased vascular bed distensibility ( Khosla et al , 1979 ; Faris et al , 1982 ) .
+these include increased platelet [combination] and blood viscosity and decreased vascular bed distensibility ( khosla et al , 1979 ; faris et al , 1982 ) .
+
+Through their properties of adherence to vascular or foreign surfaces and their aggregation with other platelets they can initiate haemostasis .
+through their properties of adherence to vascular or foreign surfaces and their [combination] with other platelets they can initiate haemostasis .
+
+This system remains patent despite platelet contraction , adhesion and aggregation , and probably serves for the release of the contents of the platelet-storage granules to plasma ( White , 1973 ) .
+this system remains patent despite platelet contraction , adhesion and [combination] , and probably serves for the release of the contents of the platelet-storage granules to plasma ( white , 1973 ) .
+
+The earliest finding is the platelet adhesion to collagen fibres followed by aggregation and formation of a platelet plug .
+the earliest finding is the platelet adhesion to collagen fibres followed by [combination] and formation of a platelet plug .
+
+As can be seen from the above description , the formation of the haemostatic plug or ‘ primary haemostasis ’ involves many properties of platelets including adhesion , aggregation , degranulation and release reaction , and these platelet properties will be briefly described .
+as can be seen from the above description , the formation of the haemostatic plug or ‘ primary haemostasis ’ involves many properties of platelets including adhesion , [combination] , degranulation and release reaction , and these platelet properties will be briefly described .
+
+Platelets do not usually adhere to normal endothelium but the reasons why normal endothelium is inert with respect to stimulating platelet adhesion and aggregation is not fully understood ( Shattil & Bennett , 1981 ) .
+platelets do not usually adhere to normal endothelium but the reasons why normal endothelium is inert with respect to stimulating platelet adhesion and [combination] is not fully understood ( shattil & bennett , 1981 ) .
+
+However , Moncada et al ( 1976a ) demonstrated that endothelial cells were capable of producing a potent anti-platelet aggregatory agent and it was subsequently suggested that continuous production of this substance , now called prostacyclin , explained the apparent protection against adhesion and aggregation conferred by the normal endothelium ( Moncada & Vane , 1979 ) .
+however , moncada et al ( 1976a ) demonstrated that endothelial cells were capable of producing a potent anti-platelet aggregatory agent and it was subsequently suggested that continuous production of this substance , now called prostacyclin , explained the apparent protection against adhesion and [combination] conferred by the normal endothelium ( moncada & vane , 1979 ) .
+
+Platelet aggregation
+platelet [combination]
+
+Platelet aggregation , or platelet-platelet stickiness , can be regarded as a special case of platelet adhesion and follows adhesion of platelets to injured surfaces .
+platelet [combination] , or platelet-platelet stickiness , can be regarded as a special case of platelet adhesion and follows adhesion of platelets to injured surfaces .
+
+Normally , as has been described , aggregation is apparent in experimental wounds within seconds .
+normally , as has been described , [combination] is apparent in experimental wounds within seconds .
+
+Aggregation has been studied in vitro more than any other platelet activity because of the development of a simple photometric method for its measurement ( Born , 1962 ) .
+[combination] has been studied in vitro more than any other platelet activity because of the development of a simple photometric method for its measurement ( born , 1962 ) .
+
+Table 5.1 Platelet aggregation agents
+table 5.1 platelet [combination] agents
+
+At low concentrations of collagen , platelet aggregation is dependent on the release of arachidonic acid from platelet membrane phospholipid and the subsequent metabolism of arachidonic acid via the prostaglandin pathway ( Packham , 1976 ) .
+at low concentrations of collagen , platelet [combination] is dependent on the release of arachidonic acid from platelet membrane phospholipid and the subsequent metabolism of arachidonic acid via the prostaglandin pathway ( packham , 1976 ) .
+
+The first wave of aggregation induced by adrenaline is associated with uptake of calcium by platelets , and it has been suggested that a localised flux of calcium into the platelet plasma membrane enables the platelets to stick together ( Gerrard et al , 1981 ) .
+the first wave of [combination] induced by adrenaline is associated with uptake of calcium by platelets , and it has been suggested that a localised flux of calcium into the platelet plasma membrane enables the platelets to stick together ( gerrard et al , 1981 ) .
+
+The mechanisms by which platelet sticks to platelet during aggregation are not fully understood .
+the mechanisms by which platelet sticks to platelet during [combination] are not fully understood .
+
+Defreyn et al ( 1981 ) have demonstrated a deficiency of thromboxane formation and platelet aggregation in platelets from a patient with a familial bleeding tendency , thus emphasizing the importance of thromboxane production in the physiology of platelet function .
+defreyn et al ( 1981 ) have demonstrated a deficiency of thromboxane formation and platelet [combination] in platelets from a patient with a familial bleeding tendency , thus emphasizing the importance of thromboxane production in the physiology of platelet function .
+
+When given systemically prostacyclin protected against sudden death ( secondary to platelet aggregation ) in the rabbit following intravenous injection of arachidonic acid ( Bayer et al , 1979 ) .
+when given systemically prostacyclin protected against sudden death ( secondary to platelet [combination] ) in the rabbit following intravenous injection of arachidonic acid ( bayer et al , 1979 ) .
+
+Similarly , prostacyclin inhibited platelet aggregation on rabbit subendothelium but only prevented platelet adhesion at higher doses ( Higgs et al , 1978 ) .
+similarly , prostacyclin inhibited platelet [combination] on rabbit subendothelium but only prevented platelet adhesion at higher doses ( higgs et al , 1978 ) .
+
+In man prostacyclin infusion inhibited platelet aggregation measured ex vivo at a threshold dosage of 2 ng/kg/min , and with increasing doses there was increased inhibition of ADP-induced aggregation ( Fitzgerald et al , 1981 ) .
+in man prostacyclin infusion inhibited platelet [combination] measured ex vivo at a threshold dosage of 2 ng/kg/min , and with increasing doses there was increased inhibition of adp-induced [combination] ( fitzgerald et al , 1981 ) .
+
+Whatever the physiological stimulus to platelet aggregation and thrombus formation it appears that it is the fissuring of an atheromatous plague often with extrusion of plaque lipid contents which triggers thrombus formation ( Bouch & Montgomery , 1970 ) .
+whatever the physiological stimulus to platelet [combination] and thrombus formation it appears that it is the fissuring of an atheromatous plague often with extrusion of plaque lipid contents which triggers thrombus formation ( bouch & montgomery , 1970 ) .
+
+The resistance of intact endothelium to platelet aggregation does not solely depend on its ability to synthesize prostacyclin as has been discussed previously .
+the resistance of intact endothelium to platelet [combination] does not solely depend on its ability to synthesize prostacyclin as has been discussed previously .
+
+However , this suggestion depends on the assumption that prostacyclin is continually produced by arterial wall to prevent platelet aggregation .
+however , this suggestion depends on the assumption that prostacyclin is continually produced by arterial wall to prevent platelet [combination] .
+
+However , there is no doubt that the development of the turbidometric method for the study of platelet aggregation in vitro ( Born , 1962 ) gave tremendous impetus to the study of platelet function .
+however , there is no doubt that the development of the turbidometric method for the study of platelet [combination] in vitro ( born , 1962 ) gave tremendous impetus to the study of platelet function .
+
+In recent years the importance of the prostaglandin pathway in platelets in relation to platelet aggregation has become apparent and several studies have attempted to assess the activity of this pathway in platelets from diabetic subjects .
+in recent years the importance of the prostaglandin pathway in platelets in relation to platelet [combination] has become apparent and several studies have attempted to assess the activity of this pathway in platelets from diabetic subjects .
+
+Further attempts to estimate platelet function in vivo have involved isotopic labelling of platelets and measurement of platelet survival and assessments of platelet aggregation in whole blood .
+further attempts to estimate platelet function in vivo have involved isotopic labelling of platelets and measurement of platelet survival and assessments of platelet [combination] in whole blood .
+
+Platelet aggregation
+platelet [combination]
+
+For in vitro aggregation studies citrated blood is carefully centrifuged to produce platelet-rich plasma .
+for in vitro [combination] studies citrated blood is carefully centrifuged to produce platelet-rich plasma .
+
+Studies of in vitro aggregation in diabetics date from the late sixties and early seventies .
+studies of in vitro [combination] in diabetics date from the late sixties and early seventies .
+
+However , as Colwell et al have pointed out ( Colwell et al , 1983 ) if enhanced platelet aggregation were to contribute to the pathogenesis of diabetic vascular disease then evidence of it should be present before the development of vascular disease .
+however , as colwell et al have pointed out ( colwell et al , 1983 ) if enhanced platelet [combination] were to contribute to the pathogenesis of diabetic vascular disease then evidence of it should be present before the development of vascular disease .
+
+Increased platelet aggregation has been reported in patients with neuropathy ( O'Malley et al , 1975 ) retinopathy ( Heath et al , 1971 ; Bensoussan et al , 1975 ) and coronary artery disease ( Szirtes , 1970 ) .
+increased platelet [combination] has been reported in patients with neuropathy ( o'malley et al , 1975 ) retinopathy ( heath et al , 1971 ; bensoussan et al , 1975 ) and coronary artery disease ( szirtes , 1970 ) .
+
+Platelet aggregation in whole blood
+platelet [combination] in whole blood
+
+Recently a new method of measuring platelet aggregation has been described ( Cardinal & Flower , 1980 ) which enables platelet aggregation in response to various agonists to be studied in whole blood .
+recently a new method of measuring platelet [combination] has been described ( cardinal & flower , 1980 ) which enables platelet [combination] in response to various agonists to be studied in whole blood .
+
+However , further platelets aggregate to the platelet monolayer when an aggregation agent is added and an accretion of platelets occurs between the two electrodes .
+however , further platelets aggregate to the platelet monolayer when an [combination] agent is added and an accretion of platelets occurs between the two electrodes .
+
+This may be a more physiological approach to the study of platelet aggregation as platelets are studied immediately after blood sampling in the presence of red cells , white cells and the heavier platelets that are removed by the centrifugation step in techniques using platelet-rich plasma .
+this may be a more physiological approach to the study of platelet [combination] as platelets are studied immediately after blood sampling in the presence of red cells , white cells and the heavier platelets that are removed by the centrifugation step in techniques using platelet-rich plasma .
+
+In response to the agonist arachidonic acid ( 1 mM ) which acts via the prostaglandin pathway , and collagen ( 1 μg/ml ) which acts partly directly by adhesion and also via prostaglandin synthesis , whole blood samples from the diabetic subjects showed increased platelet aggregation .
+in response to the agonist arachidonic acid ( 1 mm ) which acts via the prostaglandin pathway , and collagen ( 1 μg/ml ) which acts partly directly by adhesion and also via prostaglandin synthesis , whole blood samples from the diabetic subjects showed increased platelet [combination] .
+
+Spontaneous platelet aggregation
+spontaneous platelet [combination]
+
+Other studies have measured ‘ spontaneous ’ platelet aggregation in platelet-rich plasma and whole blood in vitro using a variety of techniques but mostly involving agitation by stirring .
+other studies have measured ‘ spontaneous ’ platelet [combination] in platelet-rich plasma and whole blood in vitro using a variety of techniques but mostly involving agitation by stirring .
+
+It is difficult to assess the significance of ‘ spontaneous ’ platelet aggregation , that is platelet aggregation induced by stirring alone without the addition of an aggregatory agent .
+it is difficult to assess the significance of ‘ spontaneous ’ platelet [combination] , that is platelet [combination] induced by stirring alone without the addition of an aggregatory agent .
+
+Studies of this kind have demonstrated increased spontaneous in vitro platelet aggregation in insulin-dependent diabetic subjects free from vascular disease ( Krzywanek & Breddin , 1981 ; Paulsen et al , 1981 ; Silberbauer et al , 1981 ) .
+studies of this kind have demonstrated increased spontaneous in vitro platelet [combination] in insulin-dependent diabetic subjects free from vascular disease ( krzywanek & breddin , 1981 ; paulsen et al , 1981 ; silberbauer et al , 1981 ) .
+
+The amount of prostacyclin generated ( assayed by inhibition of ADP-induced aggregation ) by vascular tissue was significantly reduced in these mildly diabetic animals ( Silberbauer et al , 1980 ) .
+the amount of prostacyclin generated ( assayed by inhibition of adp-induced [combination] ) by vascular tissue was significantly reduced in these mildly diabetic animals ( silberbauer et al , 1980 ) .
+
+Hypoglycaemia , as might be expected , may affect platelet function substantially ( Hutton et al , 1979 ; Hilsted et al , 1980 ) , presumably by stimulating the release of counter-regulatory hormones , particularly adrenaline which is known to be a potent stimulus for platelet aggregation .
+hypoglycaemia , as might be expected , may affect platelet function substantially ( hutton et al , 1979 ; hilsted et al , 1980 ) , presumably by stimulating the release of counter-regulatory hormones , particularly adrenaline which is known to be a potent stimulus for platelet [combination] .
+
+This suggested association between lipid and lipoprotein levels and enhanced platelet function in diabetes is supported by many studies which have described abnormal platelet function in hyperlipidaemic non-diabetic subjects ( Nordoy & Rodset , 1971 ; Carvalho et al , 1974 ; Shattil et al , 1977 ; Colman , 1978 ; Joist et al , 1979 ; Tremoli et al , 1979 ) which have measured in vitro platelet aggregation , platelet factor 4 , plasma antiheparin activity and a bleeding-time test .
+this suggested association between lipid and lipoprotein levels and enhanced platelet function in diabetes is supported by many studies which have described abnormal platelet function in hyperlipidaemic non-diabetic subjects ( nordoy & rodset , 1971 ; carvalho et al , 1974 ; shattil et al , 1977 ; colman , 1978 ; joist et al , 1979 ; tremoli et al , 1979 ) which have measured in vitro platelet [combination] , platelet factor 4 , plasma antiheparin activity and a bleeding-time test .
+
+Platelet aggregation
+platelet [combination]
+
+The relationship between platelet aggregation and diabetic control is even more confounding than that for the platelet-specific proteins , various studies either showing no change , increased or decreased platelet aggregation in response to improved glycaemic control .
+the relationship between platelet [combination] and diabetic control is even more confounding than that for the platelet-specific proteins , various studies either showing no change , increased or decreased platelet [combination] in response to improved glycaemic control .
+
+Platelet aggregation in response to adrenaline showed striking changes when studied before and after stabilisation of poorly controlled diabetics ( Peterson et al , 1977 ) in that the lag phase following the addition of adrenaline was prolonged from a mean of 19 to 65 seconds following stabilisation .
+platelet [combination] in response to adrenaline showed striking changes when studied before and after stabilisation of poorly controlled diabetics ( peterson et al , 1977 ) in that the lag phase following the addition of adrenaline was prolonged from a mean of 19 to 65 seconds following stabilisation .
+
+After 24 hours of normoglycaemia platelet aggregation returned to levels seen in non-diabetic controls ( Juhan et al , 1982 ) .
+after 24 hours of normoglycaemia platelet [combination] returned to levels seen in non-diabetic controls ( juhan et al , 1982 ) .
+
+Thus tolbutamide in high concentrations has been shown to inhibit platelet aggregation and interfere with the platelet-release reaction ( Roth et al , 1971 ) .
+thus tolbutamide in high concentrations has been shown to inhibit platelet [combination] and interfere with the platelet-release reaction ( roth et al , 1971 ) .
+
+Hyperglycaemia per se is an important factor predisposing to atheroma , possibly via an effect on platelet aggregation or on structural proteins comprising the tissues of the arterial wall or by mechanisms unknown .
+hyperglycaemia per se is an important factor predisposing to atheroma , possibly via an effect on platelet [combination] or on structural proteins comprising the tissues of the arterial wall or by mechanisms unknown .
+
+There have been a number of published attempts to provide solutions to the cross-area aggregation , or ‘ areal interpolation ’ problem ( Goodchild and Lam 1980 ; Lam 1983 ) .
+there have been a number of published attempts to provide solutions to the cross-area [combination] , or ‘ areal interpolation ’ problem ( goodchild and lam 1980 ; lam 1983 ) .
+
+No other data collection methodology obviates the short distance variation in data sets induced by variations in data collection and aggregation methodology typically encountered between adjacent nation states .
+no other data collection methodology obviates the short distance variation in data sets induced by variations in data collection and [combination] methodology typically encountered between adjacent nation states .
+
+The same argument can be used to explain why growing product variety has increased demand variation at the SKU level : As variety grows , demand is distributed among an increasing number of SKUs , thereby reducing the pooling effects of demand aggregation .
+the same argument can be used to explain why growing product variety has increased demand variation at the sku level : as variety grows , demand is distributed among an increasing number of skus , thereby reducing the pooling effects of demand [combination] .
+
+Because the financial reports of the Federal Government present the aggregation of information about stewardship investments and assets related to varied agencies and programs , further deliberations by the Board are needed to reach a decision on the amount and nature of information to be required under this standard for reporting in the consolidated financial report .
+because the financial reports of the federal government present the [combination] of information about stewardship investments and assets related to varied agencies and programs , further deliberations by the board are needed to reach a decision on the amount and nature of information to be required under this standard for reporting in the consolidated financial report .
+
+An aggregation of actions performed within an organization that is useful for purposes of activity-based costing .
+an [combination] of actions performed within an organization that is useful for purposes of activity-based costing .
+
+The natural aggregation of work activities and tasks performed for program delivery .
+the natural [combination] of work activities and tasks performed for program delivery .
+
+An aggregation of hardware and/or software that isConfiguration designated for configuration management and treatedItem as a single entity in the configuration management process .
+an [combination] of hardware and/or software that isconfiguration designated for configuration management and treateditem as a single entity in the configuration management process .
+
+The first possibility is that the number of instances will need to be fairly large in order to achieve the generalizability wanted , and , as a consequence , skill will be needed to manage data collection with sufficient flexibility to obtain the insights case studies offer and sufficient structure to permit cross-site aggregation of findings .
+the first possibility is that the number of instances will need to be fairly large in order to achieve the generalizability wanted , and , as a consequence , skill will be needed to manage data collection with sufficient flexibility to obtain the insights case studies offer and sufficient structure to permit cross-site [combination] of findings .
+
+The latter are helpful in retrospective cumulation as a means of obtaining information from the authors that permits an otherwise unusable case study to be included in the aggregation .
+the latter are helpful in retrospective cumulation as a means of obtaining information from the authors that permits an otherwise unusable case study to be included in the [combination] .
+
+In a strong chain of evidence , an independent second evaluator could follow the first evaluator from original observations , the `` raw '' or unreduced data , through all the steps of data aggregation and analysis , and conclude that the first evaluator 's findings were justified by the evidence and fairly represented it .
+in a strong chain of evidence , an independent second evaluator could follow the first evaluator from original observations , the `` raw '' or unreduced data , through all the steps of data [combination] and analysis , and conclude that the first evaluator 's findings were justified by the evidence and fairly represented it .
+
+In the second approach , aggregation would come after all the sites had been charted , and the charts would be used as the data base for aggregation .
+in the second approach , [combination] would come after all the sites had been charted , and the charts would be used as the data base for [combination] .
+
+Glossary Backfill Techniques Techniques used in cumulative case studies to collect information needed if the study is to be usable for aggregation ; these techniques include , for example , obtaining missing information from the authors on how instances studied were identified and on the bases for instance selection .
+glossary backfill techniques techniques used in cumulative case studies to collect information needed if the study is to be usable for [combination] ; these techniques include , for example , obtaining missing information from the authors on how instances studied were identified and on the bases for instance selection .
+
+Section II ( Analytical Approach ) discusses the analytic framework used in conducting this assessment , which includes scenario development , emissions modeling , air quality modeling , human health and visibility effects estimation , economic valuation , and adjustments for income growth and benefits aggregation .
+section ii ( analytical approach ) discusses the analytic framework used in conducting this assessment , which includes scenario development , emissions modeling , air quality modeling , human health and visibility effects estimation , economic valuation , and adjustments for income growth and benefits [combination] .
+
+Scrapie is a wonderful example of systematic surveillance but , to be fair to the decision-makers and technical people involved with CWD , surveillance on wildlife species is very difficult. ” The USDA 's Goeldner declares , “ We have the goal and the hope to eradicate the disease from the farm population. ” Colorado Department of Wildlife veterinarian and CWD expert Mike Miller warns , “ Given existing tools , it seems unlikely that CWD can be eradicated from free-ranging populations once established. ” The gold standard of diagnosis is based on examination of the brain for spongiform lesions and abnormal prion aggregation .
+scrapie is a wonderful example of systematic surveillance but , to be fair to the decision-makers and technical people involved with cwd , surveillance on wildlife species is very difficult. ” the usda 's goeldner declares , “ we have the goal and the hope to eradicate the disease from the farm population. ” colorado department of wildlife veterinarian and cwd expert mike miller warns , “ given existing tools , it seems unlikely that cwd can be eradicated from free-ranging populations once established. ” the gold standard of diagnosis is based on examination of the brain for spongiform lesions and abnormal prion [combination] .
+
+This process could provide 60 % of the sulfide needed by a tubeworm aggregation to persist for 80 y .
+this process could provide 60 % of the sulfide needed by a tubeworm [combination] to persist for 80 y .
+
+While some have valid criticisms of the assumptions and aggregation of historic data used to assess the global situation , few disagree with the overriding conclusion that humans have drastically altered not only fish biodiversity , but , increasingly , the ocean itself .
+while some have valid criticisms of the assumptions and [combination] of historic data used to assess the global situation , few disagree with the overriding conclusion that humans have drastically altered not only fish biodiversity , but , increasingly , the ocean itself .
+
+Named after their discoverer , these “ Lewy bodies ” are one piece of evidence that protein aggregation is related to the ongoing disease process .
+named after their discoverer , these “ lewy bodies ” are one piece of evidence that protein [combination] is related to the ongoing disease process .
+
+Aggregation of α-Synuclein in Neurodegeneration On the detrimental side of the cell survival equation is the PD gene that was discovered first , α -synuclein .
+[combination] of α-synuclein in neurodegeneration on the detrimental side of the cell survival equation is the pd gene that was discovered first , α -synuclein .
+
+The synaptic protein encoded by this gene , α-synuclein , is prone to aggregation , and , as is the case for other aggregating proteins , mutations in α- synuclein are associated with dominantly inherited disease .
+the synaptic protein encoded by this gene , α-synuclein , is prone to [combination] , and , as is the case for other aggregating proteins , mutations in α- synuclein are associated with dominantly inherited disease .
+
+All of these mutations increase the tendency of α-synuclein to aggregate , suggesting that disease is a consequence of protein aggregation .
+all of these mutations increase the tendency of α-synuclein to aggregate , suggesting that disease is a consequence of protein [combination] .
+
+An interesting example is the triplication of the wild-type gene : toxicity and aggregation can both be driven by increased expression and are thus qualitative , not quantitative , effects ( Singleton et al .
+an interesting example is the triplication of the wild-type gene : toxicity and [combination] can both be driven by increased expression and are thus qualitative , not quantitative , effects ( singleton et al .
+
+Several commentators have suggested that non-genetic risk factors may also promote damage via their effects on ( wild-type ) α-synuclein conformation or aggregation ( e.g. , Di Monte 2003 ) .
+several commentators have suggested that non-genetic risk factors may also promote damage via their effects on ( wild-type ) α-synuclein conformation or [combination] ( e.g. , di monte 2003 ) .
+
+Smoking also enhances platelet aggregation , impairs lipoprotein metabolism , depresses high-density lipoprotein ( HDL ) cholesterol , and reduces distensibility of vessel walls [ 3,4 ] .
+smoking also enhances platelet [combination] , impairs lipoprotein metabolism , depresses high-density lipoprotein ( hdl ) cholesterol , and reduces distensibility of vessel walls [ 3,4 ] .
+
+The infectious agent in these diseases is an abnormal conformation of the PrP protein ( PrP Sc ) , which makes it protease-resistant and initiates its aggregation ( Prusiner 1998 ) .
+the infectious agent in these diseases is an abnormal conformation of the prp protein ( prp sc ) , which makes it protease-resistant and initiates its [combination] ( prusiner 1998 ) .
+
+The prion domains are the major structural determinants that are solely responsible for the polypeptide aggregation and propagation of the aggregates .
+the prion domains are the major structural determinants that are solely responsible for the polypeptide [combination] and propagation of the aggregates .
+
+Aggregation of these proteins leads to phenotypes ( e.g. , suppression of nonsense mutations or transport defects ) inherited in a non-Mendelian fashion owing to the nonchromosomal basis of the inheritance .
+[combination] of these proteins leads to phenotypes ( e.g. , suppression of nonsense mutations or transport defects ) inherited in a non-mendelian fashion owing to the nonchromosomal basis of the inheritance .
+
+Some of the Q/N-rich or polyQ domains facilitate aggregation of polypeptides , especially if expanded owing to mutations .
+some of the q/n-rich or polyq domains facilitate [combination] of polypeptides , especially if expanded owing to mutations .
+
+Even if a protein with a polyQ domain does not form a prion , its aggregation may depend on certain prions .
+even if a protein with a polyq domain does not form a prion , its [combination] may depend on certain prions .
+
+For example , recent experiments demonstrated that [ RNQ + ] prion dramatically stimulated aggregation of fragments of recombinant human huntingtin or ataxin-3 with an expanded polyQ domain cloned in yeast ( Osherovich and Weissman 2001 ; Meriin et al .
+for example , recent experiments demonstrated that [ rnq + ] prion dramatically stimulated [combination] of fragments of recombinant human huntingtin or ataxin-3 with an expanded polyq domain cloned in yeast ( osherovich and weissman 2001 ; meriin et al .
+
+The major question now is whether there are analogous prion-like proteins in mammalian cells that are involved in aggregation of huntingtin or ataxin-3 and subsequent neurodegenerative disease .
+the major question now is whether there are analogous prion-like proteins in mammalian cells that are involved in [combination] of huntingtin or ataxin-3 and subsequent neurodegenerative disease .
+
+This factor is specifically required for maintenance of all known prions within generations and probably is not involved in prion formation ( i.e. , initial protein aggregation ) .
+this factor is specifically required for maintenance of all known prions within generations and probably is not involved in prion formation ( i.e. , initial protein [combination] ) .
+
+They noted that both prion proteins contain an oligopeptide repeat QGGYQ in close proximity to Q/N-rich sequences and examined the functional significance of the repeats for aggregation and maintenance of the prions .
+they noted that both prion proteins contain an oligopeptide repeat qggyq in close proximity to q/n-rich sequences and examined the functional significance of the repeats for [combination] and maintenance of the prions .
+
+In New1 , in contrast to a deletion of the N-rich domain , deletion of the repeat did not affect aggregation of the protein or formation of the prion , but abrogated inheritance of the prion .
+in new1 , in contrast to a deletion of the n-rich domain , deletion of the repeat did not affect [combination] of the protein or formation of the prion , but abrogated inheritance of the prion .
+
+With Sup35 , the situation was somewhat more complicated , since repeats adjacent to Q/N-rich domain affected both protein aggregation and prion maintenance while more distant repeats affected only the prion inheritance .
+with sup35 , the situation was somewhat more complicated , since repeats adjacent to q/n-rich domain affected both protein [combination] and prion maintenance while more distant repeats affected only the prion inheritance .
+
+This work , therefore , clarifies the architecture of prions by defining two structural motifs in prion proteins that have distinct functions in aggregation and propagation .
+this work , therefore , clarifies the architecture of prions by defining two structural motifs in prion proteins that have distinct functions in [combination] and propagation .
+
+The inside-out signaling protects the host from excessive integrin-mediated cell adhesion , which could , for example , lead to spontaneous aggregation of blood cells and have profound pathological consequences .
+the inside-out signaling protects the host from excessive integrin-mediated cell adhesion , which could , for example , lead to spontaneous [combination] of blood cells and have profound pathological consequences .
+
+Models of populations with seasonally forced , dynamic interactions ( births , deaths , aggregation , or disease transmission ) reveal an array of possible responses , from simple yearly cycles , through cycles that repeat with longer periods , to irregular chaotic fluctuations .
+models of populations with seasonally forced , dynamic interactions ( births , deaths , [combination] , or disease transmission ) reveal an array of possible responses , from simple yearly cycles , through cycles that repeat with longer periods , to irregular chaotic fluctuations .
+
+It 's only through the aggregation of independent individual conclusions that it is .
+it 's only through the [combination] of independent individual conclusions that it is .
+

@@ -1,0 +1,108 @@
+uncertainty about means or approaches , i.e. how such an endpoint is likely to be arrived at .
+uncertainty about means or approaches , i.e. how such an [end] is likely to be arrived at .
+
+And it would seem similarly improbable , for the same statistical reasons , that two lines of evolution should converge on exactly the same endpoint from different starting points .
+and it would seem similarly improbable , for the same statistical reasons , that two lines of evolution should converge on exactly the same [end] from different starting points .
+
+It is all the more striking a testimony to the power of natural selection , therefore , that numerous examples can be found in real nature , in which independent lines of evolution appear to have converged , from very different starting points , on what looks very like the same endpoint .
+it is all the more striking a testimony to the power of natural selection , therefore , that numerous examples can be found in real nature , in which independent lines of evolution appear to have converged , from very different starting points , on what looks very like the same [end] .
+
+They have arrived at a similar endpoint , from a very different starting point .
+they have arrived at a similar [end] , from a very different starting point .
+
+As with all creative activity , the final synthesis of ideas represents the endpoint of a great deal of thinking , of preoccupation with some problem .
+as with all creative activity , the final synthesis of ideas represents the [end] of a great deal of thinking , of preoccupation with some problem .
+
+Thus no randomised trial with mortality as a pre-specified endpoint has shown a benefit of heparin as sole adjunctive therapy for thrombolysis .
+thus no randomised trial with mortality as a pre-specified [end] has shown a benefit of heparin as sole adjunctive therapy for thrombolysis .
+
+The patient 's death was the endpoint .
+the patient 's death was the [end] .
+
+However , if the primary endpoint for efficacy is the need for donor blood , differences become apparent .
+however , if the primary [end] for efficacy is the need for donor blood , differences become apparent .
+
+The solution in the finite horizon case is not entirely general because of the endpoint problems which arise when attempting to solve the relation ( 7 ) for a sequence Ct .
+the solution in the finite horizon case is not entirely general because of the [end] problems which arise when attempting to solve the relation ( 7 ) for a sequence ct .
+
+Copy on the two endpoint values .
+copy on the two [end] values .
+
+Endpoint smoothing
+[end] smoothing
+
+To provide a smooth endpoint value , we replace y 1 by z 1 , the median of y , y 1 and z 2 ; in this case , the median of 42.2 , 40 and 45.2 is 42.2 , so this becomes the new , smoothed endpoint value .
+to provide a smooth [end] value , we replace y 1 by z 1 , the median of y , y 1 and z 2 ; in this case , the median of 42.2 , 40 and 45.2 is 42.2 , so this becomes the new , smoothed [end] value .
+
+However , fecundity must equal or exceed 50 % to be used as an endpoint in the test .
+however , fecundity must equal or exceed 50 % to be used as an [end] in the test .
+
+NATIONAL INTERLABORATORY STUDY OF CHRONIC TOXICITY TEST PRECISION , 1991 : SUMMARY OF RESPONSES USING TWO REFERENCE TOXICANTS1,2 4 Organism Endpoint No .
+national interlaboratory study of chronic toxicity test precision , 1991 : summary of responses using two reference toxicants1,2 4 organism [end] no .
+
+Labs KCl ( mg/L ) SD CV ( % ) 3 Mysidopsis Survival , NOEC bahia Growth , IC25 Growth , IC50 Growth , NOEC Fecundity , NOEC 34 NA NANA 26 480 3.47 28.9 22 656 3.17 19.3 32 NA NANA 25 NA NANA Organism Endpoint No .
+labs kcl ( mg/l ) sd cv ( % ) 3 mysidopsis survival , noec bahia growth , ic25 growth , ic50 growth , noec fecundity , noec 34 na nana 26 480 3.47 28.9 22 656 3.17 19.3 32 na nana 25 na nana organism [end] no .
+
+In tests using copper , the No Observable Effect Concentrations ( NOECs ) were the same for both types of test , and growth was the most sensitive endpoint for both .
+in tests using copper , the no observable effect concentrations ( noecs ) were the same for both types of test , and growth was the most sensitive [end] for both .
+
+NATIONAL INTERLABORATORY STUDY OF CHRONIC TOXICITY TEST PRECISION , 1991 : SUMMARY OF RESPONSES USING A REFERENCE TOXICANT1 Organism Endpoint No .
+national interlaboratory study of chronic toxicity test precision , 1991 : summary of responses using a reference toxicant1 organism [end] no .
+
+Organism Endpoint Number of Tests2 CV ( % ) 3 Pimephales promelas Growth , IC25 73 20.9 Ceriodaphnia dubia Reproduction , IC25 34 35.0 Selenastrum capricornutum ( with EDTA ) Growth , IC25 21 34.3 Growth , IC50 22 32.2 Selenastrum capricornutum ( without EDTA ) Growth , IC25 21 58.5 Growth , IC50 22 58.5 1 From EPA 's WET Interlaboratory Variability Study ( USEPA , 2001a ; USEPA , 2001b ) .
+organism [end] number of tests2 cv ( % ) 3 pimephales promelas growth , ic25 73 20.9 ceriodaphnia dubia reproduction , ic25 34 35.0 selenastrum capricornutum ( with edta ) growth , ic25 21 34.3 growth , ic50 22 32.2 selenastrum capricornutum ( without edta ) growth , ic25 21 58.5 growth , ic50 22 58.5 1 from epa 's wet interlaboratory variability study ( usepa , 2001a ; usepa , 2001b ) .
+
+With the exception of the short-term mortality endpoint , the choice of C-R functions and the majority of the analytical assumptions used to develop our estimates have been reviewed and approved by EPA 's Science Advisory Board ( SAB ) .
+with the exception of the short-term mortality [end] , the choice of c-r functions and the majority of the analytical assumptions used to develop our estimates have been reviewed and approved by epa 's science advisory board ( sab ) .
+
+Non-overlapping endpoints Although the benefits associated with each individual health endpoint may be analyzed separately , care must be exercised in selecting health endpoints to include in the overall benefits analysis because of the possibility of double counting of benefits .
+non-overlapping endpoints although the benefits associated with each individual health [end] may be analyzed separately , care must be exercised in selecting health endpoints to include in the overall benefits analysis because of the possibility of double counting of benefits .
+
+Concentration-response relationships between a pollutant and a given health endpoint are applied consistently across all locations nationwide .
+concentration-response relationships between a pollutant and a given health [end] are applied consistently across all locations nationwide .
+
+The size of the mortality risk estimates from these epidemiological studies , the serious nature of the effect itself , and the high monetary value ascribed to prolonging life make mortality risk reduction the most important health endpoint quantified in this analysis .
+the size of the mortality risk estimates from these epidemiological studies , the serious nature of the effect itself , and the high monetary value ascribed to prolonging life make mortality risk reduction the most important health [end] quantified in this analysis .
+
+Because of the importance of this endpoint and the considerable uncertainty among economists and policymakers as to the appropriate way to value reductions in mortality risks , this section discusses some of the issues surrounding the estimation of premature mortality .
+because of the importance of this [end] and the considerable uncertainty among economists and policymakers as to the appropriate way to value reductions in mortality risks , this section discusses some of the issues surrounding the estimation of premature mortality .
+
+The contingent valuation ( CV ) method has been employed in the economics literature to value endpoint changes for visibility ( Chestnut and Rowe , 1990a , 1990b ; Chestnut and Dennis , 1997 ) .
+the contingent valuation ( cv ) method has been employed in the economics literature to value [end] changes for visibility ( chestnut and rowe , 1990a , 1990b ; chestnut and dennis , 1997 ) .
+
+Endpoint Pollutant Valuation per case Valuation per case ( 2010 mean est . )
+[end] pollutant valuation per case valuation per case ( 2010 mean est . )
+
+Application of C-R Relationship Nationwide Whether this analysis estimated the C-R relationship between a pollutant and a given health endpoint using a single function from a single study or using multiple C-R functions from several studies , each C-R relationship was applied uniformly throughout the U.S. to generate health benefit estimates .
+application of c-r relationship nationwide whether this analysis estimated the c-r relationship between a pollutant and a given health [end] using a single function from a single study or using multiple c-r functions from several studies , each c-r relationship was applied uniformly throughout the u.s. to generate health benefit estimates .
+
+As such , there may still be potential for confounding of PM2.5 and ozone mortality effects , as ozone and PM2.5 are highly correlated during summer months in some areas.25 In its September 2001 advisory on the draft analytical blueprint for the second Section 812 prospective analysis , the SAB cited the Thurston and Ito study as a significant advance in understanding the effects of ozone on daily mortality and recommended re-evaluation of the ozone mortality endpoint for inclusion in the next prospective study ( EPA-SAB-COUNCIL-ADV-01-004 , 2001 ) .
+as such , there may still be potential for confounding of pm2.5 and ozone mortality effects , as ozone and pm2.5 are highly correlated during summer months in some areas.25 in its september 2001 advisory on the draft analytical blueprint for the second section 812 prospective analysis , the sab cited the thurston and ito study as a significant advance in understanding the effects of ozone on daily mortality and recommended re-evaluation of the ozone mortality [end] for inclusion in the next prospective study ( epa-sab-council-adv-01-004 , 2001 ) .
+
+Exhibit 12 presents the mean estimate of avoided health effects in 2010 and 2020 for each health endpoint included in the Base analysis .
+exhibit 12 presents the mean estimate of avoided health effects in 2010 and 2020 for each health [end] included in the base analysis .
+
+Exhibit 15 presents the mean estimate of avoided health effects in 2010 and 2020 for each health endpoint included in the Base analysis .
+exhibit 15 presents the mean estimate of avoided health effects in 2010 and 2020 for each health [end] included in the base analysis .
+
+Although quasi-epidemic transmission would seem to be a special case , it may in fact be the rule for many hospital-acquired bacteria because it is the natural endpoint of the interplay between economics and ecology [ 30 ] .
+although quasi-epidemic transmission would seem to be a special case , it may in fact be the rule for many hospital-acquired bacteria because it is the natural [end] of the interplay between economics and ecology [ 30 ] .
+
+Additionally , one would expect morbidity risk to subside first , since mortality is a more distant endpoint .
+additionally , one would expect morbidity risk to subside first , since mortality is a more distant [end] .
+
+In this regard , the paper by Epstein and colleagues has done an admirable job of scoring for functional phenotypes ( for example , having action potentials and calcium transients ) that are far beyond the simple expression of cardiac muscle markers , which has been the phenotypic endpoint for many previous papers in the field .
+in this regard , the paper by epstein and colleagues has done an admirable job of scoring for functional phenotypes ( for example , having action potentials and calcium transients ) that are far beyond the simple expression of cardiac muscle markers , which has been the phenotypic [end] for many previous papers in the field .
+
+The primary endpoint was the time to viral rebound above 50,000 copies/ml once or above 5,000 copies for three determinations separated by a week each .
+the primary [end] was the time to viral rebound above 50,000 copies/ml once or above 5,000 copies for three determinations separated by a week each .
+
+The primary endpoint was the time to viral rebound to more than 50,000 copies/ml or viral loads above 5,000 copies/ml for three determinations separated by a week each .
+the primary [end] was the time to viral rebound to more than 50,000 copies/ml or viral loads above 5,000 copies/ml for three determinations separated by a week each .
+
+Hawkins ' quest , and-depending on which statements of the book you read-its endpoint ( ‘ … a comprehensive theory of how the brain works … describ [ ing ] what intelligence is and how your brain creates it ’ ) or just its tipping point ( ‘ join me , along with others who take up the challenge ’ ) , are the subject here .
+hawkins ' quest , and-depending on which statements of the book you read-its [end] ( ‘ … a comprehensive theory of how the brain works … describ [ ing ] what intelligence is and how your brain creates it ’ ) or just its tipping point ( ‘ join me , along with others who take up the challenge ’ ) , are the subject here .
+
+Perhaps the logical endpoint of onomatopoetic spelling is eye-dialect , as in wimmin for women , gotcha for got you , and so on .
+perhaps the logical [end] of onomatopoetic spelling is eye-dialect , as in wimmin for women , gotcha for got you , and so on .
+

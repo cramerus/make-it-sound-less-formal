@@ -1,3 +1,5 @@
+# on aggregate -> in total
+
 Aggregate sales during 1960 reached approximately $500 million .
 [combine] sales during 1960 reached approximately $500 million .
 

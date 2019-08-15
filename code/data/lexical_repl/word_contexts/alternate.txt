@@ -1,3 +1,5 @@
+# verb: switch; every other; an alternate -> another...
+
 The judge replaced the juror with an alternate .
 the judge replaced the juror with an [other/change] .
 

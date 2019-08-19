@@ -1,3 +1,5 @@
+# better: resistant
+
 Sheeting cast from this material reportedly weighs only one-third as much as glass , is impervious to all kinds of weather , and will not yellow .
 sheeting cast from this material reportedly weighs only one-third as much as glass , is [unaffected] to all kinds of weather , and will not yellow .
 

@@ -1,3 +1,5 @@
+# add: clear up
+
 One obvious approach to elucidate the function of DNA-PK-mediated phosphorylation will be to define sites of phosphorylation on transcription factors and determine whether mutation of these sites affects factor activity .
 one obvious approach to [explain] the function of dna-pk-mediated phosphorylation will be to define sites of phosphorylation on transcription factors and determine whether mutation of these sites affects factor activity .
 

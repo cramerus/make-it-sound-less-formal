@@ -1,3 +1,5 @@
+# better: ban, keep out
+
 for , in either event , the first possibility is excluded .
 for , in either event , the first possibility is [not included] .
 

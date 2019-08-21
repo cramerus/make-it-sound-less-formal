@@ -1,3 +1,6 @@
+# let has to change - remove the 'to'. allow stay the same.
+# pass for noun
+
 Fulton legislators `` work with city officials to pass enabling legislation that will permit the establishment of a fair and equitable '' pension plan for city employes .
 fulton legislators `` work with city officials to pass enabling legislation that will [let/allow] the establishment of a fair and equitable '' pension plan for city employes .
 

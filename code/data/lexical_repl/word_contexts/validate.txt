@@ -1,3 +1,5 @@
+# add confirm
+
 If the indenture is accepted , the authority will proceed to validate a bond issue repayable from revenue .
 if the indenture is accepted , the authority will proceed to [check] a bond issue repayable from revenue .
 

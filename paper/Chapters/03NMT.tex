@@ -1,0 +1,341 @@
+\chapter{Neural Machine Translation}
+
+\label{Chapter03}
+
+\section{Motivation}
+
+As has been established, from a research perspective, the standard approach to the problem of machine translation is a encoder-decoder sequence-to-sequence neural network with attention. This applies even if, as in this case, the problem is translation between registers within the same language.
+
+This method, however, is not necessarily ideal for this particular task and use case; it may be better to translate less of a sentence, and keep its grammatically, fluency and semantics intact, than to achieve a greater degree of informality at the expense of the sentence's coherence or correctness. That is, these models, particularly when not trained on very large datasets, can often output gibberish (think of your funniest Google Translate output).
+
+Still, it remains worthwhile (and sensible) to explore the best-performing algorithms, if only to set a reasonable baseline and expectation for the project. Thus, the first step of this thesis was to reimplement, with relevant changes, the approach of \cite{rao2018gyafc} in applying sequence-to-sequence NMT to the first large parallel dataset of formal and informal sentences. Instead of focusing on the informal to formal direction, however, our methods would center around formal to informal language translation, thereby bringing to the table a different perspective and in the end, different takeaways.
+
+In this section I present and discuss the results of these experiments. Overall, I trained three seq2seq models, and found that regardless of their parameters they could not generalize well to out-of-domain technical data. I also carry out a human evaluation of a sample of the test data to get restricted qualitative and quantitative results, and argue that BLEU is not a suitable metric to evaluate intralanguage style transfer.
+
+\section{Data}
+
+The primary dataset used was the GYAFC, as described in \ref{gyafc}. It is already split up into train, tune and test datasets: the training set consists of approximately 100,000 sentences, the validation set of about 4600, and the test set has around 2100 sentences.
+
+A smaller test dataset was compiled for testing experimentation from technical documents regarding Microsoft Azure.
+
+\subsection{GYAFC}
+
+From the start, it was clear that certain aspects of the informal data in the GYAFC dataset were undesirable for the purposes of this work. Although a model's ability to learn chatspeak and all forms of spelling and grammar errors would be impressive in its way, in the end the goal for this use case is not to suggest that people replace ``your'' with ``ur'' in their texts. Furthermore, it is more interesting to explore the less surface-level aspects of formality, the possible syntactic, lexical and semantic characteristics. With that said, it was important to implement preprocessing techniques to normalize the dataset on the informal side and carry out some rule-based corrections already.
+
+\subsubsection{Preprocessing}
+
+\begin{table}[h]
+\centering
+ \begin{tabular}{|| p{3.5cm} | p{3.5cm} | p{5cm} ||} 
+ \hline
+ Type of Correction & Typical Errors & Correction Example \\ [0.3ex] 
+ \hline\hline
+ Missing Apostrophe & im $\rightarrow$ I'm 
+                    \newline cant $\rightarrow$ can't
+                    \newline thats $\rightarrow$ that's
+                    & i \textbf{didnt} know u were a cop \newline I \textbf{didn't} know you were a cop. \\
+ \hline
+ Normalization      & urself $\rightarrow$ yourself
+                    \newline shud $\rightarrow$ should
+                    \newline luv $\rightarrow$ love
+                    & i didnt know \textbf{u} were a cop \newline I didn't know \textbf{you} were a cop. \\
+ \hline
+ Spelling errors      & alot $\rightarrow$ a lot 
+                    \newline teh $\rightarrow$ the
+                    \newline realllllllllllllly $\rightarrow$ really
+                    & just type \textbf{teh} song name and mp3 in google \newline Just type \textbf{the} song name and mp3 in google \\
+ \hline
+ Capitalization     & All caps
+                    \newline First letter not capitalized
+                    \newline ``I'' not capitalized
+                    & IS THERE HOPE OR AM I JUST OUT OF LUCK? \newline Is there hope or am I just out of luck? \\
+ \hline
+ Punctuation        & Repeated punctuation
+                    \newline Extra whitespace
+                    \newline Missing space
+                    & wow song i havent heard in years\textbf{!!!!!!!} \newline Wow song I haven't heard in years\textbf{!} \\
+ \hline
+\end{tabular}
+\caption{Types of rule-based corrections used as preprocessing of the informal data in the GYAFC dataset.}
+\label{gyafcpreprocessing}
+\end{table}
+
+Some examples of the different rules that were applied to the informal data can be seen in Table \ref{gyafcpreprocessing}. Although these mostly surface-level corrections alone could not remove all errors and chatspeak-type slang from the informal sentences, the hope was that it was a start that would force the model to learn other formal characteristics.
+
+\subsection{Microsoft Dataset}
+
+The Microsoft dataset was compiled from a collection documentation regarding the use of Azure, Microsoft's cloud computing software (\cite{microsoft2019azure}). Once processed, it consists of approximately 240,000 sentences. There are no parallel informal sentences for these texts; it was collected because these texts are closer to being relevant for the intended use case of the model than the GYAFC sentences, and as such a model's output on this dataset, if sensible, would be both a testament to its performance on out-of-domain data but also an evaluation of its appropriateness for solving this task.
+
+\section{Experiments}
+
+Three models were trained using OpenNMT (refer to \ref{opennmt}) on the GYAFC dataset with the formal sentences as the source data and the informal sentences as the target. All models were trained for the default of 100,000 iterations, with some important distinctions between them.
+
+The first model, which I will refer to as \textbf{Base}, was the closest to the structure in the experiments done by \cite{rao2018gyafc}. It kept default OpenNMT parameters and used pretrained word embeddings, which were trained using GloVe on the overall Yahoo! Answers Corpus --- this includes the GYAFC data, but is not restricted to the ``Entertainment \& Music'' and ``Family \& Relationships'' categories (\cite{pennington2014glove}).
+
+The second, \textbf{Copy}, included two prominent changes from Base. Copy attention, as described in \cite{jhamtani2017copy}, was added to the architecture, with the thought that it would better enable the model to keep the important and formality-irrelevant parts of the input sentence intact. Additionally, in order to allow the model to better handle out-of-domain data, the Yahoo-trained word embeddings were replaced with 300-dimensional pretrained word embeddings from GloVe. These embeddings were trained by GloVe on 6 billion tokens from Wikipedia and Gigaword news data, a more generic set of texts than the Yahoo! Answers data (\cite{pennington2014glove}).
+
+And the last, \textbf{CopyNoEnt}, kept the architecture and pretrained word embeddings that Copy used. The difference between them, instead, was in an additional preprocessing step for the training set. The GYAFC data, considering the categories of Yahoo! Answers that they were taken from, contain many named entities, particularly in the ``Entertainment \& Music'' domain. Using the Natural Language Toolkit, I replaced all named entities in the dataset with an ``ENT'' mask (\cite{bird2009nltk}). CopyNoEnt was trained on this dataset with the intent to further enable generalization outside of the training data's domain.
+
+\section{Results}
+
+Predictions were obtained using all three models on the small GYAFC test sets. I also gathered predictions for the entirety of the large Microsoft dataset using the CopyNoEnt model.
+
+I evaluated the results with two automatic metrics: BLEU, and the Lexical Formality score of Acrolinx detailed in \ref{lf}. I also sampled 100 sentences from the GYAFC test set and performed human evaluation over the dimensions of formality, fluency and meaning preservation. Lastly, I include observations on the models gained from manual inspection of the predicted text, particularly for the Microsoft dataset, since no parallel text for those data is available for automatic evaluation.
+
+\subsection{BLEU}
+
+\begin{table}[h]
+\centering
+ \begin{tabular}{|| c | r ||} 
+ \hline
+ Model & GYAFC BLEU \\ [0.3ex] 
+ \hline\hline
+ Base & $73.96$ \\
+ \hline
+ Copy & $74.94$ \\
+ \hline
+ CopyNoEnt & $75.25$ \\
+ \hline
+\end{tabular}
+\caption{BLEU results for GYAFC test set on OpenNMT models.}
+\label{opennmtbleu}
+\end{table}
+
+As BLEU remains a central standard for evaluating machine translation output, I included it in my evaluation. Using NLTK, I calculated the score using all four reference translations for each test sample. The results are in Table \ref{opennmtbleu}. Though performances are very similar, the CopyNoEnt model outperforms the other two. Since no parallel text exists for the Microsoft dataset, BLEU scores were not determined there.
+
+\subsection{Lexical Formality Score}
+
+The Lexical Formality (LF) score developed at Acrolinx can only give an idea of the formality of a sentence, not whether or not its meaning has been preserved through translation or if its fluency is still intact. However, it still provides a quantitative sense of how much the formality of a sentence has changed through translation, by examining the difference in LF score between source and predicted text.
+
+\begin{table}[h]
+\centering
+ \begin{tabular}{|| c | r ||} 
+ \hline
+ Data & Avg LF  \\ [0.3ex] 
+ \hline\hline
+ source & $-0.193$ \\
+ \hline
+ target & $-0.214$ \\
+ \hline
+ base-pred & $-0.218$ \\
+ \hline
+ copy-pred & $-0.218$ \\
+ \hline
+ copynoent-pred & $-0.218$ \\
+ \hline
+\end{tabular}
+\caption{LF score results for GYAFC test set on OpenNMT models.}
+\label{gyafc-lf-scores}
+\end{table}
+
+LF scores for each sentence were calculating by averaging the scores for each word, skipping unknown words. The average sentence score for each dataset, including the source (formal) data, the average of all the target (informal) references, and each model's predicted output, is shown in Table \ref{gyafc-lf-scores}. Recalling that a more negative score (closer to -1) means a more informal rating, it is clear that the source data is judged to be more formal than the target data and all predicted data; however, the differences between the three models are not large enough to show distinctive variation in this metric.
+
+\begin{table}[h]
+\centering
+ \begin{tabular}{|| c | r | r ||} 
+ \hline
+ Data & \% More Informal & Avg LF Diff \\ [0.3ex] 
+ \hline\hline
+ target & $67.6\%$ & 0.0214 \\
+ \hline
+ base-pred & $69.3\%$ & 0.0254 \\
+ \hline
+ copy-pred & $68.6\%$ & 0.0253 \\
+ \hline
+ copynoent-pred & $68.0\%$ & 0.0246 \\
+ \hline
+\end{tabular}
+\caption{More comparative LF score results for GYAFC test set on OpenNMT models.}
+\label{gyafc-lf-compare-scores}
+\end{table}
+
+Another interesting way to evaluate the results using the LF score is to see what percentage of the output sentences have a more negative (i.e. more informal) score than their input sentence. That is, according to the LF score, how many translated sentences actually became more informal? Results are given in Table \ref{gyafc-lf-compare-scores}.
+
+Looking at these metrics, it would appear that all three NMT models actually resulted in less formal sentences than the target data; both the percentage of sentences which became more informal and the reduction in LF score are higher than the target data across the board. Of course, this does not take into account preservation of meaning or sentence fluency.
+
+\begin{table}[h]
+\centering
+ \begin{tabular}{|| c | r ||} 
+ \hline
+ Criterion & Score \\ [0.3ex] 
+ \hline\hline
+ Avg source LF & $-0.089$ \\
+ \hline
+ Avg pred LF & $-0.159$ \\
+ \hline
+ Avg LF difference & $0.070$ \\
+ \hline
+ \% More Informal & $89.1\%$ \\
+ \hline
+\end{tabular}
+\caption{LF results for the Microsoft sentences.}
+\label{microsoft-lf}
+\end{table}
+
+Lastly, I applied these same criteria to the predicted informal translations for the Microsoft data by the CopyNoEnt model. Without target data to compare to, the results (displayed in Table \ref{microsoft-lf}) are less informative, but still worthwhile. 
+
+Looking at these results, it is clear that: the Microsoft data were originally more formal than the GYAFC data, and the models were able to make a larger change in formality in these sentences than in the GYAFC sentences. A higher percentage of the Microsoft sentences end up more informal than their source counterparts. At first glance this may indicate that the models perform well on the Microsoft data, but, again, more information is necessary to make this claim.
+
+\subsection{Human Evaluation}
+
+\begin{table}[h]
+\centering
+ \begin{tabular}{|| c | c | c | c ||} 
+ \hline
+ Score & Formality & Fluency & Meaning \\ [0.3ex] 
+ \hline\hline
+ 5 & Super Informal & Perfect & Equivalent \\
+ \hline
+ 4 & Informal & Comprehensible & Mostly Equivalent \\
+ \hline
+ 3 & Neutral & Somewhat Comprehensible & Some Details Present \\
+ \hline
+ 2 & Formal & Incomprehensible & Same Topic \\
+ \hline
+ 1 & Super Formal & Incomplete / Fragment & Completely Dissimilar \\
+ \hline
+\end{tabular}
+\caption{Scoring guide for human evaluation of GYAFC test samples.}
+\label{eval-score-guide}
+\end{table}
+
+I sampled 100 sentences from the GYAFC test dataset, and evaluated their output from each of the three NMT models over three dimensions: formality, fluency, and meaning preservation. I modified my scoring guide from that of \cite{rao2018gyafc}: it can be seen at Table \ref{eval-score-guide}. As a single person making judgments, my evaluation may not be identical to that of others, but at least it would be consistent over the evaluated data.
+
+\begin{table}[h]
+\centering
+ \begin{tabular}{|| c | c | c | c | c ||} 
+ \hline
+ Model & Formality & Fluency & Meaning & Combined \\ [0.3ex] 
+ \hline\hline
+ Base & $3.47$ & $4.43$ & $4.54$ & $4.15$ \\
+ \hline
+ Copy & $3.58$ & $4.37$ & $4.38$ & $4.11$ \\
+ \hline
+ CopyNoEnt & $3.49$ & $4.44$ & $4.49$ & $4.14$ \\
+ \hline
+\end{tabular}
+\caption{Human evaluation output for 100 samples of the GYAFC test set.}
+\label{gyafc-human-eval}
+\end{table}
+
+Averaged scores are given in Table \ref{gyafc-human-eval}, including a composite score that is the average of the three dimensions. The scores are very close, though the Base model, in contrast to the BLEU score result, edges the other two out just barely. Interestingly, the Copy model diverges the most from the other two. Even where there is not a lot in these results that can differentiate the three models, it can be said that the output is, generally, good: fluency and meaning have remained mostly intact, and the level of informality is also high among all models. With only 100 samples, it is hard to draw too strong a conclusion; in future research a more comprehensive manual evaluation would likely give more interesting results.
+
+\section{Discussion}
+
+Generally, the automatically calculated results for the three models are quite positive. BLEU scores are higher than presented benchmarks in \cite{rao2018gyafc}, the Lexical Formality scores support the idea that the models in translating sentences do in fact lower their formality (for both the GYAFC test data and the out-of-domain Microsoft data), and human evaluation done on a sampling of the GYAFC test set shows promise for the overall capability of the models. Results among the metrics are somewhat inconsistent in terms of presenting one of the three models as better-performing than the others: in fact, the Base model has the highest composite score in human evaluation and Lexical Formality, but CopyNoEnt succeeds with the BLEU score with a larger advantage over the other two.
+
+Still, these numbers alone can be misleading. A deeper look at the metrics themselves, and a closer look at examples of output sentences, is required in order to have a thorough picture of how NMT has performed with this task.
+
+\subsection{Potential Issues with BLEU Score}
+
+Firstly, it should be noted that achieving a higher BLEU score with these models than \cite{rao2018gyafc} presented with similar architectures is not immediately a reason to claim a superior methodology. BLEU scores are based off of n-gram counts and measure how similar a predicted output sentence is to the true target sentence. I carried out normalization tasks during the preprocessing stage that were not done in \cite{rao2018gyafc}, purposefully removing some features of informality from the informal sentences. By doing this, the formal source and informal target sentences became more similar to one another. 
+
+This matters because in applying NMT to style transfer problems, models may, and in fact \textit{should}, learn to keep some parts of the source text perfectly intact. (Hence, copy attention as included here and introduced by \cite{jhamtani2017copy}.) When the source and target sentences are similar to one another, the more a model learns to simply copy from the source as its output, the higher the BLEU score will be.
+
+This, in fact, is representative of a larger problem with using the BLEU score to evaluate intralanguage translation. With two separate languages, if a model copies source data, the BLEU score will be 0 or close to 0 since the n-grams in the source language which match the target will be few to none, and this problem is avoided. Metrics without this loophole, applicable to style transfer in general or specific to formal-informal text translation, would make evaluation of tasks like this one more robust.
+
+\subsection{GYAFC Data Inspection}
+
+\begin{table}[h]
+\centering
+ \begin{tabular}{|| p{4cm} | p{8cm} ||} 
+ \hline
+ Formal & Base, Copy, CopyNoEnt Informal Translations \\ [0.3ex] 
+ \hline\hline
+ Are you posing a rhetorical question? & 
+    What kind of question is that ? 
+    \newline What are you asking a question ? 
+    \newline What kind of question is that ? \\
+ \hline
+ This is difficult due to the many temptations. & 
+    This is hard because of the many temptations . 
+    \newline This is a tough one , because most of temptations . 
+    \newline This is hard because of all temptations ! \\
+ \hline
+ You should take the time to become acquainted with both equally without dating either of them. & 
+    Take the time to get to know both of them equally without dating either . 
+    \newline You should get to know both of them without both of them .
+    \newline Just make sure you get to know both of them equally . \\
+ \hline
+ But that is her way. You could attempt it that way or you could remain watchful. & 
+    But that 's her way you could try it that way or just keep watching . 
+    \newline But that 's her way , you could try it that way or you could just hang out .
+    \newline But that 's her way ... you could try it or keep watching ! \\
+ \hline
+ Most importantly, be genuine. & 
+    But most of all be real .
+    \newline But most of all , be real !
+    \newline Most of all , be true , be true ! \\
+ \hline
+\end{tabular}
+\caption{Some examples of results from the three models on the GYAFC test set.}
+\label{gyafc-results-picked}
+\end{table}
+
+Given the uncertainty around the automatic metrics, it was important to inspect the predicted output manually. Overall, my impressions confirmed the general impression gained from the automatic evaluation: on the GYAFC data, translations are of a high quality. Some examples are given in Table \ref{gyafc-results-picked}.
+
+\begin{table}[h]
+\centering
+ \begin{tabular}{|| p{4cm} | p{8cm} ||} 
+ \hline
+ Formal & Base, Copy, CopyNoEnt Informal Translations \\ [0.3ex] 
+ \hline\hline
+ Continuously attempt to impress her. & 
+    Putin ... try to impress her . 
+    \newline Or try to impress her .
+    \newline Continuously try to impress her . \\
+ \hline
+ Discard him, it would be better. & 
+    Putin , it would be better . 
+    \newline Discard him it would be better
+    \newline Discard him it would be better \\
+ \hline
+ Egotism is a man's attribute, you just have to live with it. & 
+    Putin is a man you just have to live with it .
+    \newline Egotism its a man thing you just have to live with it
+    \newline Egotism its a guy , you just have to live with it \\
+ \hline
+\end{tabular}
+\caption{Examples where the Base model predicted ``Putin'', but the Copy models did not.}
+\label{gyafc-results-putin}
+\end{table}
+
+Patterns of differences between the three models were difficult to pick out. But one set of examples stands out in particular and deserves to be addressed. The Base model has a tendency to output entities that were not in the input sentence as the first token. Examples are shown in Table \ref{gyafc-results-putin}. As can be seen, the Copy and CopyNoEnt models no longer have this problem, showing that the changes made to them (in particular by adding copy attention) did have a positive effect.
+
+\subsection{Microsoft Data Inspection}
+
+\begin{table}[h]
+\centering
+ \begin{tabular}{|| p{6cm} | p{6cm} ||} 
+ \hline
+ Formal & Informal \\ [0.3ex] 
+ \hline\hline
+ The following PowerShell script executes a script and collects its results into a specified table . & 
+    Well the following : Caleb script ( sp ) and they are pretty good in the movie . \\
+ \hline
+ Failback will not work if a different IP address is used for the restored configuration server . & 
+    Brendon , I do n't know if a different woman was in the same alizee ... \\
+ \hline
+ If the users are associated with other workspaces , then they can continue using Log Analytics with those other workspaces . & 
+    And if the guys are into that area , that they can go on and on . \\
+ \hline
+ Azure DNS does not currently support purchasing of domain names . & 
+    I think I do n't think I have a pay for names . \\
+ \hline
+ The official Apache versions of all HDInsight 3.6 components are listed below . & 
+    Well , the offical apache vadivelu stuff are listed below : ) \\
+ \hline
+\end{tabular}
+\caption{Examples of the informal translations of the Microsoft data.}
+\label{microsoft-output-examples}
+\end{table}
+
+Despite the promising Lexical Formality scores on the output of the model on the Microsoft Azure sentences, an evaluation would not be complete without actually looking at the predicted informal sentences. Even at first glance, though, the results were clearly not up to par in either fluency or meaning preservation; while the models may have performed well on unseen data in the same domain, they performed much worse on these highly technical documents. In fact, as shown in Table \ref{microsoft-output-examples}, the model appeared to want to keep talking about celebrities or relationships, regardless of what the input sentence contained.
+
+Regardless of the attempts to make the models generalize further to different domains, it appears that the influence of the radically different content in the training dataset was too strong.
+
+\section{Takeaway}
+
+These experiments confirmed my initial hypothesis that a different primary approach would be necessary for this project. Firstly, even though the fluency and meaning preservation were good for the output on the GYAFC data, I did not feel it was good enough for this use case: for professional writers to improve their text, suggested replacements ought to be closer to fluent and better preserved. Even where translated text was \textit{correct}, it wasn't always natural. This project asked for a model that would be less risky, more precise.
+
+Arguably, the grammatical issues are purposeful on the model's part --- despite the preprocessing stage, the GYAFC informal sentences still contained errors in spelling and grammar. This is the second important takeaway: in a practical sense, there is not so much use in developing a model which makes text \textit{too} informal. This begged the question: what, then, is a better and more appropriate dataset for this problem? Furthermore, if the Yahoo! Answers data is \textit{too} informal, then what amount of informal is just right, and how can it be defined?
